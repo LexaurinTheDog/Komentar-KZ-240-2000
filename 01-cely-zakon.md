@@ -282,19 +282,55 @@ A contrario: práva, která **nelze omezit ani za nouzového stavu ani za stavu 
 >
 > *- b) zákaz vstupu, pobytu a pohybu osob na vymezených místech nebo území,*
 >
-> *- c) ukládání pracovní povinnosti, pracovní výpomoci nebo povinnosti poskytnout věcné prostředky,*
+> *- c) ukládání pracovní povinnosti, pracovní výpomoci nebo povinnosti poskytnout věcné prostředky37),*
 >
 > *- d) bezodkladné provádění staveb, stavebních prací, terénních úprav nebo odstraňování staveb anebo porostů za účelem zmírnění nebo odvrácení ohrožení vyplývajícího z krizové situace,*
 >
 > *- e) zaměstnavateli, služebnímu orgánu nebo služebnímu funkcionáři uložení povinnosti výkonu práce na dálku nebo výkonu služby z jiného místa.*
 >
-> *(2) Vláda v době trvání nouzového stavu je dále oprávněna [...]*
+> *(2) Vláda v době trvání nouzového stavu je dále oprávněna*
 >
-> *(3) Vláda v době trvání nouzového stavu je dále oprávněna nařídit zákaz [devizových operací a finančních transakcí — písm. a) až g)]*
+> *- a) nařídit povinné hlášení přechodné změny pobytu osob, kterou se rozumí opuštění místa trvalého pobytu osoby, k němuž je hlášena v místě, ze kterého byla organizovaně evakuována nebo které o své vůli opustila z důvodu ohrožení svého života nebo zdraví, pokud tato změna pobytu bude delší než 3 dny,*
+>
+> *- b) přijmout opatření k ochraně státních hranic, k pobytu cizinců nebo osob bez státní příslušnosti, v oblasti nebezpečných chemických látek a přípravků, jaderných zařízení a zdrojů ionizujícího záření,*
+>
+> *- c) nařídit přemístění osob ve vazbě nebo ve výkonu trestu odnětí svobody do jiné věznice nebo vyloučit volný pohyb těchto osob mimo věznici,*
+>
+> *- d) nařídit nasazení vojáků v činné službě a jednotek požární ochrany k provádění krizových opatření,*
+>
+> *- e) nařídit využití hospodářských opatření pro krizové stavy39) v souvislosti s přípravou na stav ohrožení státu,*
+>
+> *- f) nařídit vykonávání péče o děti a mládež, pokud tuto péči nemohou v krizové situaci vykonávat rodiče nebo jiný zákonný zástupce,*
+>
+> *- g) nařídit přednostní zásobování*
+>
+> *  - 1. dětských, zdravotnických nebo sociálních zařízení,*
+>
+> *  - 2. ozbrojených sil, bezpečnostních sborů a složek integrovaného záchranného systému, pokud se podílejí na plnění krizových opatření,*
+>
+> *  - 3. subjektu kritické infrastruktury, a to v nezbytném rozsahu k zajištění základní služby podle zákona o kritické infrastruktuře,*
+>
+> *- h) zabezpečit náhradní způsob rozhodování o dávkách sociálního zabezpečení (péče), kterými se rozumí dávky nemocenského pojištění, důchodového pojištění, důchodového zabezpečení, státní sociální podpory, dávky pomoci v hmotné nouzi a dávky sociální péče,9) a o jejich výplatě.*
+>
+> *(3) Vláda v době trvání nouzového stavu je dále oprávněna nařídit zákaz*
+>
+> *- a) nabývání peněžních prostředků v cizí měně, cenných papírů a zaknihovaných cenných papírů, jejichž emitentem je osoba s trvalým pobytem nebo sídlem mimo území České republiky, jakož i penězi ocenitelných práv a závazků od nich odvozených, za českou měnu,*
+>
+> *- b) provádění veškerých plateb z České republiky do zahraničí, včetně plateb mezi poskytovateli platebních služeb a jejich pobočkami,*
+>
+> *- c) ukládání peněžních prostředků na účty v zahraničí,*
+>
+> *- d) prodej cenných papírů a zaknihovaných cenných papírů, jejichž emitentem je osoba s trvalým pobytem nebo sídlem v České republice, osobám s trvalým pobytem nebo sídlem mimo území České republiky,*
+>
+> *- e) přijímání úvěrů od osob s trvalým pobytem nebo sídlem mimo území České republiky,*
+>
+> *- f) zřizování účtů v České republice osobám s trvalým pobytem nebo sídlem mimo území České republiky a ukládání peněžních prostředků na jejich účty,*
+>
+> *- g) provádění veškerých plateb ze zahraničí do České republiky mezi poskytovateli platebních služeb a jejich pobočkami.*
 >
 > *(4) Povinnosti uvedené v odstavci 1 písm. c) lze uložit pouze tehdy, pokud nelze tyto činnosti a věci zajistit smluvně, subjekt plnění klade zjevně finančně a časově nevýhodné podmínky nebo plnění odmítne a přitom hrozí nebezpečí z prodlení.*
 >
-> *(5) Zákazy uložené krizovým opatřením vydaným na základě odstavce 3 se neuplatní, jde-li o obchody České republiky nebo České národní banky. [...]*
+> *(5) Zákazy uložené krizovým opatřením vydaným na základě odstavce 3 se neuplatní, jde-li o obchody České republiky nebo České národní banky. Tyto zákazy se dále neuplatní na držitele zvláštního povolení, které může být vydáno Českou národní bankou pro dobu nouzového stavu z důvodu ohrožení života a zdraví osob a bezpečnosti státu a pro operace, které povedou k prokazatelnému zlepšení stavu platební bilance, a to v rozsahu příslušného povolení.*
 
 **Výklad:**
 
@@ -492,7 +528,7 @@ Hejtman **řídí a kontroluje** činnost starostů ORP a starostů obcí (odst.
 
 > **§ 15**
 >
-> *(1) Hasičský záchranný sbor kraje při přípravě na krizové situace a jejich řešení*
+> *(1) Hasičský záchranný sbor kraje16) při přípravě na krizové situace a jejich řešení*
 >
 > *- a) organizuje součinnost mezi správními úřady a obcemi v kraji,*
 >
@@ -500,9 +536,43 @@ Hejtman **řídí a kontroluje** činnost starostů ORP a starostů obcí (odst.
 >
 > *- c) zpracovává krizový plán kraje,*
 >
-> *- d) zpracovává krizový plán obcí s rozšířenou působností; [...]*
+> *- d) zpracovává krizový plán obcí s rozšířenou působností; při jeho zpracování vyžaduje v nezbytném rozsahu součinnost organizačních složek státu, orgánů územních samosprávných celků, právnických osob a podnikajících fyzických osob,*
 >
-> *(2) Hasičský záchranný sbor kraje je oprávněn za účelem přípravy na krizové situace vyžadovat, shromažďovat a evidovat údaje o [9 kategoriích — zdravotnická a ubytovací zařízení, výrobní a skladovací kapacity, nebezpečné látky, dopravní prostředky, vodovody, kanalizace, stavby civilní ochrany, zemědělství atd.] pokud tyto údaje jsou nezbytné pro zpracování krizových plánů pro přípravu a řešení krizových situací.*
+> *- e) plní úkoly stanovené Ministerstvem vnitra, krizovým plánem České republiky a úkoly stanovené hejtmanem v rozsahu krizového plánu kraje a starostou obce s rozšířenou působností v rozsahu krizového plánu obce s rozšířenou působností,*
+>
+> *- f) předává Ministerstvu vnitra, hejtmanovi a starostovi obce s rozšířenou působností na jejich žádost údaje podle § 15 odst. 2.*
+>
+> *(2) Hasičský záchranný sbor kraje je oprávněn za účelem přípravy na krizové situace vyžadovat, shromažďovat a evidovat údaje o*
+>
+> *- a) kapacitách zdravotnických, ubytovacích a stravovacích zařízení,*
+>
+> *- b) předmětu a rozsahu činnosti právnických osob a podnikajících fyzických osob v oblasti výroby a služeb, výrobních programech a výrobních kapacitách, rozsahu zásob surovin, polotovarů a hotových výrobků, počtech zaměstnanců a jejich kvalifikaci,*
+>
+> *- c) počtech zaměstnanců ve výrobních provozech a počtech osob bydlících v místech předpokládané evakuace,*
+>
+> *- d) množství, složení a umístění vyráběných, používaných nebo skladovaných nebezpečných látek,*
+>
+> *- e) množství zadržené vody ve vodních nádržích,*
+>
+> *- f) počtech a typech dopravních, mechanizačních a výrobních prostředků ve vlastnictví právnických nebo fyzických osob a druzích vyrobené nebo zachycené přírodní energie,*
+>
+> *- g) uspořádání vnitřních prostorů výrobních objektů, popřípadě jiných objektů důležitých pro řešení krizových situací, vodovodech, kanalizacích, produktovodech a energetických sítích,*
+>
+> *- h) stavbách určených k ochraně obyvatelstva při krizových situacích, k zabezpečení záchranných prací, ke skladování materiálu civilní ochrany a k ochraně a ukrytí obsluh důležitých provozů,*
+>
+> *- i) výměrách pěstovaných zemědělských plodin a druhu a počtu zemědělských zvířat chovaných právnickými nebo fyzickými osobami,*
+>
+> *pokud tyto údaje jsou nezbytné pro zpracování krizových plánů pro přípravu a řešení krizových situací.*
+>
+> *(3) Hasičský záchranný sbor kraje*
+>
+> *- a) seznamuje obce a právnické nebo fyzické osoby na jejich žádost s charakterem možného ohrožení, s připravenými krizovými opatřeními a se způsobem jejich provedení,*
+>
+> *- b) vytváří podmínky pro činnost krizového štábu kraje a krizového štábu obce s rozšířenou působností,*
+>
+> *- c) vede evidenci údajů o přechodných změnách pobytu osob (§ 39d) a předává údaje v ní vedené Ministerstvu vnitra,*
+>
+> *- d) vede evidenci údajů o přechodných změnách pobytu osob za stavu nebezpečí (§ 39e).*
 
 **Výklad:**
 
@@ -583,9 +653,9 @@ Klíčový rozdíl oproti hejtmanovi: **starosta ORP nedisponuje vlastním katal
 >
 > *- a) za účelem přípravy na krizové situace a jejich řešení může zřídit krizový štáb obce jako svůj pracovní orgán,*
 >
-> *- b) zajišťuje za krizové situace provedení stanovených krizových opatření v podmínkách správního obvodu obce; [...]*
+> *- b) zajišťuje za krizové situace provedení stanovených krizových opatření v podmínkách správního obvodu obce; správní úřady se sídlem na území obce, právnické osoby a podnikající fyzické osoby jsou povinny stanovená krizová opatření splnit,*
 >
-> *- c) plní úkoly stanovené starostou obce s rozšířenou působností a orgány krizového řízení [...]*
+> *- c) plní úkoly stanovené starostou obce s rozšířenou působností a orgány krizového řízení při přípravě na krizové situace a při jejich řešení a úkoly a opatření uvedené v krizovém plánu kraje a krizovém plánu obce s rozšířenou působností.*
 >
 > *(3) V době krizového stavu starosta obce*
 >
@@ -632,7 +702,7 @@ Institut se v praxi (od r. 2001) nikdy nepoužil.
 
 > **§ 22**
 >
-> *(1) Při vyhlášení nouzového stavu nebo stavu nebezpečí starosta obce zajišťuje provedení krizových opatření v podmínkách obce. Je-li k tomuto účelu nutné vydat nařízení obce, nabývá nařízení obce účinnosti okamžikem jeho vyvěšení na úřední desce obecního úřadu. [...]*
+> *(1) Při vyhlášení nouzového stavu nebo stavu nebezpečí starosta obce zajišťuje provedení krizových opatření v podmínkách obce. Je-li k tomuto účelu nutné vydat nařízení obce,17) nabývá nařízení obce účinnosti okamžikem jeho vyvěšení na úřední desce obecního úřadu. Nařízení obce se zveřejní též dalšími způsoby v místě obvyklými, zejména prostřednictvím hromadných informačních prostředků a místního rozhlasu. Stejný postup se použije při vyhlašování změn obsahu již vydaného nařízení obce.*
 >
 > *(2) Náklady vynaložené na provedení krizových opatření stanovených obcí uhrazuje obec z obecního rozpočtu.*
 
@@ -787,11 +857,11 @@ Cílem režimu ZS je **rychlé a flexibilní zajištění důvěrnosti** krizov�
 
 > **§ 28**
 >
-> *(1) Vláda, ministerstva a jiné ústřední správní úřady, orgány krajů, územní správní úřady, orgány obcí s rozšířenou působností a orgány obcí stanoví, organizují a provádějí opatření uvedená v tomto zákoně v mezích své působnosti vymezené zvláštními právními předpisy.*
+> *(1) Vláda, ministerstva a jiné ústřední správní úřady, orgány krajů, územní správní úřady, orgány obcí s rozšířenou působností a orgány obcí stanoví, organizují a provádějí opatření uvedená v tomto zákoně v mezích své působnosti vymezené zvláštními právními předpisy.21)*
 >
-> *(2) Kancelář Poslanecké sněmovny, Kancelář Senátu, Kancelář prezidenta republiky, Nejvyšší kontrolní úřad, Úřad pro zahraniční styky a informace a Bezpečnostní informační služba zpracovávají svůj krizový plán, který schvaluje [...] jejich vedoucí, prezident nebo ředitelé.*
+> *(2) Kancelář Poslanecké sněmovny, Kancelář Senátu, Kancelář prezidenta republiky, Nejvyšší kontrolní úřad, Úřad pro zahraniční styky a informace a Bezpečnostní informační služba zpracovávají svůj krizový plán, který schvaluje v případě Kanceláře Poslanecké sněmovny, Kanceláře Senátu a Kanceláře prezidenta republiky jejich vedoucí, v případě Nejvyššího kontrolního úřadu jeho prezident a v případě Úřadu pro zahraniční styky a informace a Bezpečnostní informační služby jejich ředitelé.*
 >
-> *(3) Při řešení krizových situací se přiměřeně použijí ustanovení o provádění záchranných a likvidačních prací podle zvláštního zákona (239/2000 Sb.).*
+> *(3) Při řešení krizových situací se přiměřeně použijí ustanovení o provádění záchranných a likvidačních prací podle zvláštního zákona.2)*
 
 **Výklad:**
 
@@ -829,13 +899,13 @@ Odst. 3: Pro **operativní fázi** řešení krizové situace se **přiměřeně
 >
 > *(2) V případě, že zpracovatel krizového plánu zahrne do krizového plánu konkrétní právnickou osobu nebo podnikající fyzickou osobu, je tato povinna na žádost hasičského záchranného sboru kraje za účelem přípravy na krizové situace a jejich řešení bezplatně poskytnout a aktualizovat požadované podklady uvedené v § 15 odst. 2 a další související údaje. Ministerstva, jiné ústřední správní úřady, kraje, obce s rozšířenou působností nebo obce mohou uzavřít s právnickými osobami a s podnikajícími fyzickými osobami smlouvy ke splnění úkolů vyplývajících z krizových plánů.*
 >
-> *(3) Právnické osoby a podnikající fyzické osoby jsou povinny poskytnout věcné prostředky potřebné k řešení krizové situace na výzvu oprávněného orgánu krizového řízení, pokud zvláštní právní předpis nestanoví jinak. Poskytnutím věcných prostředků nesmí dojít k narušení poskytování základní služby subjektem kritické infrastruktury.*
+> *(3) Právnické osoby a podnikající fyzické osoby jsou povinny poskytnout věcné prostředky potřebné k řešení krizové situace na výzvu oprávněného orgánu krizového řízení, pokud zvláštní právní předpis nestanoví jinak.22) Poskytnutím věcných prostředků18) nesmí dojít k narušení poskytování základní služby subjektem kritické infrastruktury.*
 >
 > *(4) Dojde-li za krizového stavu k ohrožení života, zdraví nebo hrozí-li škody velkého rozsahu na majetku nebo životním prostředí, jsou právnické osoby a podnikající fyzické osoby povinny splnit úkoly, které jdou nad rámec opatření uvedených v krizových plánech, pokud jim tyto úkoly uloží hejtman nebo starosta obce s rozšířenou působností nebo starosta obce.*
 >
-> *(5) Povinnost poskytnout věcný prostředek při krizových stavech ukládá právnickým osobám a podnikajícím fyzickým osobám hejtman. Při nebezpečí z prodlení je oprávněn tuto povinnost uložit právnické osobě a podnikající fyzické osobě také starosta, který o uložení povinnosti následně informuje hejtmana. Hejtman nebo starosta, který uložil povinnost poskytnout věcný prostředek, zabezpečí jeho vrácení tomu, jenž věcný prostředek poskytl, a současně mu vydá potvrzení o využití tohoto prostředku. [...]*
+> *(5) Povinnost poskytnout věcný prostředek23) při krizových stavech ukládá právnickým osobám a podnikajícím fyzickým osobám hejtman. Při nebezpečí z prodlení je oprávněn tuto povinnost uložit právnické osobě a podnikající fyzické osobě také starosta, který o uložení povinnosti následně informuje hejtmana. Hejtman nebo starosta, který uložil povinnost poskytnout věcný prostředek, zabezpečí jeho vrácení tomu, jenž věcný prostředek poskytl, a současně mu vydá potvrzení o využití tohoto prostředku. Potvrzení obsahuje zejména údaje o uživateli, popřípadě vlastníkovi věcného prostředku, nezbytné identifikační údaje věcného prostředku, datum a hodinu poskytnutí a vrácení věcného prostředku, stav opotřebení a poškození, poučení o náhradě a označení orgánu, který potvrzení vydal.*
 >
-> *(6) Výkon uložené pracovní povinnosti a pracovní výpomoci se považuje za jiný úkon v obecném zájmu.*
+> *(6) Výkon uložené pracovní povinnosti a pracovní výpomoci se považuje za jiný úkon v obecném zájmu50).*
 >
 > *(7) Na výzvu příslušného správního úřadu je provozovatel stavby, zařízení, prostředku nebo veřejné infrastruktury, o kterých lze oprávněně předpokládat, že splňují kritéria pro určení prvku kritické infrastruktury, povinen poskytnout informace nezbytné k určení prvku kritické infrastruktury a prvku evropské kritické infrastruktury a další součinnost při ochraně kritické infrastruktury.*
 >
@@ -934,11 +1004,11 @@ Vztah k § 4 a § 25 zákona o ČT a ČRo (povinnost veřejné služby zahrnují
 >
 > *(4) Plnění povinností uvedených v odstavci 3 může fyzická osoba odmítnout, pokud by jejich plněním ohrozila život nebo zdraví vlastní nebo jiných osob anebo pokud jsou povinnosti jí ukládané v rozporu se zákonem.*
 >
-> *(5) Obsah, rozsah a místo prací v rámci pracovní povinnosti v době nouzového stavu a stavu ohrožení státu stanoví fyzické osobě hejtman pracovním příkazem. [...]*
+> *(5) Obsah, rozsah a místo prací v rámci pracovní povinnosti v době nouzového stavu a stavu ohrožení státu stanoví fyzické osobě hejtman pracovním příkazem. Pracovní příkaz obsahuje jméno, popřípadě jména, příjmení, datum narození a bydliště, den a místo nástupu pracovní povinnosti, druh práce, předpokládanou délku plnění povinnosti, poučení a označení orgánu, který pracovní příkaz vydal.*
 >
-> *(6) Ten, kdo v době krizového stavu uložil pracovní výpomoc, vydá po jejím skončení fyzické osobě potvrzení. [...]*
+> *(6) Ten, kdo v době krizového stavu uložil pracovní výpomoc, vydá po jejím skončení fyzické osobě potvrzení. Potvrzení obsahuje jméno, popřípadě jména, příjmení, datum narození a bydliště, den zahájení a ukončení pracovní výpomoci, počet odpracovaných hodin, druh a místo práce, poučení o náhradě a označení orgánu, který potvrzení vydal.*
 >
-> *(7) V případě, že fyzická osoba není schopna ze zdravotních důvodů uloženou pracovní povinnost nebo pracovní výpomoc konat, doloží tuto skutečnost lékařským posudkem, který vystaví poskytovatel zdravotních služeb určený orgánem, jenž vydal pracovní příkaz nebo uložil pracovní výpomoc. [...]*
+> *(7) V případě, že fyzická osoba není schopna ze zdravotních důvodů uloženou pracovní povinnost nebo pracovní výpomoc konat, doloží tuto skutečnost lékařským posudkem, který vystaví poskytovatel zdravotních služeb určený orgánem, jenž vydal pracovní příkaz nebo uložil pracovní výpomoc. Tento poskytovatel je povinen přednostně provést lékařskou prohlídku příslušné fyzické osoby a posoudit zdravotní způsobilost osoby k předpokládané práci. Úhrada nákladů vynaložených na provedení prohlídky bude vyúčtována k tíži orgánu, který vydal pracovní příkaz nebo uložil pracovní výpomoc.*
 >
 > *(8) Při ukládání povinnosti poskytnout věcný prostředek se postupuje obdobně podle § 29 odst. 5.*
 
