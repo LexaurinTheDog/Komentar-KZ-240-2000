@@ -1280,6 +1280,13 @@ Orgán krizového řízení může požadovat **regresní úhradu** od původce 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1101/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89A1703A6281598AC1258C140052AF59?openDocument) — 13. 11. 2024, kat. A
+  > „Mimořádná opatření vydaná Ministerstvem zdravotnictví dle § 69 zákona č. 258/2000 Sb., o ochraně veřejného zdraví, v době krizového stavu za účelem řešení krizové situace, příp. odstranění jejích následků, představují krizová opatření vydaná dle § 9 odst. 4 písm. b) zákona č. 240/2000 Sb., krizového zákona, a za škodu způsobenou jejich prováděním odpovídá stát dle § 36 odst. 1 krizového zákona"
+- *NS* [30 Cdo 63/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6C5881E3CF4E95EC1258A74001B849E?openDocument) — 31. 8. 2023, kat. A
+  > „Krizové opatření, jehož předmětem je omezení či zákaz maloobchodního prodeje a které je přijato ve formě usnesení vlády, je ve smyslu § 36 odst. 1 zák. č. 240/2000 Sb. provedeno v okamžiku, kdy nastaly jeho škodu působící účinky, přičemž není právně významné, že se poškozený omezení stanovenému krizovým opatřením podrobil dobrovolně"
+
 #### Objektivní odpovědnost státu za škodu z krizových opatření
 
 § 36 zakotvuje **objektivní odpovědnost státu** za škodu způsobenou v příčinné souvislosti s krizovými opatřeními. Klíčové znaky:
