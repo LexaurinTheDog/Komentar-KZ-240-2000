@@ -43,6 +43,42 @@ Krizový zákon je v systému bezpečnostní legislativy zákonem rámcovým —
 - **Zákon o kritické infrastruktuře** (od r. 2024 zákon č. 137/2024 Sb. — předtím transpozice směrnice 2008/114/ES do zákona 240/2000 Sb. a krizového zákona) — určení prvků kritické infrastruktury a evropské kritické infrastruktury.
 - **Zákon č. 238/2000 Sb., o Hasičském záchranném sboru ČR**.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad uloží provozovateli skladu chemikálií povinnost poskytnout v rámci přípravy na krizové situace údaje o skladovaných nebezpečných látkách s odůvodněním, že jde o „zajišťování obrany ČR". Provozovatel (právnická osoba, adresát normy) odmítá s tím, že krizový zákon se na obranu nevztahuje. Účastníci: krajský úřad jako orgán krizového řízení a provozovatel. Bylo by třeba obstarat: výzvu úřadu, popis tvrzeného ohrožení a krizový plán, do něhož má být subjekt zahrnut.
+
+**2. Právní otázka.** Vztahuje se krizový zákon na danou situaci, je-li úřadem odůvodněna potřebou „obrany ČR před vnějším napadením"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 — předmět úpravy s negativním vymezením (vyloučení obrany před vnějším napadením).
+- *Související ustanovení téhož zákona:* § 39 odst. 4 (subsidiární aplikace krizového zákona i za stavu ohrožení státu a válečného stavu, nestanoví-li jinak zvláštní předpis); § 15 odst. 2 a § 29 odst. 2 (informační povinnost).
+- *Související předpisy:* zákon č. 222/1999 Sb., o zajišťování obrany ČR (pozn. pod čarou 1); ústavní zákon č. 110/1998 Sb. (krizové stavy).
+- *Judikatura:* obecná maxima Ústavního soudu (Pl. ÚS 8/20), že pravomoc orgánu musí mít zákonný podklad a nelze ji rozšiřovat nad rámec zákona.
+
+**4. Subsumpce.** Znak „příprava na krizové situace nesouvisející s obranou před vnějším napadením" — pokud ohrožení (únik chemikálií, havárie) nemá povahu vnějšího vojenského napadení, je věc plně v režimu krizového zákona; odkaz úřadu na „obranu" je nesprávnou kvalifikací. Informační povinnost podle § 15 odst. 2 a § 29 je tedy uložitelná, ale na základě správného právního titulu (příprava na krizové situace), nikoli obrany.
+
+**5. Řešení.** Úřad měl výzvu odůvodnit přípravou na krizové situace podle § 15 odst. 2 ve spojení s § 29 odst. 2, nikoli obranou. Vadná právní kvalifikace nečiní povinnost neexistující, je-li dán věcný podklad; provozovatel by neměl odmítnout zcela, ale může požadovat opravu titulu. Pokud by šlo skutečně o vnější napadení, aplikoval by se zákon č. 222/1999 Sb. Procesně: úřad upraví odůvodnění výzvy.
+
+**6. Varianty.** (a) Jde-li o mobilizační přípravu armády v souvislosti s vnějším napadením, věc spadá pod 222/1999 Sb. a krizový zákon se použije jen subsidiárně (§ 39 odst. 4). (b) Je-li vyhlášen stav ohrožení státu z důvodu obrany, plní orgány krizového řízení úkoly podle obou zákonů současně.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Negativní vymezení v § 1 brání jakékoli aplikaci na bezpečnostní hrozby vojenského charakteru." — Neutralizace: § 39 odst. 4 výslovně přikazuje subsidiární aplikaci krizového zákona i za stavu ohrožení státu a válečného stavu; vyloučení v § 1 se týká primárního předmětu, nikoli úplného vyloučení.
+- *Protiargument:* „Smíšené ohrožení nelze podřadit pod žádný zákon." — Neutralizace: zákony se nevylučují, nýbrž tvoří dělenou působnost; při souběhu se uplatní oba (viz tabulka v komentáři).
+- *Slabé místo:* hranice „vnějšího napadení" je v hraničních (hybridních) hrozbách neostrá — chybí ostrá zákonná definice, což může vést ke kompetenčním sporům řešeným vládou.
+
+##### H. Praktický závěr
+
+Ustanovení § 1 určuje věcný rozsah zákona čtyřmi předměty úpravy a klíčovým negativním vymezením (vnější napadení → zákon 222/1999 Sb.). V praxi slouží k prvotní kvalifikaci, zda se vůbec použije krizový zákon, anebo obranná úprava, případně oba souběžně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má ohrožení povahu vnějšího vojenského napadení? Pokud ano → primárně 222/1999 Sb.
+- [ ] Jde o přípravu na krizové situace nebo jejich řešení nesouvisející s vnějším napadením? → krizový zákon.
+- [ ] Je vyhlášen stav ohrožení státu / válečný stav z důvodu obrany? → souběh podle § 39 odst. 4.
+- [ ] Je pravomoc orgánu i ukládaná povinnost odůvodněna správným zákonným titulem?
+
+**Typicky rozhodné důkazy / podklady:** popis a povaha ohrožení, výzva/akt orgánu krizového řízení s právní kvalifikací, krizový plán, případné vyhlášení krizového stavu.
+
 ---
 
 #### § 2 — Vymezení pojmů
@@ -107,6 +143,42 @@ Pracovní povinnost je **závažnější zásah do osobní svobody** než pracov
 Pojmově širokým vymezením („movitá nebo nemovitá věc nebo poskytovaná služba") zákon umožňuje uložit povinnost k poskytnutí prakticky čehokoliv — od osobních automobilů, stavebních strojů, ubytovacích kapacit až po překladatelské, lékařské či stavební služby. Klíčové je kritérium užitečnosti („lze využít při řešení krizové situace"), které tvoří přirozenou hranici proporcionality.
 
 Vlastní mechanismus uložení povinnosti poskytnout věcný prostředek upravuje § 29 odst. 5 (právnické osoby), § 31 odst. 8 (fyzické osoby). Náhrada se poskytuje podle § 35.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu (povodeň) hejtman uloží pekárně povinnost dodávat denně 500 bochníků chleba evakuovaným do nouzového ubytování po dobu tří dnů. Pekárna namítá, že nejde o „pracovní povinnost" jejích zaměstnanců, nýbrž o nepřípustné vyvlastnění výroby. Účastníci: hejtman (orgán krizového řízení) a pekárna (podnikající právnická osoba). Doklady: rozhodnutí/výzva hejtmana, potvrzení o poskytnutí, kalkulace nákladů.
+
+**2. Právní otázka.** Spadá uložená povinnost pod „pracovní výpomoc" (písm. e), „věcný prostředek" (písm. f) jako „poskytovaná služba", anebo jde o nepřípustné opatření mimo katalog?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 písm. d–f (pracovní povinnost, pracovní výpomoc, věcný prostředek — definice).
+- *Související ustanovení téhož zákona:* § 6 odst. 1 písm. c) (nařízení za nouzového stavu), § 29 odst. 3 a 5 (poskytnutí věcného prostředku PO), § 35 (peněžní náhrada).
+- *Související předpisy:* § 203 zák. č. 262/2006 Sb. (jiný úkon v obecném zájmu); čl. 9 odst. 2 a čl. 11 Listiny.
+- *Judikatura:* maxima ÚS o nezbytnosti a proporcionalitě zásahu (Pl. ÚS 8/20, Pl. ÚS 106/20).
+
+**4. Subsumpce.** „Poskytovaná služba" v písm. f zahrnuje i dodávku zboží vyráběného v rámci podnikání, lze-li ji využít při řešení krize → jde o věcný prostředek (službu/věc), nikoli o pracovní povinnost konkrétní fyzické osoby. Povinnost ukládá hejtman podle § 29 odst. 5; náhrada náleží podle § 35. Znak užitečnosti („lze využít při řešení krizové situace") je splněn.
+
+**5. Řešení.** Opatření je přípustné jako uložení povinnosti poskytnout věcný prostředek/službu (§ 2 písm. f + § 6 odst. 1 písm. c + § 29 odst. 5), nikoli jako pracovní povinnost zaměstnanců. Pekárna má nárok na peněžní náhradu (§ 35 odst. 3 — náklady + obvyklá náhrada). Hejtman vydá potvrzení. Riziko: zaměnitelnost institutů; správná kvalifikace určuje náhradový režim a okruh povinného subjektu.
+
+**6. Varianty.** (a) Kdyby hejtman povolal jmenovitě pekaře, aby šel péct do polní pekárny IZS, šlo by o pracovní povinnost/výpomoc fyzické osoby (písm. d/e) s pracovním příkazem. (b) Kdyby pekárna byla subjektem kritické infrastruktury, nesmí poskytnutí ohrozit základní službu (§ 29 odst. 3 věta druhá).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dodávka výrobků je vyvlastnění majetku, ne věcný prostředek." — Neutralizace: definice věcného prostředku výslovně zahrnuje „poskytovanou službu" i movitou věc; jde o nucené omezení s náhradou podle § 5 písm. b) a § 35, ústavně přípustné dle čl. 11 odst. 4 Listiny.
+- *Protiargument:* „Krizová situace neexistuje, jde jen o mimořádnou událost." — Neutralizace: krizová situace podle písm. b) existuje právě proto, že byl vyhlášen krizový stav; bez vyhlášení by se postupovalo dle zákona o IZS.
+- *Slabé místo:* hranice mezi „pracovní výpomocí" a „věcným prostředkem (službou)" může být sporná u služeb vázaných na osobu; chybí ostré rozlišení, rozhoduje povaha plnění.
+
+##### H. Praktický závěr
+
+§ 2 je definiční ustanovení, jehož přesné použití určuje, který institut (pracovní povinnost, výpomoc, věcný prostředek) a tím i který náhradový a procesní režim se uplatní. Krizová situace je vázána na vyhlášený krizový stav.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vyhlášen krizový stav (jinak nejde o krizovou situaci, ale o mimořádnou událost dle IZS)?
+- [ ] Jde o určenou práci osoby (povinnost), jednorázový úkol (výpomoc), nebo poskytnutí věci/služby (věcný prostředek)?
+- [ ] Lze plnění využít při řešení krize (znak užitečnosti)?
+- [ ] Je správně určen povinný subjekt a náhradový režim (§ 35)?
+
+**Typicky rozhodné důkazy / podklady:** výzva/rozhodnutí orgánu, potvrzení o poskytnutí/výkonu, kalkulace nákladů, pracovní příkaz (u pracovní povinnosti), doklad o vyhlášení krizového stavu.
 
 ---
 
@@ -179,6 +251,43 @@ Od r. 2021 (zákon č. 35/2021 Sb.) se rozhodnutí vyhlašují ve **Sbírce prá
 
 > **Aplikační praxe:** Stav nebezpečí byl od r. 2001 vyhlášen řadou hejtmanů především v souvislosti s povodněmi (2002, 2010, 2013), orkány (Kyrill 2007, Emma 2008), požáry (České Švýcarsko 2022) a epidemickými situacemi. Specifická situace nastala v rámci pandemie COVID-19, kdy několik hejtmanů vyhlásilo stav nebezpečí v období, kdy nebyl vyhlášen nouzový stav (např. říjen 2020).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Po přívalových srážkách hrozí v jednom okrese protržení hráze rybníka, ohrožena je obec a životy. Běžné síly IZS a obcí nestačí na evakuaci a zabezpečení. Hejtman vyhlásí stav nebezpečí pro část kraje na 30 dnů, nařídí evakuaci a poskytnutí mechanizace. Po 25 dnech je zřejmé, že odstraňování následků potrvá další měsíc. Účastníci: hejtman, vláda, obce, vlastníci povolaných strojů. Doklady: rozhodnutí o vyhlášení s odůvodněním, vyhlášení ve Sbírce právních předpisů ÚSC, informování vlády a MV.
+
+**2. Právní otázka.** Jak postupovat, má-li ohrožení trvat déle než 30 dnů a překračovat možnosti regionálního stavu nebezpečí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 4 (max. 30 dnů, prodloužení jen se souhlasem vlády), odst. 5 (eskalace na nouzový stav), odst. 1 (materiální podmínky).
+- *Související ustanovení téhož zákona:* § 14 odst. 4 (katalog opatření hejtmana), § 6 (opatření vlády za nouzového stavu), § 35 (náhrady).
+- *Související předpisy:* čl. 5 ústavního zákona č. 110/1998 Sb. (nouzový stav — vyhlašuje vláda); zákon č. 239/2000 Sb. (IZS).
+- *Judikatura:* Pl. ÚS 8/20 — ÚS nepřezkoumává samotné vyhlášení stavu, ale konkrétní krizová opatření jsou přezkoumatelná.
+
+**4. Subsumpce.** Podmínky odst. 1 (ohrožení statků, intenzita nedosahuje značného rozsahu, nemožnost odvrácení běžnou činností, bezodkladnost) byly při vyhlášení splněny. Po vyčerpání 30denní lhůty má hejtman dvě cesty: (i) prodloužení se souhlasem vlády (odst. 4), je-li ohrožení stále regionální a nedosahuje značného rozsahu; (ii) požádat vládu o nouzový stav (odst. 5), eskaluje-li intenzita na „značný rozsah" nebo přesahuje-li možnosti stavu nebezpečí.
+
+**5. Řešení.** Trvá-li jen odstraňování následků v regionálním měřítku, hejtman požádá vládu o souhlas s prodloužením (odst. 4). Hrozí-li překročení regionální úrovně, požádá o nouzový stav (odst. 5); dnem jeho vyhlášení pozbývají krizová opatření hejtmana platnosti (nerozhodne-li vláda jinak) a zachovaná opatření se považují za nařízená vládou. Procesně nutno zajistit kontinuitu opatření a včas publikovat. Riziko: prodlení vede k právnímu vakuu v ochraně obyvatelstva.
+
+**6. Varianty.** (a) Kdyby šlo o stávku zaměstnanců rybářství, stav nebezpečí nelze vyhlásit (odst. 7). (b) Kdyby intenzita ohrožení dosahovala značného rozsahu již na počátku, byl by namístě přímo nouzový stav vlády, nikoli stav nebezpečí.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Hejtman může stav nebezpečí prodlužovat opakovaně sám." — Neutralizace: prodloužení nad 30 dnů je vždy podmíněno souhlasem vlády (odst. 4); vláda funguje jako kontrolní pojistka.
+- *Protiargument:* „Žádost hejtmana o nouzový stav zavazuje vládu." — Neutralizace: žádost není závazná; vláda rozhoduje autonomně podle čl. 5 ústavního zákona č. 110/1998 Sb.
+- *Slabé místo:* pojem „značný rozsah" jako dělící kritérium mezi stavem nebezpečí a nouzovým stavem je neostrý a vyžaduje uvážení; chybný odhad může vést k vyhlášení nesprávného stavu.
+
+##### H. Praktický závěr
+
+Stav nebezpečí je podústavní (zákonný), regionální a časově limitovaný krizový stav vyhlašovaný hejtmanem. Slouží k řešení lokálních pohrom, aniž by bylo nutné vyhlašovat celostátní nouzový stav; při eskalaci přechází na nouzový stav s kontinuitou opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou kumulativně splněny čtyři podmínky odst. 1 (ohrožení, nedosažení značného rozsahu, subsidiarita, bezodkladnost)?
+- [ ] Obsahuje rozhodnutí důvody, územní a časový rozsah a konkrétní krizová opatření (odst. 2)?
+- [ ] Byla splněna informační povinnost vůči vládě, MV a dotčeným krajům (odst. 3)?
+- [ ] Bylo rozhodnutí vyhlášeno ve Sbírce právních předpisů ÚSC a na úředních deskách (odst. 6)?
+- [ ] Nepřesahuje doba 30 dnů bez souhlasu vlády (odst. 4)? Není namístě eskalace (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o vyhlášení s odůvodněním, doklad o vyhlášení a zveřejnění, korespondence s vládou/MV, souhlas vlády s prodloužením, případná žádost o nouzový stav.
+
 ---
 
 ### HLAVA II — Orgány krizového řízení
@@ -216,6 +325,42 @@ Vláda je **ústředním orgánem krizového řízení** s třemi klíčovými s
 **Strategické dokumenty** (odst. 3): Vláda schvaluje **krizový plán ČR** (sestavovaný MV — § 10 odst. 1 písm. f) a **posouzení rizik ČR** (zpracovává MV — § 10 odst. 1 písm. e). Tyto dokumenty jsou základem všech ostatních krizových plánů (kraje, ORP, ministerstev, ČNB).
 
 **Postavení ČNB** (odst. 2): Vzhledem k ústavně zakotvené nezávislosti ČNB (čl. 98 Ústavy) vláda opatření dotýkající se ČNB s ní **projednává**, neukládá. Toto ustanovení garantuje měnovou a finanční suverenitu i v krizových časech.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Vypukne rozsáhlá epidemie zasahující současně zdravotnictví, školství, dopravu a sociální péči. Žádné jediné ministerstvo nemá ke koordinaci výslovnou působnost. Vláda vyhlásí nouzový stav a potřebuje určit gestorský resort a aktivovat operační orgán. Účastníci: vláda, ministerstva, Ústřední krizový štáb, ČNB. Doklady: usnesení vlády o určení koordinátora, usnesení o zřízení/aktivaci ÚKŠ, schválený krizový plán ČR.
+
+**2. Právní otázka.** Které ministerstvo vláda určí pro koordinaci, neplyne-li příslušnost ze zvláštního předpisu, a jak zapojí ČNB?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 písm. b) (určení koordinujícího resortu), písm. c) (zřízení ÚKŠ), odst. 2 (projednání s ČNB), odst. 3 (schválení krizového plánu ČR a posouzení rizik).
+- *Související ustanovení téhož zákona:* § 24a (ÚKŠ), § 10 (MV — zpracování krizového plánu ČR), § 11 (MZd), § 13 (ČNB), § 6 (krizová opatření).
+- *Související předpisy:* čl. 67 a 76 Ústavy (vláda, usnesení vlády), čl. 98 Ústavy (nezávislost ČNB), zákon č. 2/1969 Sb. (kompetenční zákon).
+- *Judikatura:* Pl. ÚS 8/20 — široká diskrece vlády v krizi při respektování ústavních limitů.
+
+**4. Subsumpce.** Není-li koordinační příslušnost dána zvláštním předpisem, naplňuje se hypotéza § 4 odst. 1 písm. b) → vláda usnesením určí jeden gestorský resort (typicky MZd, příp. MV). Opatření dotýkající se ČNB (např. devizová podle § 6 odst. 3) musí vláda s ČNB projednat (odst. 2), nikoli jí je uložit, neboť ČNB je ústavně nezávislá.
+
+**5. Řešení.** Vláda usnesením určí koordinující ministerstvo, zřídí/aktivuje ÚKŠ jako svůj pracovní orgán a postupuje podle schváleného krizového plánu ČR. Opatření s dopadem na ČNB projedná. ÚKŠ připravuje podklady a koordinuje, ale nerozhoduje s vlastní pravomocí. Riziko: opomenutí projednání s ČNB by zatížilo opatření vadou; určení nepříslušného resortu by mohlo vést ke kompetenčním kolizím.
+
+**6. Varianty.** (a) Plyne-li koordinační příslušnost ze zvláštního předpisu, vláda gestora neurčuje — uplatní se zákonná příslušnost. (b) Týká-li se opatření výlučně měnové politiky, ČNB jedná autonomně a vláda jen projednává.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vláda může v krizi řídit i ČNB." — Neutralizace: odst. 2 stanoví toliko projednání; ústavní nezávislost ČNB (čl. 98) vylučuje vládní příkazy vůči ní i v krizi.
+- *Protiargument:* „Určení gestora je formalita bez právního významu." — Neutralizace: určení zakládá řídící a koordinační odpovědnost konkrétního resortu a je podkladem pro navazující krizová opatření; jeho absence oslabuje legitimitu postupu.
+- *Slabé místo:* hranice mezi „projednáním" a faktickým tlakem na ČNB může být v praxi tenká; doložitelnost projednání je důkazně významná.
+
+##### H. Praktický závěr
+
+§ 4 staví vládu do role vrcholového orgánu krizového řízení s pravomocí řídící, určovací (koordinace resortů) a zřizovací (ÚKŠ); strategické dokumenty (krizový plán ČR, posouzení rizik) schvaluje vláda. Postavení ČNB je chráněno režimem projednání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Plyne koordinační příslušnost ze zvláštního předpisu? Pokud ne → vláda určí gestora (odst. 1 písm. b).
+- [ ] Je ÚKŠ zřízen/aktivován jako pracovní orgán vlády (odst. 1 písm. c, § 24a)?
+- [ ] Týká-li se opatření ČNB, bylo s ní projednáno (odst. 2)?
+- [ ] Postupuje vláda podle schváleného krizového plánu ČR a posouzení rizik (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády (o určení gestora, o ÚKŠ, o krizových opatřeních), záznam o projednání s ČNB, schválený krizový plán ČR a posouzení rizik.
 
 ---
 
@@ -269,6 +414,43 @@ A contrario: práva, která **nelze omezit ani za nouzového stavu ani za stavu 
 - Práva na soudní a jinou právní ochranu (čl. 36 a násl. Listiny) — soudy a soudní řízení fungují i za nouzového stavu, byť mohou být dotčeny lhůty (zákon č. 191/2020 Sb. — COVID lex justitia).
 - Svobody projevu a práva na informace (čl. 17 Listiny) — krizový zákon **nepřipouští cenzuru ani zákaz informací**; § 30 jen ukládá provozovatelům vysílání povinnost uveřejnit krizové informace.
 - Svobody náboženského vyznání (čl. 15, 16 Listiny) — třebaže shromažďovací právo k bohoslužbám lze omezit podle písm. d).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu vláda krizovým opatřením zcela zakáže veškerá veřejná shromáždění na celém území státu a zároveň nařídí uzavření všech provozoven maloobchodu bez výjimek, na dobu neurčitou (do odvolání). Spolek a podnikatel napadnou opatření jako protiústavní. Účastníci: vláda (autor opatření), navrhovatelé (spolek, podnikatel), Ústavní soud. Doklady: usnesení vlády, odůvodnění, epidemiologická data.
+
+**2. Právní otázka.** Lze podle § 5 omezit shromažďovací právo a právo podnikat plošně, bez územního a časového omezení a bez vazby na konkrétní účel?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 písm. d) (shromažďování jen ve vymezeném prostoru), písm. e) (podnikání jen pokud ohrožuje krizová opatření), úvodní věta („na nezbytně nutnou dobu a v nezbytně nutném rozsahu").
+- *Související ustanovení téhož zákona:* § 6 (katalog opatření vlády), § 39c (princip přiměřenosti), § 8 (forma a publikace).
+- *Související předpisy:* čl. 6 ústavního zákona č. 110/1998 Sb.; čl. 19, 26, 14 Listiny; čl. 87 odst. 1 písm. b) Ústavy.
+- *Judikatura:* Pl. ÚS 8/20 (přezkoumatelnost krizových opatření vlády ÚS); navazující nálezy ÚS a rozsudky NSS rušící nepřiměřená nebo neodůvodněná opatření (omezení maloobchodu 2020).
+
+**4. Subsumpce.** § 5 dovoluje omezit shromažďování jen „ve vymezeném prostoru území ohroženého nebo postiženého krizovou situací", nikoli plošně bez vymezení; omezení podnikání jen tam, kde by „ohrožovalo prováděná krizová opatření". Plošný zákaz „do odvolání" naráží na úvodní limit „na nezbytně nutnou dobu a v nezbytně nutném rozsahu" a na § 39c. Znak „vymezeného prostoru" a „nezbytné doby" tedy není naplněn.
+
+**5. Řešení.** Opatření je v této podobě zranitelné: musí být územně a časově vymezeno a podrobeno testu proporcionality (vhodnost — nezbytnost — přiměřenost v užším smyslu). Pravděpodobný výsledek: ÚS/NSS zruší plošné a neodůvodněné prvky, ponechá územně a časově limitované zásahy podložené daty. Procesně: navrhovatelé využijí návrh na zrušení jiného právního předpisu (ÚS), resp. řízení dle SŘS u individuálních aktů.
+
+**6. Varianty.** (a) Územně vymezený a časově limitovaný zákaz shromáždění v ohnisku nákazy s odůvodněním by testem zpravidla prošel. (b) Zákaz provozu jen těch činností, které prokazatelně maří krizová opatření, je přípustný; plošný zákaz bez této vazby nikoli.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „V nouzovém stavu má vláda volnou ruku a soud ji nepřezkoumává." — Neutralizace: Pl. ÚS 8/20 sice vyloučil přezkum vyhlášení stavu, ale výslovně potvrdil plnou přezkoumatelnost konkrétních krizových opatření; § 5 navíc obsahuje taxativní katalog a vestavěné limity.
+- *Protiargument:* „Plošnost je nezbytná, protože nákaza je všude." — Neutralizace: i celostátní opatření musí projít testem nezbytnosti a být odůvodněno daty; plošnost není sama o sobě legitimizována a musí respektovat „nezbytně nutný rozsah".
+- *Slabé místo:* katalog § 5 neřeší výslovně intenzitu uvnitř jednotlivých práv — meze dotváří judikatura; argumentace proto musí být datově podložena, jinak hrozí zrušení pro neodůvodněnost.
+
+##### H. Praktický závěr
+
+§ 5 je ústavně klíčové ustanovení: taxativně vymezuje, která základní práva lze za nouzového stavu a stavu ohrožení státu omezit, a u každého stanoví účelový a prostorový limit; vše podléhá testu nezbytnosti a proporcionality (§ 39c) a soudnímu přezkumu. Práva v katalogu neuvedená (život, zákaz mučení, soudní ochrana, projev) omezit nelze.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Patří omezované právo do taxativního katalogu § 5? Pokud ne → omezit nelze.
+- [ ] Je dodržen specifický účelový limit u daného práva (např. shromáždění jen ve vymezeném prostoru)?
+- [ ] Je opatření časově a územně vymezeno („nezbytně nutná doba a rozsah")?
+- [ ] Obstojí v testu proporcionality (§ 39c) a je odůvodněno daty?
+- [ ] Bylo řádně vyhlášeno (§ 8) a je přezkoumatelné (ÚS / správní soud)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády s odůvodněním, podkladová odborná/epidemiologická data, vymezení území a doby, analýza proporcionality.
 
 ---
 
@@ -356,6 +538,42 @@ Soubor zákazů devizových operací (převody měny, zahraniční platby, pohyb
 
 Toto písmeno bylo doplněno novelou č. 522/2020 Sb. (po zkušenostech z COVID-19) a explicitně umožňuje vládě nařídit zaměstnavatelům výkon práce na dálku (home office). Před touto novelou vláda toto opatření zaváděla nepřímo (omezením přítomnosti na pracovišti), což vedlo k právním sporům.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu (rozsáhlá průmyslová havárie s únikem toxické látky) potřebuje vláda urychleně zajistit dekontaminační techniku a ubytovací kapacity pro evakuované. Soukromá firma vlastnící specializované cisterny odmítá smluvní pronájem a klade mnohonásobně vyšší než obvyklou cenu; hrozí nebezpečí z prodlení. Vláda zvažuje nařízení povinnosti poskytnout věcné prostředky podle § 6 odst. 1 písm. c). Účastníci: vláda/hejtman, firma, evakuovaní. Doklady: doložení neúspěšného smluvního jednání, cenová nabídka firmy, potvrzení o poskytnutí.
+
+**2. Právní otázka.** Jsou splněny podmínky pro nařízení povinnosti poskytnout věcné prostředky podle § 6 odst. 1 písm. c) ve spojení s odst. 4, je-li dostupné (byť drahé) smluvní řešení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 písm. c) (pracovní povinnost/výpomoc/věcné prostředky), odst. 4 (subsidiarita — jen nelze-li zajistit smluvně, klade-li subjekt zjevně nevýhodné podmínky nebo odmítne a hrozí nebezpečí z prodlení).
+- *Související ustanovení téhož zákona:* § 2 písm. f (věcný prostředek), § 29 odst. 5 (mechanismus uložení), § 35 (náhrada), § 39c (přiměřenost).
+- *Související předpisy:* čl. 11 odst. 4 Listiny (náhrada za nucené omezení).
+- *Judikatura:* maxima principu legality — opatření nelze ukládat nad rámec katalogu § 6 (NSS/ÚS k pandemickým opatřením).
+
+**4. Subsumpce.** Odst. 4 stanoví tři alternativní podmínky aktivace: (i) nelze zajistit smluvně, (ii) subjekt klade zjevně finančně a časově nevýhodné podmínky, nebo (iii) plnění odmítne — a současně hrozí nebezpečí z prodlení. Zde subjekt klade „zjevně finančně nevýhodné podmínky" a hrozí nebezpečí z prodlení → podmínka (ii) je naplněna; smluvní řešení sice formálně existuje, ale za zjevně nevýhodných podmínek.
+
+**5. Řešení.** Vláda (resp. hejtman dle § 29 odst. 5) může nařídit poskytnutí věcného prostředku, neboť firma klade zjevně nevýhodné podmínky a hrozí prodlení. Subjektu náleží peněžní náhrada podle § 35 (náklady + obvyklá náhrada za použití, nikoli vyžadovaná přemrštěná cena). Vydá se potvrzení (§ 29 odst. 5). Riziko: nedoložení neúspěšného/nevýhodného smluvního jednání by oslabilo zákonnost; opatření nesmí překročit nezbytnou míru (§ 39c).
+
+**6. Varianty.** (a) Kdyby firma nabídla obvyklou cenu a běžné podmínky, subsidiarita brání nařízení — přednost má smlouva. (b) Kdyby šlo o devizová opatření (odst. 3), platí výjimky odst. 5 (obchody ČR a ČNB, držitelé zvláštního povolení ČNB).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Existuje-li jakákoli smluvní nabídka, nařízení je vyloučeno." — Neutralizace: odst. 4 připouští nařízení i tehdy, klade-li subjekt zjevně finančně a časově nevýhodné podmínky; nejde o absolutní přednost jakékoli nabídky.
+- *Protiargument:* „Vláda může nařídit i opatření v § 6 neuvedené, je-li to účelné." — Neutralizace: katalog je taxativní; opatření mimo § 6 (resp. § 6 + § 7) je protizákonné a zrušitelné ÚS (princip legality).
+- *Slabé místo:* pojem „zjevně nevýhodné podmínky" je hodnotící; orgán musí unést důkazní břemeno o nevýhodnosti a o nebezpečí z prodlení.
+
+##### H. Praktický závěr
+
+§ 6 obsahuje taxativní katalog krizových opatření vlády za nouzového stavu (operativní, mocensko-regulační a devizová). Pracovní povinnost, výpomoc a věcné prostředky jsou subsidiární vůči smluvnímu řešení (odst. 4). Vláda nesmí jednat nad rámec katalogu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá zamýšlené opatření do taxativního katalogu § 6 (odst. 1–3)?
+- [ ] U pracovní povinnosti / věcných prostředků: je splněna subsidiarita dle odst. 4 (nelze smluvně / zjevně nevýhodné podmínky / odmítnutí + nebezpečí z prodlení)?
+- [ ] Je zachována nezbytná míra zásahu (§ 39c) a zajištěna náhrada (§ 35)?
+- [ ] U devizových zákazů: jsou respektovány výjimky odst. 5 (ČR, ČNB, držitelé povolení)?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády, doložení smluvního jednání a jeho nevýhodnosti, podklady o nebezpečí z prodlení, potvrzení o poskytnutí věcného prostředku, kalkulace náhrady.
+
 ---
 
 #### § 7 — Krizová opatření za stavu ohrožení státu (dodatek k § 6)
@@ -377,6 +595,42 @@ Toto písmeno bylo doplněno novelou č. 522/2020 Sb. (po zkušenostech z COVID-
 
 Stav ohrožení státu se v ČR od r. 2001 nikdy nevyhlašoval; institut zůstává v rezervě pro nejvážnější bezpečnostní scénáře (vojenská hrozba, terorismus s WMD, vážné narušení vnitřní bezpečnosti přesahující možnosti nouzového stavu).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Parlament vyhlásí stav ohrožení státu z důvodu bezpečnostní hrozby spojené s možným zneužitím nebezpečných chemických a jaderných materiálů. Vláda chce nařídit omezení vstupu cizinců na území a zpřísnit kontrolu skladů jaderných materiálů. Účastníci: vláda, provozovatelé jaderných zařízení, cizinci usilující o vstup. Doklady: usnesení Parlamentu o vyhlášení stavu ohrožení státu, krizová opatření vlády.
+
+**2. Právní otázka.** Může vláda nařídit omezení vstupu cizinců a zvýšenou kontrolu CBRN materiálů již za nouzového stavu, anebo až za stavu ohrožení státu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 písm. a) (omezení vstupu cizinců), písm. b) (zvýšená kontrola CBRN materiálů) — vázáno na stav ohrožení státu vedle opatření § 6.
+- *Související ustanovení téhož zákona:* § 6 (opatření za nouzového stavu), § 5 (omezitelná práva), § 8 (forma a publikace).
+- *Související předpisy:* čl. 7 ústavního zákona č. 110/1998 Sb. (stav ohrožení státu — vyhlašuje Parlament); zákon č. 222/1999 Sb. (subsidiárně při obraně); atomový zákon č. 263/2016 Sb.
+- *Judikatura:* obecná maxima o vázanosti pravomocí katalogem a o stupňování zásahů podle závažnosti stavu.
+
+**4. Subsumpce.** Opatření podle § 7 jsou vyhrazena závažnějšímu stavu ohrožení státu; za pouhého nouzového stavu je nařídit nelze (katalog § 6 je nezahrnuje). Znak „v době trvání stavu ohrožení státu" musí být splněn → bez vyhlášení tohoto stavu Parlamentem nelze § 7 aktivovat.
+
+**5. Řešení.** Je-li stav ohrožení státu řádně vyhlášen Parlamentem, vláda může nad rámec § 6 nařídit omezení vstupu cizinců a zvýšenou kontrolu CBRN materiálů. Za nouzového stavu by stejná opatření byla nepřípustná (mimo katalog § 6). Procesně: opatření se vyhlašují podle § 8 jako zákon. Riziko: aplikace § 7 bez vyhlášeného stavu ohrožení státu by byla protizákonná.
+
+**6. Varianty.** (a) Je-li stav ohrožení státu vyhlášen v souvislosti s obranou před vnějším napadením, uplatní se subsidiárně i zákon č. 222/1999 Sb. (§ 39 odst. 4). (b) Postačuje-li nouzový stav, opatření § 7 se nepoužijí a vystačí se s § 6.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Omezení vstupu cizinců lze zavést i za nouzového stavu jako ochranu hranic dle § 6 odst. 2 písm. b)." — Neutralizace: § 6 odst. 2 písm. b) se týká opatření k ochraně hranic, pobytu cizinců apod. v určitém rozsahu, avšak plošné omezení vstupu cizinců na území jako takové § 7 výslovně vyhrazuje stavu ohrožení státu; je nutné rozlišovat rozsah a typ opatření.
+- *Protiargument:* „Stav ohrožení státu je teoretický, ustanovení je mrtvé." — Neutralizace: institut je v rezervě pro nejvážnější scénáře (vojenská hrozba, terorismus s WMD); jeho neaplikování od r. 2001 nesnižuje jeho normativní význam.
+- *Slabé místo:* hranice mezi opatřeními § 6 odst. 2 písm. b) a § 7 písm. a) je výkladově citlivá; chybí podrobná judikatura, neboť stav ohrožení státu nebyl vyhlášen.
+
+##### H. Praktický závěr
+
+§ 7 rozšiřuje katalog § 6 o dvě opatření vyhrazená stavu ohrožení státu (omezení vstupu cizinců, zvýšená kontrola CBRN materiálů). Jejich nařízení je možné jen po vyhlášení tohoto stavu Parlamentem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl stav ohrožení státu vyhlášen Parlamentem (čl. 7 úst. zák. 110/1998 Sb.)?
+- [ ] Spadá opatření do § 7 (vstup cizinců / kontrola CBRN), nebo jej lze podřadit už pod § 6?
+- [ ] Souvisí stav s obranou? → souběh se zákonem 222/1999 Sb. (§ 39 odst. 4).
+- [ ] Bylo opatření vyhlášeno podle § 8?
+
+**Typicky rozhodné důkazy / podklady:** usnesení Parlamentu o vyhlášení stavu ohrožení státu, usnesení vlády s opatřeními, podklady o povaze hrozby (CBRN, bezpečnostní riziko).
+
 ---
 
 #### § 8 — Forma a publikace krizových opatření
@@ -392,6 +646,42 @@ Krizová opatření vlády se vyhlašují **stejně jako zákon** — tj. ve Sb�
 Současné zveřejnění v hromadných informačních prostředcích slouží **publicitě a faktické vykonatelnosti** — vzhledem k povaze opatření (zákaz pohybu, evakuace) musí být obyvatelstvo informováno reálně, nikoli jen právně.
 
 > **Forma krizového opatření:** Krizová opatření vlády jsou vydávána ve formě **usnesení vlády** (čl. 76 odst. 1 Ústavy). Doktrinálně i judikaturně jsou označována jako **jiné právní předpisy** ve smyslu čl. 87 odst. 1 písm. b) Ústavy, a proto podléhají přezkumu Ústavního soudu. Pro postup před správním soudnictvím viz § 38 (vyloučení správního řádu).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Vláda v sobotu večer přijme usnesením krizové opatření zakazující od následujícího dne pohyb osob mimo bydliště. Opatření má nabýt účinnosti v pondělí v 0:00. Sbírka zákonů a mezinárodních smluv opatření publikuje až v pondělí dopoledne, avšak vláda jej již v neděli oznámí v televizi a rozhlase. Občan v pondělí ráno opatření poruší a brání se, že nebylo v okamžiku jednání řádně vyhlášeno. Účastníci: vláda, občan, později přestupkový orgán a soud. Doklady: usnesení vlády, doklad o publikaci ve Sbírce, záznam mediálního oznámení, čas účinnosti.
+
+**2. Právní otázka.** Od kdy je krizové opatření vlády účinné a vykonatelné vůči adresátům — od okamžiku stanoveného v rozhodnutí, od vyhlášení ve Sbírce, nebo od mediálního oznámení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 (vyhlášení stejně jako zákon, zveřejnění v hromadných informačních prostředcích, účinnost okamžikem stanoveným v rozhodnutí).
+- *Související ustanovení téhož zákona:* § 6 a § 7 (opatření, jichž se forma týká), § 38 (vyloučení správního řádu), § 39c (přiměřenost).
+- *Související předpisy:* zákon č. 222/2016 Sb., o Sbírce zákonů a mezinárodních smluv; čl. 76 Ústavy (usnesení vlády).
+- *Judikatura:* maxima ÚS o přípustných limitech retroaktivity krizových opatření a o přezkoumatelnosti opatření jako jiných právních předpisů (čl. 87 odst. 1 písm. b) Ústavy).
+
+**4. Subsumpce.** § 8 stanoví, že účinnost nastává „okamžikem, který se v rozhodnutí stanoví". Materiální vykonatelnost vůči adresátovi však předpokládá, že opatření bylo vyhlášeno; samotné mediální oznámení nenahrazuje vyhlášení stejně jako zákon, ale slouží faktické publicitě. Zde je okamžik účinnosti (pondělí 0:00) dřívější než publikace ve Sbírce → vzniká napětí mezi formálním vyhlášením a stanovenou účinností.
+
+**5. Řešení.** Opatření je účinné okamžikem v něm stanoveným, ale jeho vynutitelnost vůči konkrétní osobě je oslabena, došlo-li k publikaci až po okamžiku jednání. V přestupkovém řízení (na něž se dle § 38 vztahuje správní řád) bude rozhodné, zda byla naplněna materiální i formální stránka vyhlášení a zda byl adresát objektivně schopen se s opatřením seznámit. Pravděpodobný výsledek: pochybnosti se vykládají ve prospěch adresáta, byla-li publikace opožděná. Riziko: nadužívání retroaktivní účinnosti, kterou ÚS limituje.
+
+**6. Varianty.** (a) Kdyby opatření stanovilo účinnost až po publikaci a souběžně bylo medializováno, vynutitelnost je bezproblémová. (b) U stavu nebezpečí se postupuje dle § 3 odst. 6 (Sbírka právních předpisů ÚSC, úřední desky), nikoli dle § 8.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Mediální oznámení postačuje k vynutitelnosti." — Neutralizace: § 8 vyžaduje vyhlášení stejně jako zákon; medializace je doplňkem k publicitě, nikoli náhradou formálního vyhlášení.
+- *Protiargument:* „Retroaktivní účinnost je v krizi vždy přípustná." — Neutralizace: ÚS opakovaně retroaktivitu krizových opatření limituje; zpětně působící zásah do práv je ústavně problematický a musí být výjimečný a odůvodněný.
+- *Slabé místo:* § 8 výslovně neřeší kolizi mezi stanovenou účinností a okamžikem publikace; mezeru dotváří judikatura a zásada srozumitelnosti a seznatelnosti práva.
+
+##### H. Praktický závěr
+
+§ 8 určuje, že krizová opatření vlády se vyhlašují jako zákon (Sbírka zákonů a mezinárodních smluv) a současně se medializují; účinnost nastává okamžikem stanoveným v rozhodnutí. Forma opatření je usnesení vlády, přezkoumatelné ÚS jako jiný právní předpis.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo opatření vyhlášeno stejně jako zákon (Sbírka zákonů a mezinárodních smluv)?
+- [ ] Bylo zveřejněno v hromadných informačních prostředcích (faktická publicita)?
+- [ ] Jaký okamžik účinnosti opatření stanoví a není v rozporu se zákazem nepřípustné retroaktivity?
+- [ ] Byl adresát objektivně schopen se s opatřením seznámit před okamžikem jednání?
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády, doklad o publikaci ve Sbírce s datem a časem, záznam mediálního zveřejnění, znění o okamžiku účinnosti.
 
 ---
 
@@ -430,6 +720,42 @@ Tato sektorová struktura odpovídá obecnému kompetenčnímu zákonu č. 2/196
 
 Klíčové ustanovení § 10 odst. 4: úkoly MV plní **generální ředitelství HZS**. Tato konstrukce odráží skutečnost, že HZS je profesionálním koordinátorem IZS a fakticky vykonává operační úkoly krizového řízení; MV plní spíše politickou a normativní funkci.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu z důvodu epidemie potřebuje Ministerstvo zdravotnictví urychleně nakoupit a distribuovat dosud neregistrovaný léčivý přípravek a koordinovat lůžkovou kapacitu napříč kraji. Současně Ministerstvo dopravy ukládá dopravcům povinnosti k zajištění zásobování. Provozovatel nemocnice namítá, že MZd nemá pravomoc zasahovat do jeho provozu. Účastníci: MZd, MD, poskytovatelé zdravotních služeb, dopravci, koordinující MV. Doklady: krizový plán ministerstva, opatření resortu, krizový plán ČR.
+
+**2. Právní otázka.** V jakém rozsahu mohou jednotlivá ministerstva za krizového stavu ukládat povinnosti subjektům ve své věcné působnosti a kdo koordinuje meziresortní průnik?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 (obecná působnost ministerstev — pracoviště a krizový štáb, krizový plán), § 10 (MV — koordinace, krizový plán ČR), § 11 (MZd — léčiva, ZZS, lůžková péče), § 12 (MD — doprava), § 12a (MPO — energetika).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. b) (určení koordinátora vládou), § 28 odst. 1 (působnost v mezích zvláštních předpisů), § 6 (krizová opatření vlády).
+- *Související předpisy:* zákon č. 2/1969 Sb. (kompetenční zákon); zákon o léčivech (odchylka u neregistrovaných přípravků); zákon č. 372/2011 Sb. (zdravotní služby).
+- *Judikatura:* NS 30 Cdo 1101/2024 (mimořádná opatření MZd dle § 69 zák. 258/2000 Sb. v době krizového stavu jsou krizovými opatřeními a stát za škodu odpovídá dle § 36).
+
+**4. Subsumpce.** Každý resort jedná „v mezích své působnosti vymezené zvláštními předpisy" (§ 28 odst. 1). MZd má dle § 11 specifické krizové pravomoci ve zdravotnictví (včetně odchylky od zákona o léčivech), MD dle § 12 v dopravě. Meziresortní průnik koordinuje gestor určený vládou (§ 4 odst. 1 písm. b), případně MV (§ 10). Namítaný zásah do provozu nemocnice je v rozsahu § 11 přípustný.
+
+**5. Řešení.** MZd je oprávněno nakoupit a distribuovat i neregistrovaný léčivý přípravek a koordinovat lůžkovou péči (§ 11); MD ukládá povinnosti dopravcům (§ 12). Subjekty jsou povinny opatření splnit; jejich námitky směřují nanejvýš k rozsahu a proporcionalitě (§ 39c), nikoli k samotné pravomoci. Za škodu z provádění krizových (i mimořádných veřejnozdravotních) opatření odpovídá stát dle § 36. Riziko: překročení věcné působnosti resortu by opatření zatížilo vadou.
+
+**6. Varianty.** (a) Týká-li se opatření energetické soustavy, gestorem je MPO (§ 12a). (b) Není-li koordinační příslušnost dána, určí gestora vláda (§ 4 odst. 1 písm. b); fakticky operační úkoly MV plní GŘ HZS (§ 10 odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ministerstvo nemůže za krizového stavu zasahovat do soukromého provozu nad rámec běžných předpisů." — Neutralizace: krizový zákon (§ 9–12a) přidává specifické krizové pravomoci k existující věcné působnosti; subjekty mají povinnost opatření splnit.
+- *Protiargument:* „Mimořádná opatření MZd dle zákona o ochraně veřejného zdraví nejsou krizová opatření a stát za ně neodpovídá." — Neutralizace: NS 30 Cdo 1101/2024 výslovně dovodil, že taková opatření v době krizového stavu jsou krizovými opatřeními a stát za škodu odpovídá dle § 36.
+- *Slabé místo:* hranice věcné působnosti resortů a vztah k zvláštním zákonům (léčiva, zdravotní služby) bývá výkladově složitý; chybný gestor oslabuje legitimitu.
+
+##### H. Praktický závěr
+
+§§ 9–12a zakládají sektorovou strukturu krizového řízení: každé klíčové ministerstvo má krizové pravomoci ve své věcné působnosti (MV koordinace a krizový plán ČR, MZd zdravotnictví, MD doprava, MPO energetika); meziresortní koordinaci určuje vláda. Operační úkoly MV plní GŘ HZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá opatření do věcné působnosti daného resortu (§ 28 odst. 1)?
+- [ ] Jde o meziresortní situaci? Kdo je gestor (§ 4 odst. 1 písm. b / § 10 — MV)?
+- [ ] U MZd: opírá se odchylka (např. neregistrovaná léčiva) o § 11?
+- [ ] Je opatření přiměřené (§ 39c) a počítá se s odpovědností státu za škodu (§ 36)?
+
+**Typicky rozhodné důkazy / podklady:** krizový plán ministerstva a krizový plán ČR, resortní krizové opatření, doklad o určení gestora, podklady o věcné působnosti, dokumentace škody pro účely § 36.
+
 ---
 
 #### Díl 3 — Česká národní banka
@@ -449,6 +775,42 @@ Speciální postavení ČNB v systému krizového řízení odpovídá její **�
 - **vydává zvláštní povolení** umožňující odchylky od devizových zákazů podle § 6 odst. 5.
 
 Tato úprava chrání měnovou stabilitu a finanční systém před politickou intervencí i v krizových časech.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu vyhlášeného z důvodu závažné finanční krize vláda zvažuje devizové zákazy podle § 6 odst. 3 (zákaz plateb do zahraničí, nabývání cizí měny). Velká exportní firma žádá o výjimku pro operace, které prokazatelně zlepší platební bilanci. Vláda chce firmě uložit povinnosti přímo, bez součinnosti s ČNB. Účastníci: vláda, ČNB, exportní firma. Doklady: usnesení vlády, krizový plán ČNB schválený guvernérem, žádost o zvláštní povolení.
+
+**2. Právní otázka.** Může vláda v oblasti devizových zákazů jednat bez ČNB a kdo rozhoduje o výjimkách (zvláštním povolení) z těchto zákazů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 (ČNB — krizový štáb a plán schvalovaný guvernérem, projednávání opatření s vládou, projednávání přestupků dle § 6 odst. 3, vydávání zvláštního povolení dle § 6 odst. 5).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (vláda projednává s ČNB), § 6 odst. 3 a 5 (devizové zákazy a výjimky), § 34a (přestupky).
+- *Související předpisy:* čl. 98 Ústavy (nezávislost ČNB); zákon č. 6/1993 Sb., o ČNB.
+- *Judikatura:* obecná maxima o ústavní nezávislosti centrální banky a o mezích vládních zásahů do její působnosti.
+
+**4. Subsumpce.** ČNB není v krizovém řízení podřízena vládě (na rozdíl od ministerstev); vláda opatření dotýkající se ČNB s ní podle § 4 odst. 2 projednává. O zvláštním povolení (výjimce z devizových zákazů) rozhoduje podle § 6 odst. 5 ČNB, nikoli vláda. Znak „projednání" (nikoli „uložení") vůči ČNB je tedy určující.
+
+**5. Řešení.** Vláda nemůže v devizové oblasti jednat bez projednání s ČNB; o výjimce pro exportní firmu (operace zlepšující platební bilanci) rozhoduje ČNB vydáním zvláštního povolení podle § 6 odst. 5. ČNB rovněž projednává přestupky podle § 6 odst. 3 a vede vlastní krizový plán schvalovaný guvernérem. Riziko: opomenutí projednání s ČNB zatěžuje opatření vadou; uložení výjimky vládou místo ČNB by bylo nepříslušné.
+
+**6. Varianty.** (a) Jde-li o obchody ČR nebo ČNB, devizové zákazy se neuplatní vůbec (§ 6 odst. 5). (b) Týká-li se opatření výlučně bankovního dohledu nebo měnové politiky, ČNB jedná zcela autonomně.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „V krizi musí i ČNB plnit příkazy vlády." — Neutralizace: ústavní nezávislost ČNB (čl. 98) a § 4 odst. 2 (projednání, nikoli uložení) vylučují vládní příkazy; krizový zákon postavení ČNB výslovně chrání.
+- *Protiargument:* „O výjimkách z devizových zákazů rozhoduje vláda jako autor opatření." — Neutralizace: § 6 odst. 5 svěřuje vydání zvláštního povolení výslovně ČNB.
+- *Slabé místo:* mechanismus „projednání" může v praxi vést ke sporu o jeho rozsah a doložitelnost; absence záznamu projednání oslabuje legitimitu opatření.
+
+##### H. Praktický závěr
+
+§ 13 zakotvuje zvláštní, ústavně podmíněné postavení ČNB v krizovém řízení: ČNB s vládou opatření projednává, neplní vládní úkoly, vede vlastní krizový plán (schvaluje guvernér) a rozhoduje o devizových výjimkách (§ 6 odst. 5) i projednává devizové přestupky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dotýká se opatření působnosti ČNB? → nutné projednání (§ 4 odst. 2, § 13), nikoli příkaz.
+- [ ] Jde o výjimku z devizových zákazů? → o zvláštním povolení rozhoduje ČNB (§ 6 odst. 5).
+- [ ] Má ČNB schválený krizový plán (guvernér) a aktivní krizový štáb?
+- [ ] Jde o obchody ČR/ČNB? → devizové zákazy se neuplatní.
+
+**Typicky rozhodné důkazy / podklady:** usnesení vlády, záznam o projednání s ČNB, krizový plán ČNB, žádost a rozhodnutí o zvláštním povolení, podklady k operacím zlepšujícím platební bilanci.
 
 ---
 
@@ -514,6 +876,42 @@ Předsedou obou je hejtman.
 
 Hejtman **řídí a kontroluje** činnost starostů ORP a starostů obcí (odst. 2). V případě, že **starosta obce neplní úkoly**, může hejtman přenést jejich výkon na **zmocněnce** (§ 21 odst. 4) — to představuje výjimečnou interventní pravomoc nad samosprávou v krizových časech.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Hejtman vyhlásí stav nebezpečí kvůli rozsáhlému lesnímu požáru. Nařídí evakuaci obyvatelstva ohrožených obcí, zákaz vstupu do lesa, pracovní výpomoc dobrovolníků a přednostní zásobování vodou pro hasební techniku. Starosta jedné z obcí však odmítá organizovat evakuaci a neplní pokyny. Účastníci: hejtman, starosta obce, obyvatelé, ministr vnitra. Doklady: rozhodnutí o vyhlášení stavu nebezpečí s opatřeními, pokyny hejtmana, doklad o nečinnosti starosty.
+
+**2. Právní otázka.** Které z opatření může hejtman za stavu nebezpečí nařídit z titulu § 14 odst. 4 a jak má postupovat, neplní-li starosta obce úkoly?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 4 (katalog osmi opatření hejtmana za stavu nebezpečí — pracovní povinnost/výpomoc/věcný prostředek, stavby, péče o děti, zásobování, sociální dávky, hlášení pobytu, evakuace, zákaz vstupu), odst. 3 (koordinace za krizového stavu).
+- *Související ustanovení téhož zákona:* § 3 (stav nebezpečí), § 21 odst. 4 (zmocněnec při nečinnosti starosty), § 6 (vládní katalog — pro srovnání), § 35 (náhrady), § 29 odst. 5 (věcný prostředek).
+- *Související předpisy:* čl. 8, čl. 100 Ústavy (územní samospráva); zákon č. 129/2000 Sb. (kraje).
+- *Judikatura:* maxima o přiměřenosti zásahu (§ 39c) a o přezkoumatelnosti individuálních krizových aktů správními soudy.
+
+**4. Subsumpce.** Evakuace, zákaz vstupu, pracovní výpomoc a přednostní zásobování spadají do katalogu § 14 odst. 4 → hejtman je za stavu nebezpečí oprávněn je nařídit. Nečinnost starosty naplňuje hypotézu § 21 odst. 4 (starosta neplní úkoly v době krizového stavu) → hejtman může výkon přenést na zmocněnce. Katalog hejtmana je oproti vládnímu (§ 6) užší (chybí devizové zákazy, ochrana hranic, nasazení vojáků).
+
+**5. Řešení.** Hejtman nařídí opatření z § 14 odst. 4 (evakuace, zákaz vstupu, výpomoc, zásobování). Vůči nečinnému starostovi jmenuje na předem stanovenou dobu zmocněnce (§ 21 odst. 4), o čemž neprodleně informuje obec a ministra vnitra (který může rozhodnutí zrušit). Za uložené povinnosti náleží náhrada (§ 35). Riziko: opatření mimo katalog § 14 odst. 4 (např. devizové) hejtman nařídit nesmí; zásah do samosprávy zmocněncem je výjimečný a obklopený pojistkami.
+
+**6. Varianty.** (a) Za nouzového stavu hejtman primárně koordinuje (odst. 3) a opatření z odst. 4 nařizuje, jen pokud je nenařídila vláda (odst. 6). (b) Hrozí-li nebezpečí z prodlení u věcného prostředku, může jej uložit i starosta a následně informovat hejtmana (§ 29 odst. 5).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Hejtman má stejný katalog opatření jako vláda." — Neutralizace: katalog § 14 odst. 4 je strukturně podobný, ale užší než § 6 (chybí devizové zákazy, ochrana hranic, nasazení vojáků); hejtman nesmí překročit svůj okruh.
+- *Protiargument:* „Jmenování zmocněnce je nepřípustným zásahem do samosprávy." — Neutralizace: jde o zákonem předvídaný výjimečný institut (§ 21 odst. 4) s pojistkami (časové omezení, informování a možnost zrušení ministrem vnitra); ústavně obstojí v krizovém kontextu.
+- *Slabé místo:* rozhraní pravomocí hejtmana podle krizového stavu (stav nebezpečí vs. nouzový stav) je vícevrstvé; chybná identifikace stavu vede k překročení pravomoci.
+
+##### H. Praktický závěr
+
+§ 14 činí z hejtmana čtyřvrstvý orgán krizového řízení: strategicko-přípravný, vyhlašovací (stav nebezpečí), operativně-rozhodovací (katalog § 14 odst. 4 za stavu nebezpečí) a koordinační (za nouzového stavu). Disponuje i interventní pravomocí vůči nečinné obci (zmocněnec).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaký krizový stav je vyhlášen? Tomu odpovídá rozsah hejtmanových pravomocí (odst. 3, 4, 6).
+- [ ] Spadá opatření do katalogu § 14 odst. 4 (nikoli nad jeho rámec)?
+- [ ] Je opatření přiměřené (§ 39c) a zajištěna náhrada (§ 35)?
+- [ ] Neplní-li starosta úkoly: byly splněny podmínky a pojistky pro zmocněnce (§ 21 odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o vyhlášení stavu nebezpečí s opatřeními, pokyny hejtmana, doklady o evakuaci/zákazu/zásobování, dokumentace nečinnosti starosty, jmenování zmocněnce a informování MV.
+
 ---
 
 #### § 14a — Krajský úřad
@@ -521,6 +919,42 @@ Hejtman **řídí a kontroluje** činnost starostů ORP a starostů obcí (odst.
 > **§ 14a** (shrnutí): Krajský úřad poskytuje součinnost HZS kraje při zpracování krizového plánu kraje, plní úkoly podle krizového plánu ČR a kraje, zřizuje pracoviště krizového řízení.
 
 **Výklad:** Krajský úřad plní podpůrnou roli vůči hejtmanovi. Zatímco hejtman je politicko-rozhodovacím orgánem, krajský úřad je výkonným aparátem v přenesené působnosti.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Hejtman uloží svým rozhodnutím za stavu nebezpečí poskytnutí věcného prostředku; administrativní přípravu a evidenci však fakticky zajišťuje krajský úřad, který má též poskytovat součinnost HZS kraje při zpracování krizového plánu kraje. Vlastník prostředku se brání, že rozhodnutí podepsal úředník krajského úřadu, nikoli hejtman. Účastníci: hejtman, krajský úřad, vlastník věcného prostředku. Doklady: rozhodnutí hejtmana, podklady krizového plánu, potvrzení o poskytnutí.
+
+**2. Právní otázka.** Jak se dělí role mezi hejtmana (rozhodovací orgán) a krajský úřad (výkonný aparát) při ukládání povinností a při tvorbě krizových plánů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14a (krajský úřad — součinnost s HZS, úkoly dle krizového plánu ČR a kraje, pracoviště krizového řízení).
+- *Související ustanovení téhož zákona:* § 14 (hejtman — rozhodovací orgán), § 15 (HZS kraje — zpracovatel plánů), § 29 odst. 5 (uložení věcného prostředku hejtmanem), § 39a (přenesená působnost).
+- *Související předpisy:* zákon č. 129/2000 Sb., o krajích (postavení krajského úřadu); čl. 79 odst. 1 Ústavy.
+- *Judikatura:* obecná maxima o vázanosti správního orgánu zákonnou příslušností a o aktech vydaných nepříslušným orgánem.
+
+**4. Subsumpce.** Krajský úřad je výkonným aparátem v přenesené působnosti (§ 39a); rozhodovací akty (uložení povinnosti dle § 29 odst. 5) přísluší hejtmanovi, nikoli úřadu. Úřad zajišťuje přípravu, součinnost s HZS a administrativu. Podepsal-li rozhodnutí úředník bez zmocnění hejtmana, je namítaná vada v příslušnosti relevantní.
+
+**5. Řešení.** Rozhodnutí o uložení věcného prostředku musí vydat (či za něj odpovídat) hejtman; krajský úřad je smí jen administrativně připravit a evidovat. Je-li akt vydán nepříslušně, je vadný. Při tvorbě krizového plánu kraje úřad poskytuje součinnost HZS (§ 14a, § 15), ale plán schvaluje hejtman (§ 14 odst. 2 písm. c). Riziko: záměna rolí vede k vadám v příslušnosti.
+
+**6. Varianty.** (a) Jedná-li úředník na základě řádného pověření hejtmana, akt obstojí. (b) Jde-li o čistě podpůrné úkony (evidence, příprava podkladů), příslušnost krajského úřadu je bezproblémová.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krajský úřad může sám ukládat krizové povinnosti." — Neutralizace: rozhodovací pravomoc náleží hejtmanovi (§ 14, § 29 odst. 5); úřad je výkonným aparátem bez vlastní rozhodovací pravomoci v těchto věcech.
+- *Protiargument:* „Krizový plán kraje tvoří a schvaluje krajský úřad." — Neutralizace: plán zpracovává HZS kraje (§ 15 odst. 1 písm. c), úřad poskytuje součinnost (§ 14a) a schvaluje jej hejtman (§ 14 odst. 2 písm. c).
+- *Slabé místo:* faktické prolínání rolí hejtmana a úřadu v praxi může zastírat, kdo je nositelem pravomoci; rozhodné je formální určení příslušnosti.
+
+##### H. Praktický závěr
+
+§ 14a vymezuje krajský úřad jako výkonný aparát hejtmana v přenesené působnosti: poskytuje součinnost HZS při tvorbě krizového plánu kraje, plní úkoly dle krizových plánů a zřizuje pracoviště krizového řízení; rozhodovací akty však náleží hejtmanovi.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o rozhodovací akt (→ hejtman), nebo o podpůrný/administrativní úkon (→ krajský úřad)?
+- [ ] Jedná-li úředník, má řádné pověření hejtmana?
+- [ ] Poskytl krajský úřad součinnost HZS při zpracování krizového plánu kraje (§ 14a)?
+- [ ] Je zřízeno pracoviště krizového řízení?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí hejtmana, případné pověření úředníka, podklady a součinnost ke krizovému plánu, potvrzení o poskytnutí věcného prostředku.
 
 ---
 
@@ -596,6 +1030,43 @@ Velmi široké oprávnění **vyžadovat, shromažďovat a evidovat údaje** od 
 
 > **Vztah k GDPR:** Zpracování osobních údajů podle § 15 odst. 2 a § 39d–39e má zákonný titul ve smyslu čl. 6 odst. 1 písm. c) a e) GDPR (plnění právní povinnosti, výkon úkolu ve veřejném zájmu). Speciální úprava § 27 (zvláštní skutečnosti) tvoří doplňkový režim ochrany, který GDPR nenahrazuje, nýbrž doplňuje.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** HZS kraje při zpracování krizového plánu kraje vyžaduje od chemičky podrobné údaje o množství, složení a umístění skladovaných nebezpečných látek, o výrobních kapacitách a počtu zaměstnanců. Chemička odmítá s tím, že jde o citlivé obchodní tajemství a osobní údaje zaměstnanců (GDPR). Účastníci: HZS kraje, chemička (právnická osoba), dotčení zaměstnanci. Doklady: žádost HZS, krizový plán, evidence „ZS".
+
+**2. Právní otázka.** Je chemička povinna poskytnout vyžádané údaje a v jakém režimu jsou tyto údaje chráněny vůči obchodnímu tajemství a ochraně osobních údajů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 2 (devět kategorií vyžadovaných údajů, podmínka nezbytnosti), odst. 1 písm. c) a d) (zpracování krizových plánů), odst. 3 (evidence pobytu).
+- *Související ustanovení téhož zákona:* § 29 odst. 2 (povinnost PO poskytnout údaje), § 27 (zvláštní skutečnosti — režim ochrany), § 39f (neduplicita — z veřejných registrů), § 34a odst. 2 písm. a) (přestupek).
+- *Související předpisy:* čl. 6 odst. 1 písm. c) a e) GDPR (zákonný titul); zákon č. 412/2005 Sb. (utajované informace — odlišení).
+- *Judikatura:* obecná maxima o přednosti zákonné informační povinnosti ve veřejném zájmu před obchodním tajemstvím při zachování proporcionality.
+
+**4. Subsumpce.** Údaje o nebezpečných látkách (písm. d), výrobních kapacitách (písm. b) a počtech osob (písm. c) spadají do taxativního výčtu § 15 odst. 2; podmínka nezbytnosti pro zpracování krizového plánu je splněna. Povinnost poskytnout plyne z § 29 odst. 2. Ochranu zajišťuje režim zvláštních skutečností (§ 27) a princip neduplicity (§ 39f). GDPR titul je dán (čl. 6 odst. 1 písm. c, e).
+
+**5. Řešení.** Chemička je povinna údaje poskytnout bezplatně a aktualizovat je (§ 29 odst. 2). HZS je smí vyžadovat jen v nezbytném rozsahu a pouze nelze-li je získat z veřejných registrů (§ 39f). Citlivé materiály se označí „ZS" a chrání podle § 27. Odmítnutí naplňuje přestupek dle § 34a odst. 2 písm. a) (pokuta až 3 000 000 Kč). Obchodní tajemství ani GDPR poskytnutí nebrání — jsou vyváženy zákonným titulem a režimem ZS.
+
+**6. Varianty.** (a) Jsou-li údaje dostupné z veřejných registrů, HZS je vyžadovat nesmí (§ 39f). (b) Jde-li o utajované informace dle zákona č. 412/2005 Sb., uplatní se přísnější režim, nikoli režim ZS.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Obchodní tajemství a GDPR brání poskytnutí." — Neutralizace: zpracování má zákonný titul (čl. 6 odst. 1 písm. c, e GDPR — plnění právní povinnosti a úkol ve veřejném zájmu); režim § 27 (ZS) zajišťuje důvěrnost; obchodní tajemství zákonné povinnosti neruší.
+- *Protiargument:* „HZS si může vyžádat jakékoli údaje." — Neutralizace: výčet je taxativní (devět kategorií), platí podmínka nezbytnosti a princip neduplicity (§ 39f); nadbytečné vyžadování je nezákonné.
+- *Slabé místo:* hranice „nezbytnosti" je hodnotící; HZS musí být schopen doložit účelovou vazbu údajů na konkrétní krizový plán.
+
+##### H. Praktický závěr
+
+§ 15 profesionalizuje krizové řízení v kraji: HZS kraje zpracovává krizové plány (kraje i ORP), analyzuje rizika, vede evidence pobytu a disponuje širokým, leč taxativně vymezeným oprávněním vyžadovat údaje od osob; ochranu zajišťuje režim zvláštních skutečností a princip neduplicity.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá vyžádaný údaj do některé z devíti kategorií § 15 odst. 2?
+- [ ] Je údaj nezbytný pro zpracování konkrétního krizového plánu?
+- [ ] Nelze údaj získat z veřejných registrů (§ 39f — neduplicita)?
+- [ ] Jsou citlivé materiály označeny „ZS" a chráněny dle § 27?
+- [ ] Hrozí za odmítnutí přestupek dle § 34a odst. 2 písm. a)?
+
+**Typicky rozhodné důkazy / podklady:** žádost HZS s odůvodněním nezbytnosti, krizový plán, doklad o nedostupnosti údajů z registrů, evidence „ZS", případně podklad přestupkového řízení.
+
 ---
 
 #### § 15a — Součinnost při zpracování krizového plánu
@@ -604,6 +1075,42 @@ Velmi široké oprávnění **vyžadovat, shromažďovat a evidovat údaje** od 
 
 **Výklad:** Stručné ustanovení o široké součinnostní povinnosti při tvorbě krizových plánů. Sankce za porušení viz § 34a odst. 1 (přestupek).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** HZS kraje při tvorbě krizového plánu ORP žádá obecní úřad, vodárenskou společnost a místního dopravce o součinnost (předání podkladů, účast na koordinačních jednáních). Dopravce součinnost neposkytne a na výzvy nereaguje. Účastníci: HZS kraje, obec, vodárna, dopravce. Doklady: výzvy k součinnosti, krizový plán ORP, doklad o nečinnosti dopravce.
+
+**2. Právní otázka.** Jsou oslovené subjekty povinny poskytnout součinnost při zpracování krizového plánu a jaká je sankce za její neposkytnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15a (povinnost součinnosti orgánů kraje a obcí, organizačních složek státu, PO a podnikajících FO při zpracování krizového plánu kraje a ORP, je-li to nezbytné).
+- *Související ustanovení téhož zákona:* § 15 odst. 1 písm. c) a d) (HZS jako zpracovatel plánů), § 29 odst. 1 a 2 (povinnosti PO), § 34a odst. 1 (přestupek).
+- *Související předpisy:* zákon č. 250/2016 Sb. (řízení o přestupcích).
+- *Judikatura:* obecná maxima o vynutitelnosti zákonných součinnostních povinností správní sankcí.
+
+**4. Subsumpce.** § 15a zakládá širokou součinnostní povinnost „je-li to nezbytné" pro zpracování plánu. Dopravce jako podnikající osoba do okruhu povinných spadá; neposkytnutí součinnosti naplňuje přestupek dle § 34a odst. 1 (nepodílení se na zpracování krizových plánů — § 29 odst. 1). Podmínka nezbytnosti součinnosti je při tvorbě plánu ORP splněna.
+
+**5. Řešení.** Dopravce je povinen součinnost poskytnout; jeho nečinnost je přestupkem dle § 34a odst. 1, který projednává HZS kraje (§ 34b) s pokutou až 3 000 000 Kč. HZS součinnost vyžaduje jen v nezbytném rozsahu. Riziko: nedoložení nezbytnosti by oslabilo zákonnost výzvy.
+
+**6. Varianty.** (a) Jde-li o údaje dostupné jinak (veřejné registry), uplatní se princip neduplicity (§ 39f). (b) Jde-li o subjekt kritické infrastruktury, součinnost nesmí ohrozit poskytování základní služby (analogicky § 29 odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Součinnost je dobrovolná." — Neutralizace: § 15a stanoví povinnost; její neposkytnutí je sankcionováno jako přestupek (§ 34a odst. 1).
+- *Protiargument:* „HZS může vyžadovat součinnost neomezeně." — Neutralizace: povinnost je vázána podmínkou nezbytnosti pro zpracování plánu; nadbytečné požadavky jsou nezákonné.
+- *Slabé místo:* ustanovení je stručné a neurčuje rozsah součinnosti — meze dotváří podmínka nezbytnosti a zásada proporcionality.
+
+##### H. Praktický závěr
+
+§ 15a zakládá širokou, leč nezbytností limitovanou povinnost součinnosti při tvorbě krizových plánů kraje a ORP, jejímž zpracovatelem je HZS; neposkytnutí součinnosti je přestupkem podle § 34a odst. 1.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá subjekt do okruhu povinných (orgány kraje/obcí, organizační složky státu, PO, podnikající FO)?
+- [ ] Je součinnost nezbytná pro zpracování konkrétního krizového plánu?
+- [ ] Nelze potřebné získat jinak (§ 39f)?
+- [ ] Hrozí za neposkytnutí přestupek dle § 34a odst. 1 (projednává HZS — § 34b)?
+
+**Typicky rozhodné důkazy / podklady:** výzvy HZS k součinnosti, krizový plán, doklad o nezbytnosti, dokumentace nečinnosti, podklad přestupkového řízení.
+
 ---
 
 #### § 16 — Policie ČR
@@ -611,6 +1118,41 @@ Velmi široké oprávnění **vyžadovat, shromažďovat a evidovat údaje** od 
 > **§ 16:** Policie ČR zajišťuje připravenost k řešení krizových situací spojených s vnitřní bezpečností a veřejným pořádkem na území kraje a může vyžadovat údaje od HZS podle § 15 odst. 2.
 
 **Výklad:** Policie je v krizovém řízení **odpovědná za vnitřní bezpečnost** — vymezuje se vůči HZS, který je odpovědný za záchranné a likvidační práce. Toto rozdělení odpovídá obecné struktuře IZS podle zákona č. 239/2000 Sb.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu po rozsáhlé evakuaci hrozí rabování opuštěných domů a narušení veřejného pořádku. Policie ČR zajišťuje ostrahu evakuovaného území a k tomu od HZS kraje vyžaduje údaje o počtu osob bydlících v místě evakuace a o uspořádání objektů. HZS váhá s předáním. Účastníci: Policie ČR, HZS kraje, hejtman (koordinace). Doklady: žádost Policie o údaje, evidence HZS, koordinační plán.
+
+**2. Právní otázka.** V jakém rozsahu je Policie ČR v krizovém řízení odpovědná za vnitřní bezpečnost a může od HZS vyžadovat údaje podle § 15 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 (Policie ČR — připravenost k řešení krizových situací spojených s vnitřní bezpečností a veřejným pořádkem; oprávnění vyžadovat údaje dle § 15 odst. 2).
+- *Související ustanovení téhož zákona:* § 15 odst. 2 (kategorie údajů), § 14 odst. 3 písm. c) (koordinace ochrany majetku po evakuaci hejtmanem), § 28 odst. 3 (přiměřené použití úpravy IZS).
+- *Související předpisy:* zákon č. 273/2008 Sb., o Policii ČR; zákon č. 239/2000 Sb. (IZS — dělba úkolů).
+- *Judikatura:* obecná maxima o dělbě úkolů složek IZS (vnitřní bezpečnost vs. záchranné a likvidační práce).
+
+**4. Subsumpce.** Ochrana veřejného pořádku a majetku po evakuaci spadá do působnosti Policie (vnitřní bezpečnost — § 16). Policie je oprávněna vyžadovat údaje dle § 15 odst. 2 od HZS → údaje o počtech osob (písm. c) a uspořádání objektů (písm. g) jsou poskytnutelné. Hejtman koordinuje ochranu majetku po evakuaci (§ 14 odst. 3 písm. c).
+
+**5. Řešení.** Policie zajišťuje ostrahu evakuovaného území v rámci vnitřní bezpečnosti; HZS je povinen jí na žádost předat relevantní údaje dle § 15 odst. 2. Koordinaci zastřešuje hejtman (§ 14 odst. 3 písm. c). Dělba je jasná: HZS odpovídá za záchranné a likvidační práce, Policie za vnitřní bezpečnost a veřejný pořádek. Riziko: záměna rolí složek IZS a předávání údajů nad rámec § 15 odst. 2.
+
+**6. Varianty.** (a) Jde-li o záchranné práce (vyprošťování, hašení), gestorem je HZS, nikoli Policie. (b) Mimo krizový stav Policie postupuje dle obecné úpravy zákona o Policii ČR a IZS.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Policie nemá v krizovém řízení samostatnou roli." — Neutralizace: § 16 jí výslovně svěřuje připravenost k řešení krizových situací v oblasti vnitřní bezpečnosti a veřejného pořádku a oprávnění vyžadovat údaje dle § 15 odst. 2.
+- *Protiargument:* „HZS nesmí Policii předat osobní údaje." — Neutralizace: § 16 zakládá oprávnění Policie tyto údaje vyžadovat; předání má zákonný titul ve veřejném zájmu, v rozsahu § 15 odst. 2.
+- *Slabé místo:* rozhraní mezi „vnitřní bezpečností" (Policie) a „záchrannými a likvidačními pracemi" (HZS) může být v terénu prolnuté; koordinaci zajišťuje velitel zásahu a hejtman.
+
+##### H. Praktický závěr
+
+§ 16 vymezuje Policii ČR jako složku odpovědnou v krizovém řízení za vnitřní bezpečnost a veřejný pořádek; je oprávněna vyžadovat od HZS údaje dle § 15 odst. 2. Dělba úkolů vůči HZS odpovídá struktuře IZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o úkol vnitřní bezpečnosti a veřejného pořádku (→ Policie), nebo o záchranné/likvidační práce (→ HZS)?
+- [ ] Jsou vyžadované údaje v rozsahu § 15 odst. 2?
+- [ ] Je zajištěna koordinace (hejtman — § 14 odst. 3, velitel zásahu dle IZS)?
+
+**Typicky rozhodné důkazy / podklady:** žádost Policie o údaje, evidence HZS, koordinační dokumentace, doklad o vyhlášení krizového stavu.
 
 ---
 
@@ -631,6 +1173,42 @@ Starosta ORP je **paralelou hejtmana na úrovni obce s rozšířenou působnost�
 
 Klíčový rozdíl oproti hejtmanovi: **starosta ORP nedisponuje vlastním katalogem krizových opatření** typu § 14 odst. 4 (s výjimkou věcného prostředku při nebezpečí z prodlení podle § 29 odst. 5).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu starosta ORP zajišťuje provedení vládních krizových opatření ve správním obvodu ORP, řídí krizový štáb ORP a koordinuje obce. Vlastník nemovitosti se domáhá, aby mu starosta ORP přímo nařídil poskytnutí věcného prostředku; starosta ORP namítá, že nedisponuje vlastním katalogem opatření jako hejtman. Účastníci: starosta ORP, hejtman, vlastník nemovitosti, dotčená obec. Doklady: krizový plán ORP, pokyny hejtmana, případně rozhodnutí o věcném prostředku.
+
+**2. Právní otázka.** Disponuje starosta ORP vlastním katalogem krizových opatření (analogickým § 14 odst. 4 hejtmana), nebo je jeho role převážně výkonná a koordinační?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 (starosta ORP — zajištění připravenosti správního obvodu, bezpečnostní rada a krizový štáb ORP, schválení krizového plánu ORP, plnění úkolů hejtmana).
+- *Související ustanovení téhož zákona:* § 14 (hejtman — katalog § 14 odst. 4), § 29 odst. 5 (věcný prostředek — uložení hejtmanem, při nebezpečí z prodlení starostou), § 24b (krizový štáb ORP), § 39a (přenesená působnost).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích; Statut hl. m. Prahy (pro městské části).
+- *Judikatura:* obecná maxima o vázanosti orgánu zákonnou působností.
+
+**4. Subsumpce.** § 18 nesvěřuje starostovi ORP vlastní katalog opatření typu § 14 odst. 4; jeho role je zajištění provedení opatření, řízení štábu ORP a plnění úkolů hejtmana. Věcný prostředek ukládá zásadně hejtman (§ 29 odst. 5); starosta jen při nebezpečí z prodlení a s následným informováním hejtmana. Požadavek vlastníka na přímé nařízení starostou ORP tak naráží na chybějící samostatnou pravomoc.
+
+**5. Řešení.** Starosta ORP zajišťuje provedení krizových opatření vlády/hejtmana, ale sám zásadně neukládá opatření z katalogu § 14 odst. 4. Věcný prostředek může uložit jen při nebezpečí z prodlení (§ 29 odst. 5) a následně informuje hejtmana. Jinak vlastníka odkáže na příslušnost hejtmana. Riziko: překročení pravomoci starostou ORP by akt zatížilo vadou.
+
+**6. Varianty.** (a) Hrozí-li nebezpečí z prodlení, starosta ORP (resp. starosta obce) může uložit poskytnutí věcného prostředku a poté informovat hejtmana. (b) Na území hl. m. Prahy plní úkoly starosty ORP starosta městské části podle Statutu HMP.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Starosta ORP má stejné pravomoci jako hejtman." — Neutralizace: § 18 mu nesvěřuje vlastní katalog opatření (§ 14 odst. 4); jeho role je výkonná, koordinační a plánovací, s výjimkou věcného prostředku při nebezpečí z prodlení.
+- *Protiargument:* „Krizový štáb ORP je fakultativní." — Neutralizace: na rozdíl od krizového štábu obce je krizový štáb ORP obligatorní (§ 18, § 24b); starosta ORP jej zřizuje a řídí.
+- *Slabé místo:* hranice mezi „zajištěním provedení" opatření a „nařízením" opatření je v praxi tenká; starosta ORP musí dbát, aby nepřekročil svou působnost.
+
+##### H. Praktický závěr
+
+§ 18 staví starostu ORP do role paralely hejtmana na úrovni ORP, avšak bez vlastního katalogu krizových opatření: zřizuje a řídí bezpečnostní radu a krizový štáb ORP, schvaluje krizový plán ORP, plní úkoly hejtmana a zajišťuje provedení opatření; věcný prostředek ukládá jen při nebezpečí z prodlení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o „zajištění provedení" opatření (→ starosta ORP), nebo o „nařízení" opatření z katalogu (→ hejtman)?
+- [ ] Je krizový štáb ORP zřízen a řízen starostou ORP (§ 24b)?
+- [ ] Je schválen krizový plán ORP?
+- [ ] Věcný prostředek: hrozí nebezpečí z prodlení? Byl o tom informován hejtman (§ 29 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** krizový plán ORP, pokyny hejtmana, dokumentace činnosti krizového štábu ORP, případné rozhodnutí o věcném prostředku a informování hejtmana.
+
 ---
 
 #### § 19 — Obecní úřad obce s rozšířenou působností
@@ -638,6 +1216,42 @@ Klíčový rozdíl oproti hejtmanovi: **starosta ORP nedisponuje vlastním katal
 > **§ 19** (shrnutí): Obecní úřad ORP poskytuje součinnost HZS při zpracování krizového plánu kraje a krizového plánu ORP, plní úkoly podle těchto plánů, vede evidence pobytu, vede přehled zdrojů rizik a v rámci prevence odstraňuje nedostatky, zřizuje pracoviště krizového řízení.
 
 **Výklad:** Obecní úřad ORP plní podpůrnou roli vůči starostovi ORP a aparát krizového řízení v ORP. Klíčová je povinnost **vést evidenci údajů o přechodných změnách pobytu osob** podle § 39d a § 39e.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu po evakuaci přijíždějí evakuovaní do správního obvodu ORP a hlásí přechodnou změnu pobytu. Obecní úřad ORP má vést jejich evidenci a předávat ji HZS kraje. Úřad však data nezaeviduje včas, takže při pátrání po pohřešované osobě chybí podklad. Účastníci: obecní úřad ORP, HZS kraje, evakuovaní, příbuzní pohřešovaného. Doklady: evidence dle § 39d/39e, hlášení přechodné změny pobytu.
+
+**2. Právní otázka.** Jaké evidenční povinnosti má obecní úřad ORP v krizovém řízení a jaké jsou důsledky jejich nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 (obecní úřad ORP — součinnost s HZS, úkoly dle krizových plánů, vedení evidence pobytu, přehled zdrojů rizik, pracoviště krizového řízení).
+- *Související ustanovení téhož zákona:* § 39d a § 39e (evidence přechodných změn pobytu — kaskáda), § 6 odst. 2 písm. a) (povinné hlášení změny pobytu), § 31 odst. 3 písm. b) (povinnost FO hlásit).
+- *Související předpisy:* čl. 6 odst. 1 písm. c) a e) GDPR; zákon č. 128/2000 Sb., o obcích.
+- *Judikatura:* obecná maxima o odpovědnosti za nesprávný úřední postup a o povinnosti řádně vést zákonem stanovené evidence.
+
+**4. Subsumpce.** Obecní úřad ORP je dle § 39d odst. 6 a § 39e zdrojem údajů pro evidenci vedenou HZS kraje → je povinen vést evidenci přechodných změn pobytu a předávat ji výše. Neprovedení evidence je porušením úkolu dle § 19 a § 39d/39e; znak „vedení evidence" nebyl naplněn včas.
+
+**5. Řešení.** Obecní úřad ORP musí evidenci pobytu vést bez prodlení a předávat ji HZS kraje (kaskáda obec → ORP → HZS kraje → MV). Pochybení (opožděná evidence) může založit odpovědnost za nesprávný úřední postup, vznikne-li škoda (např. zmaření pátrání). Riziko: nesprávné vedení evidence ohrožuje životy a zakládá odpovědnost; nutná je minimalizace zpracovávaných údajů (§ 39d odst. 2).
+
+**6. Varianty.** (a) Za stavu nebezpečí se vede evidence dle § 39e a při eskalaci na nouzový stav se považuje za evidenci dle § 39d. (b) Lze-li údaje získat z IS veřejné správy, uplatní se princip neduplicity (§ 39f).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vedení evidence pobytu je věcí HZS, ne obecního úřadu ORP." — Neutralizace: § 39d odst. 6 a § 39e činí obecní úřad ORP zdrojem údajů; HZS kraje pouze agreguje.
+- *Protiargument:* „Evidence porušuje GDPR." — Neutralizace: zpracování má zákonný titul (čl. 6 odst. 1 písm. c, e GDPR) a minimalistický rozsah údajů (§ 39d odst. 2).
+- *Slabé místo:* ustanovení je stručné a odkazuje na zvláštní úpravu (§ 39d/39e); rozsah úkolů úřadu se dovozuje ve spojení s nimi.
+
+##### H. Praktický závěr
+
+§ 19 vymezuje obecní úřad ORP jako podpůrný aparát starosty ORP s klíčovou povinností vést evidenci přechodných změn pobytu (§ 39d, § 39e) v rámci kaskády obec → ORP → HZS kraje → MV; pochybení může založit odpovědnost za nesprávný úřední postup.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vede obecní úřad ORP řádně evidenci přechodných změn pobytu (§ 39d/39e)?
+- [ ] Předává údaje včas HZS kraje (kaskáda)?
+- [ ] Je rozsah zpracovávaných údajů minimalistický (§ 39d odst. 2)?
+- [ ] Plní úřad úkoly dle krizových plánů a vede přehled zdrojů rizik?
+
+**Typicky rozhodné důkazy / podklady:** evidence pobytu, hlášení přechodných změn pobytu, doklad o předání HZS, krizový plán ORP, případná dokumentace škody z pochybení.
 
 ---
 
@@ -688,6 +1302,42 @@ Pokud starosta v krizovém stavu neplní úkoly, hejtman může jejich výkon **
 
 Institut se v praxi (od r. 2001) nikdy nepoužil.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu (rychle postupující povodeň) starosta malé obce zajišťuje varování obyvatel sirénou a místním rozhlasem, organizuje evakuaci a nouzové přežití. V kritickou chvíli však onemocní a obec přestane plnit úkoly; nikdo z radních nepřebírá iniciativu. Hejtman zvažuje jmenování zmocněnce. Účastníci: starosta obce, hejtman, obyvatelé, ministr vnitra. Doklady: doklad o nečinnosti obce, jmenování zmocněnce, informování obce a MV.
+
+**2. Právní otázka.** Jaké operativní úkoly má starosta obce v krizovém stavu a za jakých podmínek může hejtman převést jejich výkon na zmocněnce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 3 (varování a informování, evakuace z území obce, nouzové přežití, další nezbytná opatření), odst. 2 (zajištění provedení krizových opatření), odst. 4 (zmocněnec při nečinnosti starosty).
+- *Související ustanovení téhož zákona:* § 14 (hejtman), § 22 (nařízení obce v krizovém stavu), § 31 odst. 1 (právo FO na informace), § 39b (správce obce).
+- *Související předpisy:* čl. 8, čl. 100 Ústavy (územní samospráva); zákon č. 128/2000 Sb., o obcích.
+- *Judikatura:* obecná maxima o výjimečnosti zásahů do územní samosprávy a o jejich pojistkách.
+
+**4. Subsumpce.** Varování, evakuace z území obce a nouzové přežití spadají do § 21 odst. 3 → starosta je povinen je zajistit. Onemocnění starosty a nečinnost obce naplňuje hypotézu § 21 odst. 4 (starosta neplní úkoly v době krizového stavu) → hejtman může jmenovat zmocněnce na předem stanovenou dobu, informovat obec a ministra vnitra (jenž může rozhodnutí zrušit).
+
+**5. Řešení.** Hejtman jmenuje zmocněnce, který převezme výkon úkolů starosty (§ 21 odst. 3), o čemž neprodleně informuje obec a ministra vnitra. Institut je krajním řešením a obklopen pojistkami (časové omezení, kontrola MV). Alternativně, není-li funkční zastupitelstvo, nastupuje správce obce dle § 39b. Riziko: nečinnost obce ohrožuje životy; opožděný zásah zvyšuje škody.
+
+**6. Varianty.** (a) Je-li jmenován správce obce (§ 91 zák. o obcích), plní úkoly starosty v krizovém řízení podle § 39b. (b) Stačí-li koordinace hejtmana a starosta po uzdravení úkoly převezme, zmocněnec se nejmenuje.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krizový štáb obce musí být vždy zřízen." — Neutralizace: na rozdíl od štábů kraje a ORP je krizový štáb obce fakultativní („může zřídit" — § 21 odst. 2 písm. a).
+- *Protiargument:* „Jmenování zmocněnce je nepřípustný zásah do samosprávy." — Neutralizace: jde o zákonem předvídaný výjimečný institut s pojistkami (předem stanovená doba, informování a možnost zrušení ministrem vnitra); v krizovém kontextu ústavně obstojí.
+- *Slabé místo:* posouzení „neplnění úkolů" starostou je hodnotící; hejtman nese odpovědnost za včasnost i přiměřenost zásahu.
+
+##### H. Praktický závěr
+
+§ 21 vymezuje starostu obce jako nejnižší, operativní článek krizového řízení (varování, evakuace, nouzové přežití); krizový štáb obce je fakultativní. Při selhání starosty může hejtman výjimečně převést výkon úkolů na zmocněnce za stanovených pojistek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajistil starosta varování a informování obyvatel (§ 21 odst. 3 písm. a)?
+- [ ] Byla organizována evakuace a nouzové přežití (písm. b, c)?
+- [ ] Neplní-li starosta úkoly: jsou splněny podmínky pro zmocněnce (§ 21 odst. 4) a pojistky (doba, informování MV)?
+- [ ] Není namístě správce obce dle § 39b (nefunkční zastupitelstvo)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o varování a evakuaci, dokumentace nouzového přežití, doklad o nečinnosti obce, jmenování zmocněnce a informování obce a MV.
+
 ---
 
 #### § 21a — Obecní úřad
@@ -695,6 +1345,42 @@ Institut se v praxi (od r. 2001) nikdy nepoužil.
 > **§ 21a** (shrnutí): Obecní úřad organizuje přípravu obce, poskytuje podklady pro krizový plán ORP, vede evidence pobytu, podílí se na zajištění veřejného pořádku, plní úkoly z krizových plánů. Seznamuje právnické a fyzické osoby s charakterem možného ohrožení a krizovými opatřeními.
 
 **Výklad:** Obecní úřad je výkonným aparátem starosty v krizovém řízení. Klíčová je **informační povinnost vůči obyvatelům** podle odst. 2 — naplnění práva fyzických osob na informace podle § 31 odst. 1.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Obyvatel obce se domáhá informací o připravovaných krizových opatřeních a o charakteru možného ohrožení (blízkost chemičky). Obecní úřad odmítá s tím, že nemá povinnost obyvatele informovat, dokud krize reálně nenastane. Účastníci: obecní úřad, obyvatel (fyzická osoba), starosta. Doklady: žádost obyvatele, informační materiály obce, krizový plán ORP.
+
+**2. Právní otázka.** Má obecní úřad povinnost seznamovat obyvatele s charakterem možného ohrožení a s krizovými opatřeními již v rámci prevence, mimo trvání krizového stavu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21a (obecní úřad — příprava obce, podklady pro krizový plán ORP, evidence pobytu, seznamování osob s ohrožením a krizovými opatřeními).
+- *Související ustanovení téhož zákona:* § 31 odst. 1 (právo FO na nezbytné informace), § 15 odst. 3 písm. a) (informační role HZS), § 21 (starosta obce).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích; zákon č. 106/1999 Sb. (s limity § 27 — zvláštní skutečnosti).
+- *Judikatura:* obecná maxima o naplňování práva na informace o ohrožení života a zdraví.
+
+**4. Subsumpce.** Informační povinnost obecního úřadu dle § 21a (seznamování s charakterem možného ohrožení a s připravenými krizovými opatřeními) je trvalá, nikoli vázaná až na trvání krizového stavu; koresponduje s právem FO na nezbytné informace dle § 31 odst. 1. Znak „seznamování v rámci prevence" je tedy naplněn i mimo krizový stav.
+
+**5. Řešení.** Obecní úřad je povinen obyvatele seznámit s charakterem možného ohrožení a s připravenými krizovými opatřeními (§ 21a), v mezích ochrany zvláštních skutečností (§ 27). Odmítnutí s odkazem na „budoucí krizi" je nesprávné. Riziko: nadměrné zveřejnění údajů označených „ZS" by naopak porušilo § 27; nutné je vyvážení.
+
+**6. Varianty.** (a) Jde-li o údaje označené „ZS" (§ 27), úřad poskytne jen informace v nezbytném rozsahu k ochraně obyvatel, nikoli citlivé detaily. (b) Za krizového stavu se informační povinnost zintenzivňuje (varování — § 21 odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Informační povinnost vzniká až za krizového stavu." — Neutralizace: § 21a zakládá trvalou preventivní informační povinnost; § 31 odst. 1 zakotvuje korespondující právo FO.
+- *Protiargument:* „Vše o ohrožení musí být zveřejněno." — Neutralizace: údaje označené „ZS" (§ 27) podléhají ochraně; zveřejňuje se jen nezbytné pro ochranu života, zdraví a majetku.
+- *Slabé místo:* hranice mezi informováním obyvatel a ochranou zvláštních skutečností je citlivá; úřad musí obě hodnoty vyvážit.
+
+##### H. Praktický závěr
+
+§ 21a vymezuje obecní úřad jako výkonný aparát starosty s trvalou preventivní informační povinností vůči obyvatelům (seznamování s ohrožením a krizovými opatřeními), naplňující právo FO dle § 31 odst. 1, při respektování ochrany zvláštních skutečností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Seznamuje obecní úřad obyvatele s charakterem možného ohrožení a krizovými opatřeními (§ 21a)?
+- [ ] Je naplněno právo FO na nezbytné informace (§ 31 odst. 1)?
+- [ ] Jsou respektovány limity ochrany zvláštních skutečností (§ 27)?
+- [ ] Poskytuje úřad podklady pro krizový plán ORP a vede evidenci pobytu?
+
+**Typicky rozhodné důkazy / podklady:** žádost obyvatele, informační materiály obce, krizový plán ORP, evidence „ZS", doklad o seznámení obyvatel.
 
 ---
 
@@ -712,6 +1398,42 @@ Institut se v praxi (od r. 2001) nikdy nepoužil.
 
 **Rozpočtová zodpovědnost obce** (odst. 2): náklady krizových opatření stanovených **obcí** hradí obec ze svého rozpočtu. Toto pravidlo zohledňuje princip „kdo rozhoduje, ten platí" a odpovídá § 25 (financování krizových opatření).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Při vyhlášeném stavu nebezpečí obec potřebuje neprodleně zakázat vjezd vozidel na podmáčenou hráz a uložit povinnost odklízet naplaveniny. Vydá nařízení obce a vyvěsí je na úřední desce ráno v 7:00; zákaz má platit ihned. Řidič, který v 8:00 na hráz vjede, namítá, že nařízení obce nabývá účinnosti až 15. dnem po vyhlášení. Účastníci: obec, řidič, později přestupkový orgán. Doklady: nařízení obce, doklad o vyvěšení s časem, doklad o vyhlášení krizového stavu.
+
+**2. Právní otázka.** Kdy nabývá účinnosti nařízení obce vydané k provedení krizových opatření za nouzového stavu nebo stavu nebezpečí a kdo nese náklady opatření stanovených obcí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (účinnost okamžikem vyvěšení na úřední desce, zveřejnění místně obvyklými způsoby), odst. 2 (náklady opatření obce z obecního rozpočtu).
+- *Související ustanovení téhož zákona:* § 21 (starosta obce — zajištění opatření), § 25 (financování), § 3 odst. 6 a § 8 (publikace krizových opatření vyšších orgánů).
+- *Související předpisy:* § 12 odst. 4 zákona č. 128/2000 Sb., o obcích (běžná 15denní lhůta — derogovaná § 22).
+- *Judikatura:* obecná maxima o seznatelnosti a vykonatelnosti práva a o derogaci obecné úpravy zvláštní normou (lex specialis).
+
+**4. Subsumpce.** § 22 odst. 1 jako lex specialis vůči § 12 odst. 4 obecního zřízení stanoví, že nařízení obce za krizového stavu nabývá účinnosti okamžikem vyvěšení na úřední desce, nikoli 15. dnem. Vyvěšení v 7:00 → účinnost od 7:00; zákaz v 8:00 byl tedy platný a vynutitelný. Námitka řidiče (15denní lhůta) je nedůvodná.
+
+**5. Řešení.** Nařízení obce je účinné okamžikem vyvěšení (§ 22 odst. 1); zákaz byl v 8:00 vynutitelný a jeho porušení lze postihnout. Obec musí nařízení zveřejnit i místně obvyklými způsoby (rozhlas) pro faktickou publicitu. Náklady opatření stanovených obcí nese obec z obecního rozpočtu (§ 22 odst. 2). Riziko: bez faktické publicity (rozhlas) je vynutitelnost vůči konkrétní osobě oslabena; nutno doložit čas vyvěšení.
+
+**6. Varianty.** (a) Změna obsahu nařízení obce se vyhlašuje stejným postupem (§ 22 odst. 1 věta poslední). (b) Jde-li o krizové opatření vlády či hejtmana (nikoli nařízení obce), publikace se řídí § 8, resp. § 3 odst. 6.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nařízení obce nabývá účinnosti až 15. dnem po vyhlášení." — Neutralizace: § 22 odst. 1 je zvláštní úpravou derogující § 12 odst. 4 obecního zřízení; za krizového stavu je účinnost okamžitá.
+- *Protiargument:* „Náklady krizových opatření vždy hradí stát." — Neutralizace: náklady opatření stanovených obcí hradí obec (§ 22 odst. 2 — kdo rozhoduje, ten platí); státní financování se týká jiných úrovní (§ 25).
+- *Slabé místo:* okamžitá účinnost klade vysoké nároky na faktickou publicitu (rozhlas); chybí-li, je vynutitelnost vůči adresátovi oslabena.
+
+##### H. Praktický závěr
+
+§ 22 zavádí mimořádný režim nařízení obce za krizového stavu: účinnost nastává okamžikem vyvěšení na úřední desce (derogace 15denní lhůty), s povinností místně obvyklého zveřejnění; náklady opatření stanovených obcí nese obec.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vyhlášen nouzový stav nebo stav nebezpečí (předpoklad mimořádného režimu § 22)?
+- [ ] Bylo nařízení obce vyvěšeno na úřední desce (okamžik účinnosti) a zveřejněno místně obvyklými způsoby?
+- [ ] Je doložen čas vyvěšení (pro posouzení vynutitelnosti)?
+- [ ] Nese obec náklady opatření, která sama stanovila (§ 22 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** nařízení obce, doklad o vyvěšení s časem, záznam o rozhlasovém vyhlášení, doklad o vyhlášení krizového stavu, rozpočtové podklady k nákladům.
+
 ---
 
 ### HLAVA III — Ostatní orgány s územní působností
@@ -726,6 +1448,42 @@ Institut se v praxi (od r. 2001) nikdy nepoužil.
 
 Bezpečnostní rada je **poradní orgán strategického plánování**. Její složení a činnost upravuje prováděcí předpis — nařízení vlády č. 462/2000 Sb. (k provedení § 27 odst. 8 a § 28 odst. 5 krizového zákona — dnes částečně překonáno novelami zákona). Členy bezpečnostní rady kraje jsou zpravidla: hejtman (předseda), náměstci hejtmana, ředitel krajského úřadu, ředitel HZS kraje, ředitel krajského ředitelství Policie ČR, ředitel ZZS kraje, krajský hygienik, zástupce armády ČR a další.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Mimo krizový stav hejtman svolá bezpečnostní radu kraje k projednání stavu připravenosti kraje na povodně a k posouzení krizového plánu kraje. Jeden z členů namítá, že bezpečnostní rada může rozhodovat o krizových opatřeních a ukládat povinnosti subjektům. Účastníci: hejtman (předseda), členové rady (ředitel HZS kraje, ředitel krajského ředitelství Policie, krajský hygienik aj.). Doklady: jednací řád, zápis z jednání, krizový plán kraje.
+
+**2. Právní otázka.** Jaká je povaha a pravomoc bezpečnostní rady kraje — jde o rozhodovací, nebo o poradní orgán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 (bezpečnostní rada kraje a ORP jako poradní orgány zřizovatele pro přípravu na krizové situace; předsednictví hejtmana/starosty ORP).
+- *Související ustanovení téhož zákona:* § 14 odst. 2 písm. a) a c) (hejtman zřizuje radu, schvaluje krizový plán), § 24b (krizový štáb — pracovní orgán pro řešení), § 40 odst. 1 písm. b) (prováděcí úprava složení).
+- *Související předpisy:* nařízení vlády č. 462/2000 Sb. (složení a činnost); zákon č. 129/2000 Sb., o krajích.
+- *Judikatura:* obecná maxima o tom, že poradní orgán nevydává vrchnostenské akty.
+
+**4. Subsumpce.** § 24 vymezuje bezpečnostní radu jako poradní orgán pro přípravu (nikoli pro řešení); pracovním orgánem pro řešení krize je krizový štáb (§ 24b). Bezpečnostní rada tedy projednává stav připravenosti a zabezpečení, ale nerozhoduje o krizových opatřeních ani neukládá povinnosti. Námitka člena o rozhodovací pravomoci je nesprávná.
+
+**5. Řešení.** Bezpečnostní rada kraje projedná připravenost a krizový plán a doporučí hejtmanovi postup; rozhodnutí (schválení plánu) činí hejtman (§ 14 odst. 2 písm. c), nikoli rada. O krizových opatřeních se rozhoduje až za krizového stavu prostřednictvím hejtmana a krizového štábu. Riziko: záměna poradní a rozhodovací funkce; akty „vydané radou" by byly nicotné.
+
+**6. Varianty.** (a) Za krizového stavu se aktivuje krizový štáb kraje (§ 24b) jako pracovní orgán pro řešení, nikoli bezpečnostní rada. (b) Na úrovni ORP plní obdobnou poradní funkci bezpečnostní rada ORP (předseda starosta ORP).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bezpečnostní rada může ukládat povinnosti a rozhodovat o opatřeních." — Neutralizace: § 24 ji vymezuje jako poradní orgán pro přípravu; rozhodovací pravomoc náleží hejtmanovi a operativní řešení krizovému štábu (§ 24b).
+- *Protiargument:* „Složení rady je libovolné." — Neutralizace: složení a činnost stanoví prováděcí předpis (nař. vlády č. 462/2000 Sb.) a § 40 odst. 1 písm. b).
+- *Slabé místo:* hranice mezi „projednáním" v radě a „rozhodnutím" hejtmana může v praxi splývat; rozhodné je, že vrchnostenský akt vydává hejtman.
+
+##### H. Praktický závěr
+
+§ 24 zřizuje bezpečnostní rady kraje a ORP jako poradní orgány strategického plánování a přípravy (předseda hejtman/starosta ORP); nejsou rozhodovacím orgánem. Pro řešení krize slouží krizové štáby (§ 24b).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přípravu (→ bezpečnostní rada), nebo o řešení krize (→ krizový štáb)?
+- [ ] Vydává vrchnostenský akt hejtman/starosta ORP, nikoli rada?
+- [ ] Odpovídá složení rady prováděcímu předpisu (nař. vlády č. 462/2000 Sb.)?
+- [ ] Byl krizový plán řádně projednán v radě a schválen hejtmanem?
+
+**Typicky rozhodné důkazy / podklady:** jednací řád a zápisy z jednání rady, krizový plán kraje, doklad o jeho schválení hejtmanem, prováděcí předpis ke složení.
+
 ---
 
 #### § 24a — Ústřední krizový štáb
@@ -738,6 +1496,42 @@ Bezpečnostní rada je **poradní orgán strategického plánování**. Její sl
 
 ÚKŠ není orgánem s vlastní rozhodovací pravomocí — připravuje podklady pro vládu, koordinuje resorty, navrhuje krizová opatření.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu (pandemie) vláda aktivuje Ústřední krizový štáb. ÚKŠ pod předsednictvím ministra vnitra zasedá denně, navrhuje krizová opatření a koordinuje resorty. Podnikatel napadne přímo opatření ÚKŠ jako nezákonné rozhodnutí. Účastníci: vláda, ÚKŠ, ministři, podnikatel. Doklady: Statut ÚKŠ, usnesení vlády o krizovém opatření, zápisy ÚKŠ.
+
+**2. Právní otázka.** Má Ústřední krizový štáb vlastní rozhodovací pravomoc, nebo jen připravuje podklady pro vládu, a lze jeho výstupy přímo napadnout u soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a (ÚKŠ jako pracovní orgán vlády pro řešení krizových situací; složení a činnost dle Statutu schvalovaného vládou).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. c) (vláda zřizuje ÚKŠ), § 6 (krizová opatření vlády), § 8 (forma a publikace).
+- *Související předpisy:* čl. 76 Ústavy (usnesení vlády); Statut ÚKŠ (usnesení vlády č. 24/2014).
+- *Judikatura:* Pl. ÚS 8/20 — přezkoumatelná jsou krizová opatření vlády (usnesení), nikoli interní podklady pracovních orgánů.
+
+**4. Subsumpce.** § 24a vymezuje ÚKŠ jako pracovní orgán vlády bez vlastní rozhodovací pravomoci; připravuje podklady a koordinuje, ale rozhoduje vláda (usnesením). Výstupy ÚKŠ nejsou vrchnostenskými akty → nelze je přímo napadnout. Napadnout lze až usnesení vlády o krizovém opatření.
+
+**5. Řešení.** Podnikatel nemůže přímo napadnout výstup ÚKŠ; předmětem přezkumu (ÚS jako jiný právní předpis) je usnesení vlády o krizovém opatření. ÚKŠ jen navrhuje a koordinuje. Riziko: záměna návrhu ÚKŠ za rozhodnutí vlády; nesprávné určení napadnutelného aktu vede k odmítnutí návrhu.
+
+**6. Varianty.** (a) Podle povahy krize předsedá ÚKŠ ministr vnitra (vnitřní bezpečnost) nebo ministr obrany (vnější ohrožení). (b) Na krajské úrovni plní obdobnou roli krizový štáb kraje (§ 24b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Opatření ÚKŠ je samostatně napadnutelné rozhodnutí." — Neutralizace: § 24a činí z ÚKŠ pracovní orgán vlády bez rozhodovací pravomoci; napadnutelné je usnesení vlády, nikoli podklad ÚKŠ.
+- *Protiargument:* „Statut ÚKŠ je nezávazný dokument." — Neutralizace: Statut schvaluje vláda a upravuje složení a činnost ÚKŠ; je závazným vnitřním rámcem jeho fungování.
+- *Slabé místo:* faktický vliv ÚKŠ na obsah opatření je značný, ale právně se projevuje až v usnesení vlády; to může vést k mylné představě o jeho přímé rozhodovací roli.
+
+##### H. Praktický závěr
+
+§ 24a zřizuje Ústřední krizový štáb jako vrcholový pracovní (poradní a koordinační) orgán vlády bez vlastní rozhodovací pravomoci; rozhoduje vláda usnesením. Složení a činnost upravuje Statut schvalovaný vládou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o návrh/koordinaci ÚKŠ, nebo o rozhodnutí vlády (usnesení)?
+- [ ] Je předmětem případného přezkumu usnesení vlády, nikoli podklad ÚKŠ?
+- [ ] Odpovídá činnost ÚKŠ Statutu schválenému vládou?
+- [ ] Kdo ÚKŠ předsedá podle povahy krize (ministr vnitra / obrany)?
+
+**Typicky rozhodné důkazy / podklady:** Statut ÚKŠ, usnesení vlády o krizovém opatření, zápisy a návrhy ÚKŠ, doklad o publikaci opatření.
+
 ---
 
 #### § 24b — Krizový štáb kraje a ORP
@@ -745,6 +1539,42 @@ Bezpečnostní rada je **poradní orgán strategického plánování**. Její sl
 > **§ 24b:** Krizový štáb kraje a krizový štáb ORP jsou pracovním orgánem zřizovatele pro řešení krizových situací. Předsedou je hejtman/starosta ORP, kteří jmenují členy.
 
 **Výklad:** Tyto štáby se aktivují za krizového stavu nebo při cvičení. Jejich složení a činnost upravuje prováděcí předpis (nařízení vlády č. 462/2000 Sb. ve znění pozdějších předpisů).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Hejtman za stavu nebezpečí aktivuje krizový štáb kraje k řešení povodně. Štáb koordinuje nasazení sil, navrhuje hejtmanovi krizová opatření a zpracovává podklady. Obec namítá, že příkazy jí dával přímo krizový štáb, nikoli hejtman. Účastníci: hejtman (předseda štábu), členové štábu, obec. Doklady: jmenování členů štábu, zápisy, rozhodnutí hejtmana.
+
+**2. Právní otázka.** Jaká je povaha krizového štábu kraje (ORP) — rozhoduje sám, nebo je pracovním orgánem zřizovatele bez vlastní rozhodovací pravomoci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24b (krizový štáb kraje a ORP jako pracovní orgán zřizovatele pro řešení krizových situací; předseda hejtman/starosta ORP, který jmenuje členy).
+- *Související ustanovení téhož zákona:* § 14 odst. 2 písm. b) (hejtman zřizuje a řídí štáb), § 24 (bezpečnostní rada — příprava), § 15 odst. 3 písm. b) (HZS vytváří podmínky pro činnost štábu), § 40 odst. 1 písm. b) (prováděcí úprava).
+- *Související předpisy:* nařízení vlády č. 462/2000 Sb. (složení a činnost).
+- *Judikatura:* obecná maxima o tom, že pracovní orgán nevydává vrchnostenské akty.
+
+**4. Subsumpce.** § 24b činí z krizového štábu kraje pracovní orgán zřizovatele (hejtmana/starosty ORP) pro řešení krize; aktivuje se za krizového stavu nebo cvičení. Vrchnostenské akty (uložení povinnosti, nařízení opatření) vydává hejtman, nikoli štáb. Příkazy „dané štábem" obci proto musí být kryty rozhodnutím hejtmana.
+
+**5. Řešení.** Krizový štáb kraje koordinuje a připravuje podklady, ale rozhoduje hejtman (§ 14 odst. 2 a 4). Příkazy vůči obci musí vydat či zaštítit hejtman; jinak jim chybí pravomocný základ. Podmínky pro činnost štábu vytváří HZS (§ 15 odst. 3 písm. b). Riziko: záměna pracovní a rozhodovací funkce; akty štábu bez krytí hejtmanem jsou vadné.
+
+**6. Varianty.** (a) Mimo krizový stav a cvičení štáb nezasedá; přípravu zajišťuje bezpečnostní rada (§ 24). (b) Na úrovni ORP řídí krizový štáb ORP starosta ORP (§ 18, § 24b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krizový štáb kraje sám rozhoduje a ukládá povinnosti." — Neutralizace: § 24b jej vymezuje jako pracovní orgán zřizovatele; rozhodovací pravomoc má hejtman/starosta ORP.
+- *Protiargument:* „Štáb funguje trvale." — Neutralizace: aktivuje se za krizového stavu nebo při cvičení; přípravu trvale zajišťuje bezpečnostní rada.
+- *Slabé místo:* operativní pokyny štábu v terénu mohou navenek působit jako rozhodnutí; nutné je formální krytí hejtmanem.
+
+##### H. Praktický závěr
+
+§ 24b zřizuje krizové štáby kraje a ORP jako pracovní orgány zřizovatele pro řešení krize (předseda hejtman/starosta ORP), aktivované za krizového stavu či cvičení; nejde o rozhodovací orgán. Podmínky pro jejich činnost vytváří HZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o koordinaci/podklady štábu, nebo o rozhodnutí hejtmana/starosty ORP?
+- [ ] Je vrchnostenský akt vůči adresátovi kryt rozhodnutím zřizovatele?
+- [ ] Je štáb aktivován za krizového stavu nebo cvičení (jinak nezasedá)?
+- [ ] Vytváří HZS podmínky pro činnost štábu (§ 15 odst. 3 písm. b)?
+
+**Typicky rozhodné důkazy / podklady:** jmenování členů štábu, zápisy z jednání, rozhodnutí hejtmana/starosty ORP, prováděcí předpis ke složení a činnosti.
 
 ---
 
@@ -755,6 +1585,42 @@ Bezpečnostní rada je **poradní orgán strategického plánování**. Její sl
 > **§ 24c:** Územní správní úřady uvedené v krizovém plánu kraje nebo ORP zabezpečují krizovou připravenost v oblasti své působnosti a k tomu zpracovávají plán krizové připravenosti.
 
 **Výklad:** Územní správní úřady (např. úřady práce, finanční úřady, krajské hygienické stanice, oblastní inspektoráty práce, celní úřady) plní podporové úkoly v krizovém řízení v rozsahu své věcné působnosti.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Krajská hygienická stanice (územní správní úřad) je v krizovém plánu kraje uvedena jako subjekt zajišťující krizovou připravenost v oblasti ochrany veřejného zdraví, avšak nezpracovala plán krizové připravenosti. Při epidemii chybí návaznost na krizový plán kraje. Účastníci: krajská hygienická stanice, HZS kraje, hejtman. Doklady: krizový plán kraje, plán krizové připravenosti, doklad o nečinnosti úřadu.
+
+**2. Právní otázka.** Mají územní správní úřady uvedené v krizovém plánu povinnost zpracovat plán krizové připravenosti a zajišťovat krizovou připravenost ve své působnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24c (územní správní úřady uvedené v krizovém plánu kraje/ORP zabezpečují krizovou připravenost ve své působnosti a zpracovávají plán krizové připravenosti).
+- *Související ustanovení téhož zákona:* § 29 odst. 1 (plán krizové připravenosti — obecně), § 15 (HZS — zpracovatel plánů), § 28 odst. 1 (působnost v mezích zvláštních předpisů), § 40 odst. 1 písm. a) (náležitosti plánů).
+- *Související předpisy:* nařízení vlády č. 462/2000 Sb.; zvláštní zákony vymezující působnost úřadů (např. zákon č. 258/2000 Sb. — ochrana veřejného zdraví).
+- *Judikatura:* obecná maxima o vázanosti správního úřadu zákonnými úkoly krizové připravenosti.
+
+**4. Subsumpce.** Krajská hygienická stanice je územním správním úřadem uvedeným v krizovém plánu kraje → dle § 24c je povinna zabezpečovat krizovou připravenost ve své působnosti a zpracovat plán krizové připravenosti. Nezpracování plánu je porušením této povinnosti; znak „zpracování plánu krizové připravenosti" nebyl naplněn.
+
+**5. Řešení.** Úřad je povinen plán krizové připravenosti zpracovat a zabezpečit připravenost v oblasti ochrany veřejného zdraví (§ 24c). HZS kraje poskytuje metodickou součinnost (§ 15). Nesplnění oslabuje akceschopnost systému a může být vytýkáno v rámci kontroly (§ 33). Riziko: chybějící plán krizové připravenosti znamená nepřipravenost úřadu při reálné krizi.
+
+**6. Varianty.** (a) Není-li úřad v krizovém plánu uveden, povinnost zpracovat plán krizové připravenosti dle § 24c mu nevzniká. (b) Náležitosti plánu krizové připravenosti stanoví prováděcí předpis (§ 40 odst. 1 písm. a).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Plánování krizové připravenosti je věcí HZS, ne územních úřadů." — Neutralizace: § 24c výslovně ukládá územním správním úřadům zabezpečit připravenost a zpracovat plán krizové připravenosti; HZS poskytuje součinnost, ale plán zpracovává úřad.
+- *Protiargument:* „Úřad jedná jen ve své běžné působnosti." — Neutralizace: krizová připravenost je doplňkovým úkolem v mezích jeho věcné působnosti (§ 28 odst. 1); povinnost je zákonná.
+- *Slabé místo:* ustanovení je stručné; rozsah úkolů úřadu se dovozuje ve spojení s krizovým plánem kraje/ORP a prováděcím předpisem.
+
+##### H. Praktický závěr
+
+§ 24c ukládá územním správním úřadům uvedeným v krizovém plánu kraje/ORP zabezpečit krizovou připravenost ve své věcné působnosti a zpracovat plán krizové připravenosti; jde o podporové úkoly navázané na krizový plán.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je územní správní úřad uveden v krizovém plánu kraje/ORP?
+- [ ] Zpracoval plán krizové připravenosti (§ 24c) dle náležitostí (§ 40 odst. 1 písm. a)?
+- [ ] Zabezpečuje připravenost ve své věcné působnosti?
+- [ ] Využívá metodickou součinnost HZS (§ 15)?
+
+**Typicky rozhodné důkazy / podklady:** krizový plán kraje/ORP, plán krizové připravenosti úřadu, prováděcí předpis, případná kontrolní zjištění (§ 33).
 
 ---
 
@@ -774,6 +1640,42 @@ Bezpečnostní rada je **poradní orgán strategického plánování**. Její sl
 
 Tato struktura zabezpečuje **finanční pohotovost na všech úrovních** a předpokládá, že lokální rezervy se vyčerpávají dříve než centrální. V praxi velkých krizí (povodně, COVID) vláda zpravidla aktivuje i **vládní rozpočtovou rezervu** (§ 11 odst. 1 zákona č. 218/2000 Sb.) a mimořádné rozpočtové úpravy.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Kraj vyčerpal svou účelovou rezervu na řešení rozsáhlé povodně; náklady na nouzové ubytování a odstraňování následků dále rostou. Hejtman žádá o prostředky ze státní rezervy. MF namítá, že rezerva v kapitole VPS se použije jen po rozhodnutí vlády a ve vazbě na mimořádnou událost dle IZS. Účastníci: kraj, MF, MV, vláda. Doklady: rozpočet kraje, čerpání účelové rezervy, žádost o prostředky z VPS.
+
+**2. Právní otázka.** V jakém pořadí a z jakých zdrojů se financují krizová opatření a za jakých podmínek lze použít celostátní rezervu v kapitole VPS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 (třístupňový systém financování — běžné prostředky, účelová rezerva kraje/obce, účelová rezerva VPS; použití rezervy na předcházení jen ve vazbě na mimořádnou událost dle IZS).
+- *Související ustanovení téhož zákona:* § 22 odst. 2 (náklady opatření obce), § 35 a § 36 (náhrady), § 37 (státní podpora).
+- *Související předpisy:* zákon č. 218/2000 Sb., rozpočtová pravidla (§ 11 — vládní rozpočtová rezerva); zákon č. 239/2000 Sb. (mimořádná událost).
+- *Judikatura:* obecná maxima o vázanosti čerpání veřejných prostředků zákonným titulem a rozhodnutím příslušného orgánu.
+
+**4. Subsumpce.** § 25 staví třístupňovou kaskádu: nejprve běžné prostředky a účelové rezervy kraje/obce, teprve poté celostátní rezerva VPS po rozhodnutí vlády. Kraj svou rezervu vyčerpal → otevírá se cesta k rezervě VPS, ovšem podmíněná rozhodnutím vlády a (u předcházení) vazbou na mimořádnou událost dle IZS. Zde jde o řešení následků reálné povodně, tedy vazba na mimořádnou událost je dána.
+
+**5. Řešení.** Kraj nejprve vyčerpá vlastní rezervy; další prostředky lze poskytnout z rezervy VPS po rozhodnutí vlády (na návrh MF po projednání s MV). U velkých krizí vláda zpravidla aktivuje i vládní rozpočtovou rezervu (§ 11 zák. č. 218/2000 Sb.). Riziko: čerpání rezervy VPS bez rozhodnutí vlády nebo na předcházení bez vazby na mimořádnou událost by bylo nezákonné.
+
+**6. Varianty.** (a) Jde-li o náklady opatření stanovených obcí, hradí je obec ze svého rozpočtu (§ 22 odst. 2). (b) Jde-li o náhradu škody postiženým, uplatní se § 36, případně státní podpora § 37, nikoli rezerva na opatření.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stát hradí krizová opatření vždy a bez podmínek." — Neutralizace: § 25 staví kaskádu zdrojů; celostátní rezerva VPS je podmíněna rozhodnutím vlády a u předcházení vazbou na mimořádnou událost dle IZS.
+- *Protiargument:* „Rezervu lze použít na jakoukoli prevenci." — Neutralizace: použití na předcházení krizí je vázáno na mimořádnou událost podle zákona o IZS; mimo ni nelze.
+- *Slabé místo:* hranice mezi „řešením" a „předcházením" a načasování čerpání mohou být sporné; nutné je doložit vyčerpání nižších zdrojů.
+
+##### H. Praktický závěr
+
+§ 25 zavádí třístupňový systém financování krizových opatření (běžné prostředky → účelové rezervy kraje/obce → rezerva VPS po rozhodnutí vlády) s předpokladem, že nižší zdroje se vyčerpávají dříve než centrální; použití rezervy na předcházení je vázáno na mimořádnou událost dle IZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly vyčerpány běžné prostředky a účelové rezervy kraje/obce?
+- [ ] Je čerpání rezervy VPS podloženo rozhodnutím vlády (na návrh MF po projednání s MV)?
+- [ ] Jde o řešení následků, nebo o předcházení (u předcházení nutná vazba na mimořádnou událost dle IZS)?
+- [ ] Nejde spíše o náklady opatření obce (§ 22 odst. 2) nebo o náhrady (§ 35–37)?
+
+**Typicky rozhodné důkazy / podklady:** rozpočet a čerpání rezerv kraje/obce, žádost o prostředky z VPS, rozhodnutí vlády, doklad o mimořádné události dle IZS.
+
 ---
 
 #### § 26 — Informační systém krizového řízení (ISKŘ)
@@ -788,6 +1690,42 @@ ISKŘ je **datový mozek krizového řízení**. Klíčové vlastnosti:
 - **Princip anonymizace s výjimkou** — odst. 7 stanoví zpřístupnění ve formě neumožňující přímou identifikaci osob, **pokud tím nebude zmařen účel**. Tato dikce vyvažuje ochranu soukromí a operativní potřeby.
 - **Sdružování údajů** (odst. 8) — během řešení krize lze datové soubory propojovat, což představuje výrazný zásah do ochrany osobních údajů (čl. 5 GDPR), legitimizovaný čl. 6 odst. 1 písm. c) a e) GDPR.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Při řešení krizové situace MV prostřednictvím ISKŘ propojí (sdruží) data z evidence obyvatel, katastru nemovitostí a IS infekčních nemocí, aby lokalizovalo ohrožené osoby. Dotčená osoba namítá nepřípustné plošné sledování a porušení GDPR; požaduje, aby údaje byly zpřístupňovány jen anonymizovaně. Účastníci: MV (správce ISKŘ, fakticky GŘ HZS), dotčené osoby, dozorový úřad. Doklady: záznamy o zpracování, doklad o vyhlášení krizového stavu, účel sdružení.
+
+**2. Právní otázka.** Za jakých podmínek lze v ISKŘ sdružovat údaje a zpřístupňovat je neanonymizovaně při řešení krizové situace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 (ISKŘ — integrace dat z registrů, povinnost orgánů využívat, zpřístupnění anonymizovaně „pokud tím nebude zmařen účel", sdružování údajů při řešení krize).
+- *Související ustanovení téhož zákona:* § 39d/39e (evidence pobytu), § 27 (zvláštní skutečnosti), § 39f (neduplicita), § 26a (propojení s IS obrany).
+- *Související předpisy:* čl. 5 a čl. 6 odst. 1 písm. c) a e) GDPR (zásady a tituly zpracování).
+- *Judikatura:* obecná maxima o proporcionalitě zásahů do ochrany osobních údajů a o vázanosti zpracování účelem.
+
+**4. Subsumpce.** § 26 stanoví zásadu anonymizace s výjimkou („pokud tím nebude zmařen účel") a připouští sdružování údajů při řešení krize. Lokalizace ohrožených osob je legitimním účelem, jehož by anonymizace mohla zmařit → neanonymizované zpřístupnění a sdružení je v nezbytném rozsahu přípustné. Zpracování má titul v čl. 6 odst. 1 písm. c) a e) GDPR.
+
+**5. Řešení.** MV (GŘ HZS) může v ISKŘ sdružovat údaje a zpřístupnit je neanonymizovaně, jen pokud by anonymizace zmařila účel řešení krize, a v nezbytném rozsahu (zásada minimalizace). Mimo trvání/účel krize je třeba se vrátit k anonymizaci a minimalizaci. Riziko: plošné nebo trvalé sdružování bez vazby na konkrétní účel by překročilo proporcionalitu a porušilo GDPR.
+
+**6. Varianty.** (a) Lze-li údaj získat anonymizovaně bez zmaření účelu, neanonymizované zpřístupnění je nepřípustné. (b) Jde-li o stav ohrožení státu/válečný stav, uplatní se i propojení s IS obrany (§ 26a).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Sdružování dat v ISKŘ je nepřípustné plošné sledování." — Neutralizace: § 26 je výslovně připouští při řešení krize; zpracování má zákonný titul (GDPR čl. 6 odst. 1 písm. c, e) a je vázáno účelem a nezbytností.
+- *Protiargument:* „Údaje musí být vždy anonymizovány." — Neutralizace: § 26 stanoví anonymizaci s výjimkou — neanonymizované zpřístupnění je přípustné, pokud by anonymizace zmařila účel.
+- *Slabé místo:* pojem „zmaření účelu" je hodnotící; správce musí doložit nezbytnost neanonymizovaného a sdruženého zpracování pro konkrétní krizový účel.
+
+##### H. Praktický závěr
+
+§ 26 zřizuje ISKŘ jako datový mozek krizového řízení integrující hlavní registry; orgány jsou povinny jej využívat. Platí zásada anonymizace s výjimkou („nebude-li zmařen účel") a možnost sdružování údajů při řešení krize, vždy v mezích účelu, nezbytnosti a GDPR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zpracování/sdružení vázáno na konkrétní účel řešení krize?
+- [ ] Zmařila by anonymizace tento účel (předpoklad neanonymizovaného zpřístupnění)?
+- [ ] Je dodržena minimalizace a nezbytný rozsah (GDPR čl. 5)?
+- [ ] Vrací se zpracování po pominutí účelu k anonymizaci/minimalizaci?
+
+**Typicky rozhodné důkazy / podklady:** záznamy o činnostech zpracování, doklad o účelu a vyhlášení krizového stavu, posouzení nezbytnosti neanonymizovaného zpřístupnění, evidence „ZS".
+
 ---
 
 #### § 26a — Vzájemné využívání IS s MO
@@ -796,6 +1734,42 @@ ISKŘ je **datový mozek krizového řízení**. Klíčové vlastnosti:
 
 **Výklad:** Vzájemné propojení s informačním systémem zajišťování obrany státu (provozovaný MO podle 222/1999 Sb.) zajišťuje integraci civilního a vojenského krizového řízení.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za stavu ohrožení státu vyhlášeného v souvislosti s vnějším napadením potřebuje MO data o civilních evakuacích a kritické infrastruktuře, která jsou v ISKŘ; naopak MV při řešení krizové situace potřebuje data z IS zajišťování obrany. Vznikne spor, zda si resorty mohou systémy vzájemně zpřístupnit. Účastníci: MV, MO. Doklady: doklad o vyhlášeném stavu, žádosti o přístup do systémů.
+
+**2. Právní otázka.** Mohou se MV a MO vzájemně využívat svých informačních systémů (ISKŘ a IS zajišťování obrany) a v jakém směru podle typu stavu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26a (MV využívá IS zajišťování obrany při řešení krizové situace; MO využívá ISKŘ při řešení stavu ohrožení státu nebo válečného stavu).
+- *Související ustanovení téhož zákona:* § 26 (ISKŘ), § 39 odst. 4 (souběh s obrannou úpravou), § 1 (vztah k obraně).
+- *Související předpisy:* zákon č. 222/1999 Sb. (IS zajišťování obrany — provozuje MO).
+- *Judikatura:* obecná maxima o vázanosti sdílení dat zákonným titulem a účelem.
+
+**4. Subsumpce.** § 26a zakládá obousměrné, avšak stavem podmíněné využití: MV → IS obrany při řešení krizové situace; MO → ISKŘ při stavu ohrožení státu nebo válečném stavu. Zde je vyhlášen stav ohrožení státu → MO může využít ISKŘ a MV může využít IS obrany. Znak příslušného stavu je splněn.
+
+**5. Řešení.** Resorty si systémy vzájemně zpřístupní v souladu s § 26a; integrace civilního a vojenského krizového řízení je zákonem předvídána. Sdílení probíhá v nezbytném rozsahu a k danému účelu. Riziko: zpřístupnění mimo zákonem stanovené stavy nebo nad nezbytný rozsah by postrádalo titul.
+
+**6. Varianty.** (a) Mimo stav ohrožení státu/válečný stav MO ISKŘ podle § 26a nevyužívá. (b) Mimo řešení krizové situace MV nevyužívá IS obrany.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Sdílení mezi civilním a vojenským IS je nepřípustné." — Neutralizace: § 26a je výslovně připouští, byť podmíněně podle typu stavu; jde o zákonem chtěnou integraci.
+- *Protiargument:* „Přístup je neomezený oběma směry kdykoli." — Neutralizace: přístup je vázán na konkrétní stav (řešení krizové situace vs. stav ohrožení státu/válečný stav) a účel.
+- *Slabé místo:* ustanovení je stručné a neupravuje technické a bezpečnostní detaily sdílení; ty se dovozují z úpravy obou systémů a režimu utajení/ZS.
+
+##### H. Praktický závěr
+
+§ 26a zajišťuje integraci civilního (ISKŘ) a vojenského (IS zajišťování obrany) krizového řízení obousměrným, stavem podmíněným vzájemným využíváním systémů mezi MV a MO.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaký stav je vyhlášen (krizová situace vs. stav ohrožení státu/válečný stav)?
+- [ ] Odpovídá směr sdílení podmínkám § 26a (MV → IS obrany; MO → ISKŘ)?
+- [ ] Je sdílení vázáno na účel a nezbytný rozsah?
+- [ ] Jsou respektovány režimy utajení / zvláštních skutečností?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vyhlášeném stavu, žádosti a záznamy o přístupu do systémů, vymezení účelu a rozsahu sdílení.
+
 ---
 
 #### § 26b — Geografické podklady
@@ -803,6 +1777,42 @@ ISKŘ je **datový mozek krizového řízení**. Klíčové vlastnosti:
 > **§ 26b:** Orgány krizového řízení využívají jednotné geografické podklady; státní mapová díla a další produkty vytvářené podle zákona o zeměměřictví (200/1994 Sb.).
 
 **Výklad:** Standardizace geografických podkladů zajišťuje interoperabilitu mezi orgány krizového řízení v ČR i v mezinárodním kontextu (NATO STANAG, EU INSPIRE).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Při řešení rozsáhlé povodně používá krajský krizový štáb vlastní neoficiální mapové podklady, zatímco sousední kraj a HZS pracují se státním mapovým dílem. Při koordinaci dochází k nesouladu souřadnic a chybám v lokalizaci evakuačních míst. Účastníci: krizové štáby dvou krajů, HZS, geodetické pracoviště. Doklady: použité mapové podklady, koordinační plán.
+
+**2. Právní otázka.** Jsou orgány krizového řízení povinny používat jednotné geografické podklady (státní mapová díla) a jaké jsou důsledky jejich nepoužití?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26b (orgány krizového řízení využívají jednotné geografické podklady — státní mapová díla a produkty dle zákona o zeměměřictví).
+- *Související ustanovení téhož zákona:* § 26 (ISKŘ — datová integrace), § 28 odst. 3 (přiměřené použití úpravy IZS), § 14 odst. 3 (koordinace hejtmanem).
+- *Související předpisy:* zákon č. 200/1994 Sb., o zeměměřictví; mezinárodní standardy (NATO STANAG, EU INSPIRE).
+- *Judikatura:* obecná maxima o povinnosti orgánů postupovat podle zákonem stanovených standardů.
+
+**4. Subsumpce.** § 26b ukládá využití jednotných geografických podkladů (státních mapových děl). Použití neoficiálních a vzájemně nekompatibilních podkladů je v rozporu s tímto požadavkem a ohrožuje interoperabilitu. Znak „jednotné geografické podklady" nebyl naplněn.
+
+**5. Řešení.** Orgány krizového řízení musí přejít na jednotné státní mapové podklady (§ 26b), čímž se zajistí interoperabilita a správná lokalizace. HZS a krizové štáby koordinují na jednotném podkladu (vazba na § 26 — ISKŘ). Riziko: nejednotné podklady vedou k chybám v koordinaci a ohrožení životů; jde o porušení zákonné povinnosti.
+
+**6. Varianty.** (a) V mezinárodní spolupráci se uplatní i standardy NATO STANAG / EU INSPIRE nad rámec národních podkladů. (b) Specializované odborné podklady lze použít doplňkově, nikoli místo jednotného státního mapového díla.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volba mapových podkladů je na uvážení každého orgánu." — Neutralizace: § 26b ukládá využití jednotných geografických podkladů (státních mapových děl); volnost je omezena požadavkem interoperability.
+- *Protiargument:* „Standardizace je formalita bez praktického dopadu." — Neutralizace: nesoulad podkladů prokazatelně způsobuje chyby v lokalizaci a koordinaci, s rizikem pro životy.
+- *Slabé místo:* ustanovení je stručné a neřeší výslovně doplňkové odborné podklady; ty jsou přípustné jen vedle jednotného základu.
+
+##### H. Praktický závěr
+
+§ 26b ukládá orgánům krizového řízení používat jednotné geografické podklady (státní mapová díla dle zákona o zeměměřictví), čímž zajišťuje interoperabilitu v ČR i v mezinárodním kontextu (NATO, EU).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Používají orgány jednotné státní mapové podklady (§ 26b)?
+- [ ] Je zajištěna kompatibilita podkladů mezi koordinovanými orgány?
+- [ ] Jsou doplňkové odborné podklady použity jen vedle jednotného základu?
+- [ ] Jsou v mezinárodní spolupráci respektovány standardy NATO/EU?
+
+**Typicky rozhodné důkazy / podklady:** použité mapové podklady, doklad o jejich původu (státní mapové dílo), koordinační dokumentace, případné záznamy o chybách z nesouladu.
 
 ---
 
@@ -851,6 +1861,43 @@ Cílem režimu ZS je **rychlé a flexibilní zajištění důvěrnosti** krizov�
 
 Údaje označené jako ZS **nejsou utajovanými informacemi**, ale spadají pod **výjimku z práva na informace** podle zákona č. 106/1999 Sb. — § 11 odst. 1 písm. a) (informace vztahující se k vnitřním pokynům a personálním předpisům — analogie) nebo praktičtěji § 7 (právo na ochranu osob a soukromí) a § 11 odst. 4 písm. e) (rozhodovací činnost soudů, ochrana podnikatelských zájmů).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Žadatel podle zákona č. 106/1999 Sb. požaduje po krajském úřadu kopii krizového plánu kraje, který obsahuje údaje o kritické infrastruktuře a o slabých místech ochrany obyvatelstva, označené „ZS". Úřad žádost odmítne. Souběžně pracovník úřadu, který se s materiálem seznámil, sdělí jeho obsah novináři. Účastníci: žadatel, krajský úřad, pracovník úřadu, novinář. Doklady: krizový plán s označením „ZS", samostatný jednací protokol, zvláštní seznam oprávněných osob.
+
+**2. Právní otázka.** Lze odepřít poskytnutí informací označených jako zvláštní skutečnosti a jaká je odpovědnost za porušení mlčenlivosti o nich?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 (definice ZS, označování, oddělená evidence a uložení, zvláštní seznam oprávněných, mlčenlivost a její zproštění, fyzické zabezpečení).
+- *Související ustanovení téhož zákona:* § 15 odst. 2 (zdroj údajů), § 34 odst. 2 (přestupek porušení mlčenlivosti — až 100 000 Kč), § 40 odst. 1 písm. c) (prováděcí úprava).
+- *Související předpisy:* zákon č. 106/1999 Sb. (§ 7, § 11 — výjimky z práva na informace); zákon č. 412/2005 Sb. (utajované informace — odlišení).
+- *Judikatura:* obecná maxima o vyvážení práva na informace s ochranou bezpečnostních zájmů.
+
+**4. Subsumpce.** Krizový plán s údaji o kritické infrastruktuře a slabých místech splňuje definici ZS dle § 27 odst. 1 (zneužití by ohrozilo činnost orgánu a bezpečnost). ZS nejsou utajovanými informacemi, ale spadají pod výjimky z práva na informace (§ 7, § 11 zák. č. 106/1999 Sb.). Pracovník, který obsah sdělil novináři, porušil mlčenlivost dle § 27 odst. 6 → přestupek dle § 34 odst. 2 písm. a) (až 100 000 Kč).
+
+**5. Řešení.** Úřad žádost o krizový plán označený „ZS" odepře s odkazem na výjimky zákona č. 106/1999 Sb. (ve spojení s režimem § 27). Pracovník, který porušil mlčenlivost, se dopustil přestupku dle § 34 odst. 2; o zproštění mlčenlivosti rozhoduje vedoucí orgánu (§ 27 odst. 6). Riziko: paušální odepření všeho jako „ZS" by bylo nepřípustné — odepřít lze jen údaje skutečně naplňující definici a řádně označené/evidované.
+
+**6. Varianty.** (a) Jde-li o utajované informace dle zákona č. 412/2005 Sb., uplatní se přísnější režim a trestní odpovědnost (§ 316 TZ), nikoli režim ZS. (b) Sdělí-li ZS osoba bez oprávnění, která se s ní seznámila, jde o přestupek dle § 34 odst. 2 písm. b) (až 20 000 Kč).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „ZS jsou utajované informace a podléhají zákonu č. 412/2005 Sb." — Neutralizace: § 27 odst. 2 výslovně stanoví, že označení „ZS" není stupněm utajení; jde o samostatný, mírnější režim.
+- *Protiargument:* „Vše v krizovém plánu lze odepřít jako ZS." — Neutralizace: odepřít lze jen údaje naplňující definici § 27 odst. 1 a řádně označené a evidované; paušální odepření je nezákonné.
+- *Slabé místo:* hranice mezi ZS, veřejnou informací a utajovanou informací je výkladově citlivá; chybné zařazení vede buď k nezákonnému odepření, nebo k úniku citlivých dat.
+
+##### H. Praktický závěr
+
+§ 27 zřizuje režim zvláštních skutečností jako sublimit mezi veřejnými a utajovanými informacemi: rychlá a flexibilní ochrana krizových údajů (označení „ZS", oddělená evidence a uložení, seznam oprávněných, mlčenlivost, fyzické zabezpečení), bez procedury podle zákona o utajovaných informacích. Porušení mlčenlivosti je přestupkem (§ 34 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje údaj definici ZS (§ 27 odst. 1) a není utajovanou informací?
+- [ ] Je materiál řádně označen „ZS", evidován a uložen odděleně (odst. 2, 4)?
+- [ ] Je osoba zapsána ve zvláštním seznamu oprávněných (odst. 5)?
+- [ ] Byla zachována mlčenlivost; o zproštění rozhodl vedoucí orgánu (odst. 6)?
+- [ ] Opírá se odepření informace dle zák. č. 106/1999 Sb. o konkrétní výjimku?
+
+**Typicky rozhodné důkazy / podklady:** materiál s označením „ZS", samostatný jednací protokol, zvláštní seznam oprávněných osob, rozhodnutí o odepření informace, podklad přestupkového řízení.
+
 ---
 
 #### § 28 — Působnost a vztah k IZS
@@ -886,6 +1933,42 @@ Odst. 3: Pro **operativní fázi** řešení krizové situace se **přiměřeně
 - Velení a koordinace na místě zásahu probíhá podle pravidel IZS (velitel zásahu);
 - Složky IZS (HZS, ZZS, Policie ČR a další) plní úkoly podle obecných pravidel;
 - Krizové opatření vlády/hejtmana doplňuje, nikoli nahrazuje operativní rámec IZS.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu na místě rozsáhlé havárie zasahují složky IZS pod velitelem zásahu (HZS), současně hejtman koordinuje a vláda nařídila krizová opatření. Bezpečnostní informační služba odmítá poskytnout krajskému úřadu svůj krizový plán s tím, že jej schvaluje její ředitel. Vzniká spor o velení a o působnost. Účastníci: velitel zásahu, hejtman, vláda, BIS. Doklady: krizový plán BIS, koordinační dokumentace, doklad o vyhlášení stavu.
+
+**2. Právní otázka.** Jak se vztahuje operativní rámec IZS (velitel zásahu) ke krizovým opatřením a kdo schvaluje krizové plány ústavních orgánů a zpravodajských služeb?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 1 (působnost v mezích zvláštních předpisů), odst. 2 (autonomní krizové plány Kanceláří PS, Senátu, prezidenta, NKÚ, ÚZSI, BIS), odst. 3 (přiměřené použití úpravy o záchranných a likvidačních pracích).
+- *Související ustanovení téhož zákona:* § 14 (koordinace hejtmanem), § 6 (opatření vlády), § 39 odst. 1 (integrace komisí).
+- *Související předpisy:* zákon č. 239/2000 Sb. (IZS — velitel zásahu, §§ 19–25); zákon č. 2/1969 Sb. (kompetence); zákon č. 153/1994 Sb. (BIS).
+- *Judikatura:* obecná maxima o dělbě moci a o operačním velení na místě zásahu.
+
+**4. Subsumpce.** § 28 odst. 3 přikazuje přiměřené použití úpravy IZS → velení a koordinace na místě probíhá podle pravidel IZS (velitel zásahu), krizová opatření vlády/hejtmana je doplňují, nenahrazují. Dle odst. 2 BIS (a další vyjmenované entity) zpracovává vlastní krizový plán schvalovaný svým ředitelem, nikoli vládou či MV → odmítnutí předat plán krajskému úřadu je důvodné.
+
+**5. Řešení.** Na místě zásahu velí velitel zásahu dle IZS; hejtman koordinuje a vláda nařizuje opatření v mezích své působnosti (odst. 1). BIS není povinna podřídit svůj krizový plán krajskému úřadu — schvaluje jej ředitel (odst. 2), z důvodu ochrany dělby moci a operační bezpečnosti. Riziko: pokus o překročení působnosti (velení civilního orgánu nad zásahem IZS, podřízení zpravodajské služby) by byl protizákonný.
+
+**6. Varianty.** (a) Při souběhu s veterinární/povodňovou situací se integrují příslušné komise (§ 39 odst. 1, 2). (b) U běžné mimořádné události bez krizového stavu se postupuje čistě dle IZS.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krizové opatření vlády nahrazuje operační rámec IZS." — Neutralizace: § 28 odst. 3 stanoví přiměřené použití úpravy IZS; opatření vlády/hejtmana ji doplňují, velení na místě má velitel zásahu.
+- *Protiargument:* „Všechny orgány musí předat krizové plány MV/krajskému úřadu." — Neutralizace: odst. 2 vyjímá Kanceláře PS, Senátu, prezidenta, NKÚ, ÚZSI a BIS — jejich plány schvalují jejich vedoucí/ředitelé.
+- *Slabé místo:* rozhraní mezi civilní koordinací a operačním velením IZS může být v praxi tenké; nutná je jasná dělba podle zákona o IZS.
+
+##### H. Praktický závěr
+
+§ 28 vymezuje, že orgány krizového řízení působí v mezích své věcné a územní působnosti; pro operativní fázi se přiměřeně použije úprava o záchranných a likvidačních pracích (IZS — velitel zásahu). Ústavní orgány a zpravodajské služby mají autonomní krizové plány schvalované jejich vedoucími.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jedná orgán v mezích své věcné a územní působnosti (odst. 1)?
+- [ ] Je na místě zásahu respektováno velení dle IZS (odst. 3)?
+- [ ] Jde o entitu dle odst. 2 (PS, Senát, prezident, NKÚ, ÚZSI, BIS) s autonomním krizovým plánem?
+- [ ] Doplňují krizová opatření operační rámec IZS, místo aby jej nahrazovala?
+
+**Typicky rozhodné důkazy / podklady:** koordinační a operační dokumentace IZS, krizové plány (vč. autonomních dle odst. 2), doklad o vyhlášení krizového stavu, vymezení působnosti orgánů.
 
 ---
 
@@ -957,6 +2040,43 @@ Potvrzení slouží jako **doklad pro uplatnění náhrady** podle § 35.
 
 Toto ustanovení má rozsáhlé pracovněprávní důsledky: zaměstnavatel je povinen uvolnit zaměstnance k výkonu pracovní povinnosti **s náhradou platu** (§ 203 zák. č. 262/2006 Sb. — pracovní volno z důvodu jiných úkonů v obecném zájmu). Refundace zaměstnavateli probíhá podle § 35 (peněžní náhrada vyplácená orgánem krizového řízení).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu hejtman uloží distribuční energetické společnosti (subjekt kritické infrastruktury) povinnost poskytnout několik mobilních elektrocentrál a část personálu pro nouzové zásobování zatopené oblasti. Společnost namítá, že odčerpání techniky a lidí by ohrozilo dodávky elektřiny jiným odběratelům. Účastníci: hejtman, energetická společnost (subjekt KI), odběratelé. Doklady: výzva/rozhodnutí hejtmana, plán krizové připravenosti společnosti, potvrzení o poskytnutí.
+
+**2. Právní otázka.** Může subjekt kritické infrastruktury odmítnout poskytnutí věcných prostředků, hrozí-li tím narušení poskytování základní služby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 3 (povinnost poskytnout věcné prostředky; poskytnutím nesmí dojít k narušení základní služby subjektem KI), odst. 4 (nadrámcové úkoly za krizového stavu), odst. 5 (mechanismus uložení a potvrzení), odst. 1 (plán krizové připravenosti).
+- *Související ustanovení téhož zákona:* § 32 odst. 3 (pracovní povinnost pracovníků KI), § 35 (náhrada), § 6 odst. 4 (subsidiarita), § 39c (přiměřenost).
+- *Související předpisy:* zákon o kritické infrastruktuře (od r. 2024 zák. č. 137/2024 Sb.); čl. 11 odst. 4 Listiny.
+- *Judikatura:* obecná maxima o přednosti zachování klíčové infrastruktury a o proporcionalitě krizových povinností.
+
+**4. Subsumpce.** § 29 odst. 3 věta druhá stanoví, že poskytnutím věcných prostředků nesmí dojít k narušení poskytování základní služby subjektem KI. Hrozí-li odčerpáním centrál a personálu výpadek dodávek elektřiny (základní služba), je naplněna výjimka → subjekt KI může v této části odmítnout. Obdobně pracovní povinnost pracovníků KI je limitována § 32 odst. 3.
+
+**5. Řešení.** Energetická společnost je povinna poskytnout věcné prostředky jen v rozsahu, který neohrozí základní službu (§ 29 odst. 3); v části ohrožující dodávky elektřiny může plnění odmítnout. Hejtman musí povinnost vyvážit s ochranou KI a hledat alternativní zdroje. Za poskytnuté prostředky náleží náhrada (§ 35) a vydá se potvrzení (odst. 5). Riziko: ignorování limitu KI by mohlo způsobit kaskádový výpadek; opatření nesmí překročit nezbytnou míru (§ 39c).
+
+**6. Varianty.** (a) Nejde-li o subjekt KI, limit odst. 3 věty druhé se neuplatní a povinnost je širší. (b) Při ohrožení života a hrozbě škod velkého rozsahu lze uložit i nadrámcové úkoly (odst. 4), avšak stále s ohledem na zachování základní služby KI.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za krizového stavu má řešení krize absolutní přednost před dodávkami." — Neutralizace: § 29 odst. 3 výslovně chrání poskytování základní služby subjektem KI; zákon konflikt řeší ve prospěch zachování infrastruktury.
+- *Protiargument:* „Subjekt KI může odmítnout cokoli s odkazem na základní službu." — Neutralizace: odmítnout lze jen v rozsahu, který by skutečně narušil základní službu; v nezbytném zbytku povinnost trvá (§ 32 odst. 3 — pouze v nezbytném rozsahu).
+- *Slabé místo:* posouzení, kdy poskytnutí „naruší" základní službu, je odborně náročné; subjekt KI nese důkazní břemeno o hrozbě narušení.
+
+##### H. Praktický závěr
+
+§ 29 zakládá čtyřvrstvou soustavu povinností PO a podnikajících FO (plánovací, informační, věcné, zdržení se zakázaných činností). Klíčovou pojistkou je ochrana základní služby subjektu kritické infrastruktury — poskytnutí věcných prostředků ani pracovní povinnost nesmí tuto službu narušit. Za uložené povinnosti náleží náhrada (§ 35).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt subjektem kritické infrastruktury? Ohrozilo by poskytnutí jeho základní službu (§ 29 odst. 3)?
+- [ ] Byla dodržena subsidiarita (smluvní řešení) a nezbytná míra (§ 6 odst. 4, § 39c)?
+- [ ] Byl dodržen mechanismus uložení a vydáno potvrzení (odst. 5)?
+- [ ] Jde o nadrámcový úkol (odst. 4) odůvodněný ohrožením života / škodami velkého rozsahu?
+- [ ] Je zajištěna náhrada (§ 35)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/výzva orgánu, plán krizové připravenosti, doklad o postavení subjektu KI a o hrozbě narušení základní služby, potvrzení o poskytnutí, kalkulace náhrady.
+
 ---
 
 #### § 30 — Hromadné informační prostředky
@@ -977,6 +2097,42 @@ Velmi specifická povinnost provozovatelů televizního a rozhlasového vysílá
 Tato povinnost nezasahuje do svobody projevu redakční nezávislosti — provozovatel zůstává **autorem dalšího redakčního obsahu**; § 30 ukládá jen **úzce vymezenou povinnost odvysílat krizové sdělení**. Sankce za porušení viz § 34a odst. 3 (přestupek do 3 000 000 Kč).
 
 Vztah k § 4 a § 25 zákona o ČT a ČRo (povinnost veřejné služby zahrnující krizové informace) je doplňující — § 30 ukládá obdobnou povinnost **i komerčním provozovatelům**.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu MV požádá komerčního provozovatele celoplošného televizního vysílání o neprodlené odvysílání informace o vyhlášení krizového stavu a o nařízené evakuaci. Provozovatel odvysílání odloží o několik hodin (do hlavního zpravodajství) a text redakčně „upraví" a zkrátí, čímž zkreslí pokyn k evakuaci. Účastníci: MV (orgán krizového řízení), provozovatel vysílání, ohrožení obyvatelé. Doklady: žádost MV, záznam odvysílaného sdělení, časové údaje.
+
+**2. Právní otázka.** Je komerční provozovatel vysílání povinen odvysílat krizovou informaci neprodleně a beze změny obsahu a smyslu, a jaká je sankce za porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 (povinnost provozovatele TV/rozhlasového vysílání bez náhrady nákladů, neprodleně a bez úpravy obsahu a smyslu, na žádost orgánu krizového řízení uveřejnit krizové informace).
+- *Související ustanovení téhož zákona:* § 31 odst. 1 (právo FO na informace), § 34a odst. 3 (přestupek — až 3 000 000 Kč), § 21 odst. 3 písm. a) (varování obyvatel).
+- *Související předpisy:* zákon č. 231/2001 Sb. (provozování rozhlasového a televizního vysílání); zákony o ČT a ČRo (veřejná služba).
+- *Judikatura:* obecná maxima o úzce vymezené povinnosti šíření krizových sdělení vs. redakční svoboda.
+
+**4. Subsumpce.** § 30 ukládá povinnost „neprodleně a bez úpravy obsahu a smyslu" — odklad o několik hodin a redakční úprava zkreslující smysl pokynu k evakuaci porušují oba znaky. Povinnost dopadá i na komerční provozovatele. Znaky „neprodleně" a „bez úpravy obsahu a smyslu" tedy nebyly naplněny → přestupek dle § 34a odst. 3.
+
+**5. Řešení.** Provozovatel měl sdělení odvysílat ihned a beze změny obsahu a smyslu; odklad a zkreslující úprava zakládají přestupek dle § 34a odst. 3 (pokuta až 3 000 000 Kč). Povinnost je úzce vymezená a nezasahuje do redakční nezávislosti u ostatního obsahu. Riziko: zkreslení krizového pokynu ohrožuje životy; provozovatel se nemůže dovolávat redakční svobody pro odepření zákonné povinnosti.
+
+**6. Varianty.** (a) Doplní-li provozovatel ke krizovému sdělení vlastní (neměnící smysl) redakční komentář odděleně, povinnost porušena není. (b) Jde-li o veřejnoprávní ČT/ČRo, povinnost se kryje i s úkolem veřejné služby (§ 4, § 25 zákonů o ČT/ČRo).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Povinnost dopadá jen na veřejnoprávní média." — Neutralizace: § 30 ukládá povinnost obecně provozovatelům TV/rozhlasového vysílání, tedy i komerčním.
+- *Protiargument:* „Redakční svoboda umožňuje sdělení upravit a načasovat." — Neutralizace: § 30 vyžaduje odvysílání neprodleně a bez úpravy obsahu a smyslu; redakční svoboda se týká ostatního obsahu, nikoli povinného krizového sdělení.
+- *Slabé místo:* hranice mezi „úpravou smyslu" a přípustnou technickou/formální úpravou (titulky, jazyková verze) může být sporná; rozhodný je zákaz změny obsahu a smyslu.
+
+##### H. Praktický závěr
+
+§ 30 ukládá všem provozovatelům TV a rozhlasového vysílání (vč. komerčních) bezplatně, neprodleně a beze změny obsahu a smyslu odvysílat na žádost orgánu krizového řízení informace o krizových stavech a opatřeních; porušení je přestupkem až do 3 000 000 Kč. Povinnost je úzce vymezená a nezasahuje do redakční nezávislosti u dalšího obsahu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pochází žádost od orgánu krizového řízení a týká se krizových stavů/opatření?
+- [ ] Bylo sdělení odvysíláno neprodleně?
+- [ ] Bylo odvysíláno bez úpravy obsahu a smyslu?
+- [ ] Hrozí za porušení přestupek dle § 34a odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** žádost orgánu krizového řízení, záznam odvysílaného sdělení s časem, porovnání s původním textem, podklad přestupkového řízení.
 
 ---
 
@@ -1059,6 +2215,43 @@ Vydavatelem je **hejtman** (i za nouzového stavu a stavu ohrožení státu). Pr
 
 Pojistka pro osoby zdravotně nezpůsobilé: **lékařský posudek** vystaví poskytovatel zdravotních služeb určený orgánem krizového řízení. Tento poskytovatel je povinen prohlídku provést **přednostně** a posoudit zdravotní způsobilost. Náklady na prohlídku hradí orgán krizového řízení.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu hejtman vydá fyzické osobě pracovní příkaz k výkonu pracovní povinnosti (obsluha čerpací techniky při povodni). Osoba plnění odmítne s tím, že trpí srdeční chorobou a výkon by ohrozil její zdraví; současně tvrdí, že příkaz je nezákonný, protože byl vydán nepříslušným úředníkem. Účastníci: hejtman, povolaná fyzická osoba, určený poskytovatel zdravotních služeb. Doklady: pracovní příkaz s náležitostmi, lékařský posudek, doklad o příslušnosti vydavatele.
+
+**2. Právní otázka.** Za jakých podmínek může fyzická osoba odmítnout výkon uložené pracovní povinnosti a jaké náležitosti musí mít pracovní příkaz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 3 (povinnosti FO za krizového stavu), odst. 4 (klauzule odmítnutí — ohrožení života/zdraví nebo rozpor se zákonem), odst. 5 (náležitosti pracovního příkazu — vydává hejtman), odst. 7 (zdravotní nezpůsobilost — lékařský posudek).
+- *Související ustanovení téhož zákona:* § 6 odst. 1 písm. c) (nařízení pracovní povinnosti), § 32 (výjimky), § 34 (přestupky), § 35 (náhrada), § 38 (vyloučení SŘ).
+- *Související předpisy:* čl. 9 odst. 2 Listiny (výjimka ze zákazu nucených prací); § 203 zák. č. 262/2006 Sb.
+- *Judikatura:* NSS 6 As 88/2021 — subjektivní odmítnutí splnit opatření vyžaduje přesvědčivé odůvodnění; pouhé tvrzení o nezákonnosti zpravidla nestačí, nebylo-li opatření formálně zrušeno.
+
+**4. Subsumpce.** § 31 odst. 4 dovoluje odmítnout plnění, pokud (i) by ohrozilo život/zdraví, nebo (ii) je povinnost v rozporu se zákonem. Srdeční choroba zakládá důvod (i), je-li doložena lékařským posudkem dle odst. 7. Tvrzená nezákonnost příkazu (nepříslušnost vydavatele) je důvodem (ii) jen tehdy, je-li skutečná — pracovní příkaz vydává hejtman (odst. 5); vydal-li jej nepříslušný úředník bez pověření, je vadný.
+
+**5. Řešení.** Osoba doloží zdravotní nezpůsobilost lékařským posudkem (odst. 7), který vystaví určený poskytovatel přednostně a na náklady orgánu — pak plnění oprávněně odmítne. Námitka nezákonnosti (nepříslušnost) obstojí jen při skutečné vadě příslušnosti; pouhé tvrzení nestačí (NSS 6 As 88/2021). Pracovní příkaz musí mít náležitosti dle odst. 5. Riziko: neodůvodněné odmítnutí je přestupkem dle § 34 odst. 1 písm. b) (až 50 000 Kč).
+
+**6. Varianty.** (a) Spadá-li osoba do výjimek § 32 (např. věk, péče o dítě do 15 let), pracovní povinnost jí vůbec nelze uložit. (b) Je-li příkaz vydán řádně hejtmanem a osoba je zdravotně způsobilá, odmítnutí je přestupkem.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Stačí tvrdit, že opatření je nezákonné, a povinnost odpadá." — Neutralizace: dle NSS 6 As 88/2021 subjektivní odmítnutí vyžaduje přesvědčivé odůvodnění; nebylo-li opatření formálně zrušeno, pouhé tvrzení nezákonnosti zpravidla nestačí.
+- *Protiargument:* „Zdravotní nezpůsobilost lze namítnout bez posudku." — Neutralizace: odst. 7 vyžaduje doložení lékařským posudkem určeného poskytovatele; bez něj námitka neobstojí.
+- *Slabé místo:* posouzení „rozporu se zákonem" osobou v terénu je nejisté; nese riziko přestupku, ukáže-li se příkaz jako zákonný.
+
+##### H. Praktický závěr
+
+§ 31 zakládá právo FO na informace (odst. 1) a katalog šesti povinností za krizového stavu (odst. 3) se stupňovanými sankcemi (§ 34). Plnění lze odmítnout jen při ohrožení života/zdraví (doloženo posudkem dle odst. 7) nebo při skutečné nezákonnosti opatření; pracovní příkaz vydává hejtman s předepsanými náležitostmi (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má pracovní příkaz všechny náležitosti a vydal jej hejtman (odst. 5)?
+- [ ] Je dán důvod odmítnutí dle odst. 4 (ohrožení života/zdraví nebo rozpor se zákonem)?
+- [ ] Je zdravotní nezpůsobilost doložena posudkem určeného poskytovatele (odst. 7)?
+- [ ] Nespadá osoba do výjimek § 32?
+- [ ] Hrozí za neodůvodněné odmítnutí přestupek dle § 34?
+
+**Typicky rozhodné důkazy / podklady:** pracovní příkaz, lékařský posudek, doklad o příslušnosti vydavatele, potvrzení o pracovní výpomoci (odst. 6), podklad přestupkového řízení.
+
 ---
 
 #### § 32 — Výjimky z pracovní povinnosti a pracovní výpomoci
@@ -1107,6 +2300,42 @@ Ochrana kritické infrastruktury má **přednost** před obecnou pracovní povin
 
 Osoby osvobozené **mohou** poskytnout dobrovolnou pomoc — toto ustanovení respektuje princip dobrovolnictví a otevírá prostor pro **dobrovolnické sbory** (Český červený kříž, sbory dobrovolných hasičů, dobrovolníci v rámci tzv. aktivních záloh AČR). Za dobrovolnou pomoc lze poskytnout peněžní náhradu po vzájemné dohodě (§ 35 odst. 1).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu hejtman uloží pracovní povinnost několika osobám: (a) 64leté ženě pečující o vnouče (10 let), (b) zaměstnanci jaderné elektrárny (směnový operátor), (c) zaměstnanci diplomatické mise s diplomatickou imunitou. Všichni se brání. Účastníci: hejtman, povolané osoby, provozovatel elektrárny (subjekt KI). Doklady: pracovní příkazy, doklady o věku a péči, doklad o imunitě, harmonogram směn elektrárny.
+
+**2. Právní otázka.** Na které z uvedených osob nelze pracovní povinnost uložit vůbec a u kterých platí zvláštní (omezený) režim?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1 (imunita podle mezinárodního práva — absolutní výjimka; cizinci), odst. 2 (věk do 18 a od 62 let, péče o dítě do 15 let, zdravotní/invaliditní výjimky aj.), odst. 3 (pracovníci KI — jen v nezbytném rozsahu / souvislost se základní službou), odst. 5 (dobrovolná pomoc).
+- *Související ustanovení téhož zákona:* § 31 (povinnosti FO), § 6 odst. 1 písm. c) (nařízení), § 35 (náhrada).
+- *Související předpisy:* Vídeňská úmluva o diplomatických stycích; čl. 9 odst. 2 Listiny.
+- *Judikatura:* obecná maxima o nepřípustnosti uložení povinnosti vyloučeným kategoriím osob.
+
+**4. Subsumpce.** (a) 64letá žena spadá pod věkovou výjimku (od 62 let) i pod péči o dítě do 15 let → pracovní povinnost jí uložit nelze. (b) Zaměstnanci jaderné elektrárny (subjekt KI) lze povinnost uložit jen v nezbytném rozsahu tak, aby nebylo ohroženo poskytování základní služby, nebo souvisí-li přímo s jejím zajišťováním (odst. 3). (c) Osobě s diplomatickou imunitou nelze uložit ani věcný prostředek, ani pracovní povinnost/výpomoc (odst. 1, absolutní výjimka).
+
+**5. Řešení.** Pracovní příkaz vůči ženě (a) a diplomatovi (c) je nepřípustný a vadný. U operátora elektrárny (b) lze povinnost uložit jen v režimu odst. 3 (nezbytný rozsah / souvislost se základní službou); jinak by ohrozila dodávky. Osoby osvobozené mohou poskytnout dobrovolnou pomoc (odst. 5) s případnou náhradou po dohodě (§ 35 odst. 1). Riziko: uložení povinnosti vyloučené osobě je nezákonné; opomenutí limitu KI ohrožuje základní službu.
+
+**6. Varianty.** (a) Cizinci bez imunity lze pracovní povinnost uložit, nestanoví-li jinak mezinárodní smlouva (odst. 1 věta druhá). (b) Orgán krizového řízení může osvobodit i další osobu pro důležitou okolnost, jejíž opominutí by ohrozilo život/zdraví/majetek (odst. 2).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „V krizi lze povolat každého." — Neutralizace: § 32 stanoví absolutní (imunita) i zákonné (věk, péče, zdraví) výjimky; vyloučeným osobám povinnost uložit nelze.
+- *Protiargument:* „Pracovníci kritické infrastruktury jsou povolatelní bez omezení." — Neutralizace: odst. 3 dovoluje jejich povolání jen v nezbytném rozsahu, aby nebyla ohrožena základní služba, nebo souvisí-li povinnost přímo s jejím zajišťováním.
+- *Slabé místo:* posouzení „důležité okolnosti" (odst. 2 in fine) je na uvážení orgánu; hranice a doložitelnost mohou být sporné.
+
+##### H. Praktický závěr
+
+§ 32 stanoví třístupňovou strukturu výjimek z pracovní povinnosti a výpomoci (absolutní u osob s imunitou; relativní u cizinců; zákonné u vybraných kategorií obyvatel) a zvláštní režim pro pracovníky kritické infrastruktury (jen v nezbytném rozsahu / souvislost se základní službou). Osvobozené osoby mohou poskytnout dobrovolnou pomoc.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Požívá osoba imunity dle mezinárodního práva (→ absolutní výjimka, odst. 1)?
+- [ ] Spadá do zákonných výjimek odst. 2 (věk, péče o dítě do 15 let, zdraví, invalidita, ústavní funkce)?
+- [ ] Jde o pracovníka KI? → jen nezbytný rozsah / souvislost se základní službou (odst. 3)?
+- [ ] Byla zvážena „důležitá okolnost" pro osvobození (odst. 2 in fine)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní příkaz, doklady o věku a péči o dítě, doklad o imunitě, lékařský posudek/invalidita, harmonogram a kapacitní podklady subjektu KI.
+
 ---
 
 ### HLAVA VI — Kontrola, přestupky a náhrada
@@ -1123,6 +2352,42 @@ Systém kontroly je **hierarchický a duální**:
 - **Duální složka** — kontroluje jak územní orgán (krajský úřad, obecní úřad ORP), tak HZS kraje jako profesionální složka.
 
 Speciální režim pro tajné služby (BIS, ÚZSI), NÚKIB a NBÚ chrání utajované informace a operační bezpečnost; kontrolu provádí MV **jen se souhlasem ředitele** kontrolovaného subjektu. Bez souhlasu zajišťuje výkon kontroly sám ředitel a podává zprávu MV do 60 dnů.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo vnitra chce provést kontrolu dodržování krizového zákona u Bezpečnostní informační služby (krizové plánování, ochrana zvláštních skutečností). BIS namítá, že do její činnosti nelze vstupovat bez souhlasu ředitele. Souběžně HZS kraje provádí kontrolu připravenosti u obce. Účastníci: MV, BIS, HZS kraje, obec. Doklady: pověření ke kontrole, kontrolní protokol, krizové plány.
+
+**2. Právní otázka.** Jak je strukturován systém kontroly v krizovém řízení a jaký zvláštní režim platí pro zpravodajské služby, NÚKIB a NBÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 (hierarchie kontroly: obec → HZS kraje + obecní úřad ORP; ORP → HZS kraje + krajský úřad; kraj → MV + ministerstvo; u PO/podnikajících FO kontroluje orgán, který uložil povinnost; speciální režim pro zpravodajské služby, NÚKIB a NBÚ).
+- *Související ustanovení téhož zákona:* § 34 a § 34a (přestupky), § 27 (zvláštní skutečnosti), § 10 (MV — koordinace).
+- *Související předpisy:* zákon č. 255/2012 Sb., o kontrole (kontrolní řád); zákon č. 153/1994 Sb. (BIS).
+- *Judikatura:* obecná maxima o ochraně operační bezpečnosti zpravodajských služeb při výkonu kontroly.
+
+**4. Subsumpce.** Systém kontroly je hierarchický a duální (územní orgán + HZS). U BIS (a ÚZSI, NÚKIB, NBÚ) platí speciální režim: kontrolu provádí MV jen se souhlasem ředitele; bez souhlasu zajišťuje výkon kontroly sám ředitel a podává MV zprávu do 60 dnů. Kontrola obce ze strany HZS kraje a obecního úřadu ORP odpovídá hierarchii § 33.
+
+**5. Řešení.** MV nemůže u BIS provést kontrolu bez souhlasu ředitele; bez něj kontrolu provede ředitel sám a do 60 dnů podá MV zprávu. Kontrola obce probíhá standardně (HZS kraje + obecní úřad ORP). U PO kontroluje ten orgán, který uložil povinnost. Riziko: vstup do zpravodajské služby bez souhlasu ředitele by porušil zákon a ohrozil operační bezpečnost.
+
+**6. Varianty.** (a) U běžné PO/podnikající FO kontrolu provádí orgán, který povinnost uložil (nikoli hierarchicky). (b) Zjistí-li kontrola porušení, navazuje přestupkové řízení (§ 34, § 34a) podle příslušnosti (§ 34b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „MV může kontrolovat zpravodajské služby jako kterýkoli jiný orgán." — Neutralizace: § 33 zakládá speciální režim — kontrola jen se souhlasem ředitele, jinak ji provede ředitel sám a podá zprávu MV.
+- *Protiargument:* „Kontrolu PO provádí vždy nadřízený územní orgán." — Neutralizace: u PO/podnikajících FO kontroluje orgán, který uložil povinnost, nikoli hierarchicky nadřízený.
+- *Slabé místo:* duální kontrola (územní orgán + HZS) může vést k překryvům a koordinačním nejasnostem; rozhraní je nutné vyjasnit.
+
+##### H. Praktický závěr
+
+§ 33 zavádí hierarchický a duální systém kontroly dodržování krizového zákona (vyšší orgán + HZS jako profesionální složka), u PO kontrolu provádí orgán, který uložil povinnost, a u zpravodajských služeb, NÚKIB a NBÚ platí zvláštní režim chránící operační bezpečnost (souhlas ředitele, jinak vlastní kontrola se zprávou MV do 60 dnů).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který orgán je ke kontrole příslušný (hierarchie § 33 / orgán, jenž uložil povinnost u PO)?
+- [ ] Jde o zpravodajskou službu, NÚKIB nebo NBÚ? → zvláštní režim (souhlas ředitele / zpráva do 60 dnů).
+- [ ] Je výkon kontroly v souladu s kontrolním řádem (zák. č. 255/2012 Sb.)?
+- [ ] Navazuje na zjištění přestupkové řízení (§ 34, § 34a)?
+
+**Typicky rozhodné důkazy / podklady:** pověření ke kontrole, kontrolní protokol, krizové plány a evidence „ZS", u zpravodajských služeb souhlas ředitele nebo zpráva MV.
 
 ---
 
@@ -1168,6 +2433,43 @@ Třebaže § 38 vylučuje aplikaci správního řádu na rozhodování podle kri
 
 Příslušný orgán k projednání přestupků fyzických osob: krajský úřad v přenesené působnosti (§ 60 zákona č. 250/2016 Sb.), pokud zvláštní zákon nestanoví jinak. V praxi přestupky řeší obecní úřady ORP.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu fyzická osoba: (a) opakovaně poruší zákaz pohybu ve vymezeném prostoru (nestrpí omezení), (b) neuposlechne výzvy k zaevidování za účelem pracovní povinnosti a tuto povinnost nevykoná. Krajský úřad (resp. obecní úřad ORP) zahájí přestupkové řízení a zvažuje výši pokut. Účastníci: fyzická osoba, přestupkový orgán. Doklady: doklad o vyhlášení krizového stavu a opatření, záznam o porušení, výzva k evidenci.
+
+**2. Právní otázka.** Které skutkové podstaty přestupků fyzická osoba naplnila a jaké pokuty lze uložit; v jakém procesním režimu se vede řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (přestupky nesplněním povinností § 31 odst. 3 — písm. a/b/c, d/e, f), odst. 2 (porušení mlčenlivosti ZS), odst. 3 (pokutový žebříček — 20 000 / 50 000 / 100 000 / 2 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 31 odst. 3 (povinnosti FO), § 38 (zachování SŘ pro přestupky), § 27 odst. 6 (mlčenlivost).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky; zákon č. 500/2004 Sb., správní řád (podpůrně).
+- *Judikatura:* obecná maxima o zákonnosti a přiměřenosti sankce a o aplikaci přestupkových zásad (zavinění, polehčující okolnosti).
+
+**4. Subsumpce.** (a) Nestrpění omezení (§ 31 odst. 3 písm. c) → přestupek dle § 34 odst. 1 písm. a) s pokutou do 20 000 Kč. (b) Neuposlechnutí výzvy k evidenci (písm. a) → § 34 odst. 1 písm. a) do 20 000 Kč; nevykonání pracovní povinnosti (písm. d) → § 34 odst. 1 písm. b) do 50 000 Kč. Žebříček odráží proporcionální stupňování závažnosti.
+
+**5. Řešení.** Přestupkový orgán kvalifikuje skutky podle § 34 odst. 1 a uloží pokuty v zákonném rozpětí (zde do 20 000 Kč za nestrpění omezení a evidenci, do 50 000 Kč za nevykonání pracovní povinnosti). Řízení se vede dle zákona č. 250/2016 Sb. a podpůrně dle správního řádu (§ 38 výslovně přestupkové řízení ze své derogace vyjímá). Riziko: opomenutí zásad přestupkového práva (zavinění, přiměřenost) vede ke zrušení rozhodnutí; oprávněné odmítnutí dle § 31 odst. 4 vylučuje odpovědnost.
+
+**6. Varianty.** (a) Porušení devizových zákazů (§ 31 odst. 3 písm. f) → § 34 odst. 1 písm. c) s pokutou až 2 000 000 Kč. (b) Porušení mlčenlivosti o ZS oprávněným pracovníkem → § 34 odst. 2 písm. a) až 100 000 Kč.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za krizového stavu se přestupky neprojednávají podle správního řádu." — Neutralizace: § 38 výslovně zachovává správní řád (a zákon č. 250/2016 Sb.) pro řízení o přestupcích dle § 34 až 34b.
+- *Protiargument:* „Pokuty jsou paušální bez ohledu na okolnosti." — Neutralizace: jde o horní hranice; orgán musí zohlednit zavinění, závažnost a polehčující okolnosti dle zákona o odpovědnosti za přestupky.
+- *Slabé místo:* hranice mezi oprávněným odmítnutím (§ 31 odst. 4) a přestupkem může být sporná; orgán musí posoudit důvodnost odmítnutí.
+
+##### H. Praktický závěr
+
+§ 34 stanoví skutkové podstaty přestupků fyzických osob za porušení povinností dle § 31 odst. 3 a mlčenlivosti o ZS, s proporcionálně stupňovaným pokutovým žebříčkem (až 2 000 000 Kč za devizové zákazy). Řízení se vede podle zákona o odpovědnosti za přestupky a podpůrně podle správního řádu (§ 38).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Která povinnost § 31 odst. 3 byla porušena a jaká skutková podstata § 34 jí odpovídá?
+- [ ] Je dodržena horní hranice pokuty dle § 34 odst. 3?
+- [ ] Byly zohledněny zásady přestupkového práva (zavinění, přiměřenost)?
+- [ ] Nešlo o oprávněné odmítnutí dle § 31 odst. 4 (vylučuje odpovědnost)?
+- [ ] Vede řízení příslušný orgán (krajský úřad / obecní úřad ORP)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vyhlášení krizového stavu a opatření, záznam o porušení, výzva k evidenci / pracovní příkaz, podklady k zavinění a okolnostem.
+
 ---
 
 #### § 34a — Přestupky právnických a podnikajících fyzických osob
@@ -1205,6 +2507,42 @@ Přestupky právnických osob mají **jednotnou maximální pokutu 3 000 000 Kč
 | Porušení devizových zákazů | § 29 odst. 8 |
 | Nesplnění povinnosti odvysílání krizových informací | § 30 |
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Energetická společnost zahrnutá v krizovém plánu nezpracuje plán krizové připravenosti a na žádost HZS neposkytne aktualizované podklady dle § 15 odst. 2. Současně komerční rozhlasový provozovatel odmítne odvysílat krizové sdělení. HZS kraje a krajský úřad zvažují přestupkové řízení. Účastníci: energetická společnost, rozhlasový provozovatel, HZS kraje, krajský úřad. Doklady: krizový plán, žádost HZS o podklady, žádost o odvysílání.
+
+**2. Právní otázka.** Které skutkové podstaty přestupků právnické (podnikající fyzické) osoby byly naplněny a jaká je maximální pokuta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34a odst. 1 (nepodílení se na zpracování krizových plánů / nezpracování plánu krizové připravenosti), odst. 2 (neposkytnutí podkladů § 29 odst. 2, neposkytnutí věcných prostředků § 29 odst. 3, porušení devizových zákazů § 29 odst. 8), odst. 3 (provozovatel vysílání — § 30), odst. 4 (pokuta až 3 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 29 (povinnosti PO), § 30 (vysílání), § 34b (příslušnost), § 15 odst. 2 (podklady).
+- *Související předpisy:* zákon č. 250/2016 Sb.; správní řád (podpůrně dle § 38).
+- *Judikatura:* obecná maxima o objektivní odpovědnosti PO za přestupek a o liberaci (vynaložení veškerého úsilí).
+
+**4. Subsumpce.** Nezpracování plánu krizové připravenosti naplňuje § 34a odst. 1 písm. b); neposkytnutí podkladů dle § 29 odst. 2 naplňuje § 34a odst. 2 písm. a); odmítnutí odvysílat krizové sdělení naplňuje § 34a odst. 3 (porušení § 30). Všechny mají jednotnou horní hranici pokuty 3 000 000 Kč (odst. 4).
+
+**5. Řešení.** HZS kraje projedná přestupky dle § 34a odst. 1 a odst. 2 písm. a) a c) a odst. 3 (§ 34b); krajský úřad projedná přestupek dle § 34a odst. 2 písm. b) (neposkytnutí věcných prostředků). Pokuta až 3 000 000 Kč; PO se může liberovat, prokáže-li vynaložení veškerého úsilí. Riziko: záměna příslušnosti (HZS vs. krajský úřad) podle § 34b; opomenutí možnosti liberace.
+
+**6. Varianty.** (a) Porušení devizových zákazů (§ 29 odst. 8) → § 34a odst. 2 písm. c), projednává HZS kraje. (b) Neposkytnutí věcných prostředků (§ 29 odst. 3) → § 34a odst. 2 písm. b), projednává krajský úřad (§ 34b).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pokuty se liší podle závažnosti jako u fyzických osob." — Neutralizace: § 34a odst. 4 stanoví jednotnou horní hranici 3 000 000 Kč pro všechny skutkové podstaty PO.
+- *Protiargument:* „PO odpovídá bez možnosti zproštění." — Neutralizace: jde o objektivní odpovědnost s možností liberace dle obecné úpravy (vynaložení veškerého úsilí, které lze požadovat).
+- *Slabé místo:* rozdělení příslušnosti mezi HZS a krajský úřad (§ 34b) je technické a snadno zaměnitelné; chybná příslušnost zatěžuje řízení vadou.
+
+##### H. Praktický závěr
+
+§ 34a stanoví skutkové podstaty přestupků právnických a podnikajících fyzických osob (plánovací, informační, věcné, devizové, vysílací) s jednotnou maximální pokutou 3 000 000 Kč; příslušnost se dělí mezi HZS kraje a krajský úřad (§ 34b). Odpovědnost je objektivní s možností liberace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Která povinnost (§ 29 odst. 1, 2, 3, 8 nebo § 30) byla porušena a jaké podstatě § 34a odpovídá?
+- [ ] Kdo je příslušný k projednání (HZS kraje / krajský úřad dle § 34b)?
+- [ ] Je dodržena horní hranice pokuty 3 000 000 Kč (odst. 4)?
+- [ ] Byla zvážena liberace PO (vynaložení veškerého úsilí)?
+
+**Typicky rozhodné důkazy / podklady:** krizový plán a plán krizové připravenosti, žádost HZS o podklady, žádost o odvysílání, doklad o postavení subjektu, podklady k liberaci.
+
 ---
 
 #### § 34b — Společné ustanovení
@@ -1219,6 +2557,41 @@ Příslušnost k projednání přestupků:
 - **Krajský úřad** — přestupky za neposkytnutí věcných prostředků (§ 34a odst. 2/b).
 
 Toto rozdělení odráží **specializaci HZS** na krizové plánování a informační agendu a **kompetenci krajského úřadu** v záležitostech věcných prostředků (kde se uplatňuje hejtmanovo rozhodnutí).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** HZS kraje zahájí přestupkové řízení proti právnické osobě za neposkytnutí věcných prostředků dle § 29 odst. 3 (skutková podstata § 34a odst. 2 písm. b). Právnická osoba namítá, že k projednání tohoto přestupku není HZS příslušný. Účastníci: právnická osoba, HZS kraje, krajský úřad. Doklady: oznámení o zahájení řízení, doklad o uložení a neposkytnutí věcného prostředku.
+
+**2. Právní otázka.** Který orgán je příslušný k projednání jednotlivých přestupků právnických a podnikajících fyzických osob podle § 34a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34b (přestupky dle § 34a projednává HZS kraje, s výjimkou § 34a odst. 2 písm. b), které projednává krajský úřad).
+- *Související ustanovení téhož zákona:* § 34a (skutkové podstaty), § 29 odst. 3 (věcné prostředky — souvislost s hejtmanovým rozhodnutím), § 33 (kontrola).
+- *Související předpisy:* zákon č. 250/2016 Sb. (řízení o přestupcích).
+- *Judikatura:* obecná maxima o tom, že nepříslušnost orgánu zakládá vadu řízení.
+
+**4. Subsumpce.** § 34b svěřuje projednání přestupku za neposkytnutí věcných prostředků (§ 34a odst. 2 písm. b) krajskému úřadu, nikoli HZS. Ostatní přestupky § 34a (plánovací, informační, devizové, vysílací) projednává HZS kraje. Zahájení řízení o § 34a odst. 2 písm. b) ze strany HZS je tedy nepříslušné.
+
+**5. Řešení.** Řízení o neposkytnutí věcných prostředků (§ 34a odst. 2 písm. b) musí vést krajský úřad, nikoli HZS; věc se postoupí příslušnému orgánu. Námitka nepříslušnosti je důvodná. Rozdělení odráží kompetenci krajského úřadu ve věcech věcných prostředků (kde se uplatňuje hejtmanovo rozhodnutí) a specializaci HZS na plánování a informační agendu. Riziko: rozhodnutí nepříslušného orgánu je vadné a může být zrušeno.
+
+**6. Varianty.** (a) Jde-li o přestupek plánovací/informační/devizový/vysílací (§ 34a odst. 1, odst. 2 písm. a a c, odst. 3), příslušný je HZS kraje. (b) Při pochybnosti o příslušnosti se postupuje dle pravidel o postoupení věci.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Všechny přestupky § 34a projednává HZS kraje." — Neutralizace: § 34b výslovně vyjímá § 34a odst. 2 písm. b) (věcné prostředky), který projednává krajský úřad.
+- *Protiargument:* „Nepříslušnost lze zhojit v odvolacím řízení." — Neutralizace: rozhodnutí nepříslušného orgánu je závažnou vadou; věc patří příslušnému orgánu od počátku.
+- *Slabé místo:* dělení je úzce technické a v praxi snadno přehlédnutelné; nutná je pečlivá identifikace skutkové podstaty.
+
+##### H. Praktický závěr
+
+§ 34b dělí příslušnost k projednání přestupků PO/podnikajících FO: HZS kraje (plánovací, informační, devizové, vysílací) a krajský úřad (neposkytnutí věcných prostředků — § 34a odst. 2 písm. b). Rozdělení odráží specializaci HZS a kompetenci krajského úřadu ve věcných prostředcích.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jakou skutkovou podstatu § 34a věc naplňuje?
+- [ ] Jde o § 34a odst. 2 písm. b) (věcné prostředky)? → krajský úřad; jinak → HZS kraje.
+- [ ] Vede řízení příslušný orgán (jinak postoupení)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o zahájení řízení, doklad o uložení/neposkytnutí věcného prostředku, kvalifikace skutkové podstaty, případné usnesení o postoupení.
 
 ---
 
@@ -1257,6 +2630,42 @@ Tři principy stanovení:
 #### Regresní nárok proti původci (odst. 4)
 
 Orgán krizového řízení může požadovat **regresní úhradu** od původce havárie nebo jiné události, v jejímž důsledku vznikla krizová situace. Příklady: provozovatel chemického zařízení po úniku, dopravce po havárii, znečišťovatel po ekologické havárii. Tento mechanismus předchází tomu, aby stát hradil náklady krize způsobené konkrétním subjektem.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu hejtman uložil podnikateli poskytnout nákladní automobil k odvozu naplavenin; vozidlo bylo využíváno tři týdny a vráceno opotřebené. Podnikatel uplatní peněžní náhradu; orgán krizového řízení váhá s její výší a tvrdí, že nárok je promlčen, protože byl uplatněn pět měsíců po skončení stavu. Účastníci: podnikatel, orgán krizového řízení (hejtman/kraj), případně původce havárie. Doklady: potvrzení o poskytnutí věcného prostředku (§ 29 odst. 5), kalkulace nákladů, doklad o opotřebení.
+
+**2. Právní otázka.** Jak se stanoví výše peněžní náhrady za poskytnutí věcného prostředku a v jaké lhůtě se vyplácí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (peněžní náhrada, plátce = orgán, který povinnost uložil, lhůta 6 měsíců od ukončení/zrušení krizového stavu), odst. 3 (stanovení výše — náklady + obvyklá náhrada za použití), odst. 4 (regres proti původci).
+- *Související ustanovení téhož zákona:* § 29 odst. 5 (potvrzení), § 5 písm. b) (přiměřená náhrada), § 36 (náhrada škody — odlišení).
+- *Související předpisy:* čl. 11 odst. 4 Listiny; § 2917 a násl. NOZ.
+- *Judikatura:* obecná maxima o ústavní garanci náhrady za nucené omezení vlastnictví.
+
+**4. Subsumpce.** Náhrada za poskytnutí věcného prostředku se dle § 35 odst. 3 stanoví z nákladů vzniklých povinnému a z obvykle požadované náhrady za použití stejného/obdobného prostředku. Lhůta dle odst. 1 je 6 měsíců od ukončení/zrušení krizového stavu pro výplatu náhrady orgánem — nejde o promlčecí lhůtu pro uplatnění nároku poškozeným. Uplatnění po pěti měsících tedy není opožděné; navíc plátcem je orgán, který povinnost uložil.
+
+**5. Řešení.** Podnikateli náleží náhrada ve výši nákladů + obvyklé náhrady za třítýdenní použití vozidla, s ohledem na opotřebení (§ 35 odst. 3). Náhradu vyplatí orgán, který povinnost uložil, do 6 měsíců od ukončení/zrušení krizového stavu (odst. 1). Orgán může regresně požadovat úhradu po původci havárie (odst. 4). Riziko: záměna 6měsíční výplatní lhůty s prekluzí nároku; podcenění obvyklé náhrady.
+
+**6. Varianty.** (a) Jde-li o omezení vlastnického práva k nemovitosti, náhrada odpovídá míře omezení dle občanského zákoníku (odst. 2). (b) Jde-li o pracovní povinnost/výpomoc, náhrada odpovídá obvyklé mzdě za stejné/podobné práce (odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nárok je promlčen, protože nebyl uplatněn do 6 měsíců." — Neutralizace: 6 měsíců dle § 35 odst. 1 je lhůtou pro výplatu náhrady orgánem, nikoli prekluzivní lhůtou pro uplatnění nároku poškozeným.
+- *Protiargument:* „Náhrada se rovná jen prokázaným nákladům." — Neutralizace: odst. 3 zahrnuje i obvykle požadovanou náhradu za použití stejného/obdobného prostředku, nikoli pouze přímé náklady.
+- *Slabé místo:* „obvyklá náhrada za použití" je hodnotící veličina; nezbytné je doložit tržní srovnání a stav opotřebení.
+
+##### H. Praktický závěr
+
+§ 35 provádí ústavní garanci náhrady za nucené omezení vlastnictví (čl. 11 odst. 4 Listiny): za omezení práva, věcné prostředky a pracovní povinnost/výpomoc náleží peněžní náhrada, kterou vyplácí orgán, jenž povinnost uložil, do 6 měsíců od ukončení krizového stavu; výše se určí dohodou, dle OZ nebo obvyklou náhradou. Orgán má regres proti původci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o omezení práva, věcný prostředek, nebo pracovní povinnost/výpomoc (určuje způsob výpočtu, odst. 2 a 3)?
+- [ ] Je náhrada stanovena dohodou / dle OZ / jako obvyklá náhrada?
+- [ ] Vyplácí náhradu orgán, který povinnost uložil, ve lhůtě 6 měsíců (odst. 1)?
+- [ ] Existuje původce havárie pro regres (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o poskytnutí věcného prostředku (§ 29 odst. 5), kalkulace nákladů a obvyklé náhrady, doklad o opotřebení, doklad o ukončení krizového stavu, podklady k regresu.
 
 ---
 
@@ -1318,6 +2727,43 @@ Orgán krizového řízení může požadovat **regresní úhradu** od původce 
 
 Odst. 6 vyjadřuje obecný princip, že kdo zavinil škodnou událost, nemůže žádat náhradu — odpovídá § 2918 NOZ (snížení/vyloučení náhrady při zavinění poškozeného). Aplikace: např. podnikatel, který porušil bezpečnostní předpisy a vyvolal havárii, nemůže žádat náhradu škody způsobené následnými krizovými opatřeními.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel restaurace byl za nouzového stavu (pandemie) nucen uzavřít provozovnu na základě vládního krizového opatření zakazujícího maloobchodní prodej a poskytování stravovacích služeb. Vznikla mu škoda (ušlý zisk, fixní náklady). Uplatní nárok na náhradu škody podle § 36; stát namítá, že se podnikatel podrobil omezení „dobrovolně" a že škodu nezpůsobilo opatření, nýbrž pandemie. Účastníci: provozovatel, stát (příslušné ministerstvo / orgán krizového řízení). Doklady: krizové opatření, účetní doklady o škodě, doklad o uzavření.
+
+**2. Právní otázka.** Odpovídá stát podle § 36 za škodu způsobenou krizovým opatřením i tehdy, podrobil-li se poškozený omezení „dobrovolně", a co je rozhodným okamžikem vzniku škody?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 1 (objektivní odpovědnost státu za škodu v příčinné souvislosti s krizovými opatřeními; liberace jen důkazem, že si poškozený způsobil škodu sám), odst. 5 (lhůty 6 měsíců / 5 let), odst. 6 (vyloučení škůdce), odst. 7 (regres).
+- *Související ustanovení téhož zákona:* § 35 (náhrada za uložené povinnosti — odlišení), § 5 písm. b) (omezení vlastnictví s náhradou), § 6 (krizová opatření).
+- *Související předpisy:* zákon č. 82/1998 Sb. (odpovědnost státu — subsidiárně/odlišení); § 2918 NOZ.
+- *Judikatura:* NS 30 Cdo 63/2023 — krizové opatření (zákaz maloobchodního prodeje ve formě usnesení vlády) je „provedeno" v okamžiku, kdy nastaly jeho škodu působící účinky, a není významné, že se poškozený omezení podrobil dobrovolně; NS 30 Cdo 1101/2024 — mimořádná opatření MZd dle § 69 zák. 258/2000 Sb. v době krizového stavu jsou krizovými opatřeními a stát za škodu z jejich provádění odpovídá dle § 36 odst. 1.
+
+**4. Subsumpce.** Škoda restaurace vznikla v příčinné souvislosti s krizovým opatřením (zákaz služeb) → naplněn znak § 36 odst. 1. „Dobrovolné" podrobení se omezení nevylučuje odpovědnost (NS 30 Cdo 63/2023). Liberace by vyžadovala důkaz, že si poškozený způsobil škodu sám (odst. 1), což zde dáno není. Rozhodný je okamžik, kdy nastaly škodu působící účinky opatření.
+
+**5. Řešení.** Stát odpovídá za škodu objektivně; námitka „dobrovolnosti" neobstojí (NS 30 Cdo 63/2023). Provozovatel uplatní nárok písemně u příslušného orgánu do 6 měsíců od dozvědění, nejdéle do 5 let od vzniku škody (odst. 5). Náhradu poskytne orgán, který opatření nařídil (odst. 4). Vedle individuálního nároku existovaly paušální kompenzace (kompenzační bonusy). Riziko: zmeškání 6měsíční subjektivní lhůty; spory o rozsah „příčinné souvislosti" a o výši škody.
+
+**6. Varianty.** (a) Zavinil-li poškozený škodnou událost (např. porušením předpisů vyvolal havárii), náhrada se neposkytuje (odst. 6, § 2918 NOZ). (b) Jde-li o škodu z nezákonného opatření, může se kumulovat/odlišovat režim zákona č. 82/1998 Sb. (reparační vs. sociálně-solidární náhrada).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Škodu způsobila pandemie, ne opatření, a poškozený se podrobil dobrovolně." — Neutralizace: NS 30 Cdo 63/2023 dovodil, že rozhodné jsou škodu působící účinky opatření a dobrovolnost podrobení se je právně bezvýznamná; jde o objektivní odpovědnost dle § 36 odst. 1.
+- *Protiargument:* „Mimořádná opatření MZd nejsou krizová opatření." — Neutralizace: NS 30 Cdo 1101/2024 výslovně dovodil opak pro opatření vydaná v době krizového stavu.
+- *Slabé místo:* prokázání výše škody a „příčinné souvislosti" je důkazně náročné; rozsah náhrady (ušlý zisk vs. skutečná škoda) je předmětem judikaturního vývoje a paušálních kompenzací.
+
+##### H. Praktický závěr
+
+§ 36 zakotvuje objektivní odpovědnost státu za škodu v příčinné souvislosti s krizovými opatřeními (i mimořádnými opatřeními MZd v době krizového stavu — NS 30 Cdo 1101/2024). Liberace je možná jen důkazem, že si poškozený způsobil škodu sám; dobrovolné podrobení se opatření odpovědnost nevylučuje (NS 30 Cdo 63/2023). Nárok se uplatňuje do 6 měsíců / 5 let; jde o speciální úpravu vůči zákonu č. 82/1998 Sb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dána příčinná souvislost mezi krizovým opatřením a škodou (§ 36 odst. 1)?
+- [ ] Nejde o liberační důvod (poškozený si škodu způsobil sám) nebo vyloučení škůdce (odst. 6)?
+- [ ] Byl nárok uplatněn písemně u příslušného orgánu do 6 měsíců od dozvědění, nejdéle 5 let od vzniku (odst. 5)?
+- [ ] Je plátcem orgán, který opatření nařídil (odst. 4)?
+- [ ] Nejde o případ pro zákon č. 82/1998 Sb. (nezákonné opatření)?
+
+**Typicky rozhodné důkazy / podklady:** krizové opatření a doklad o jeho účincích, účetní doklady o škodě (ušlý zisk, fixní náklady), doklad o uzavření provozu, podání uplatňující nárok s daty, podklady k případnému regresu (odst. 7).
+
 ---
 
 #### § 37 — Státní podpora při haváriích a živelních pohromách
@@ -1336,6 +2782,42 @@ Státní podpora podle § 37 je **sociálně-solidární institut** pro občany 
 | Bez testu majetkových poměrů | S testem majetkových poměrů |
 
 V praxi se podpora podle § 37 uplatňuje při povodních, požárech a dalších živelních událostech jako **rychlá ad hoc pomoc** postiženým rodinám a obcím. Vláda typicky aktivuje rezervu kapitoly VPS a vyhlašuje konkrétní podmínky podpory pro danou událost.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Po bleskové povodni přišla rodina o vybavení domácnosti a obec o část infrastruktury; obojí se přechodně ocitlo v mimořádně obtížných poměrech. Rodina žádá o jednorázovou peněžitou dávku, obec o mimořádnou finanční pomoc. Pověřený obecní úřad posuzuje majetkové poměry rodiny. Účastníci: fyzická osoba (rodina), obec, pověřený obecní úřad, vláda (rezerva VPS). Doklady: doklad o pohromě, doložení majetkových poměrů, žádost o podporu.
+
+**2. Právní otázka.** Za jakých podmínek a v jakém rozsahu lze poskytnout státní podporu podle § 37 a jak se liší od náhrady škody dle § 36?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 (státní podpora fyzickým osobám a obcím v mimořádně obtížných poměrech z důvodu havárie/živelní pohromy; jednorázové dávky, mimořádná finanční a hmotná pomoc; test majetkových poměrů; výplata pověřenými obecními úřady; rezerva VPS, příp. vládní rozpočtová rezerva).
+- *Související ustanovení téhož zákona:* § 36 (náhrada škody — odlišení), § 25 (financování), § 35 (náhrada za uložené povinnosti).
+- *Související předpisy:* zákon č. 218/2000 Sb., rozpočtová pravidla (§ 11 — vládní rozpočtová rezerva).
+- *Judikatura:* obecná maxima o diskreční povaze sociálně-solidární podpory (na rozdíl od objektivního nároku na náhradu škody).
+
+**4. Subsumpce.** Podpora dle § 37 předpokládá (i) havárii/živelní pohromu, (ii) přechodné mimořádně obtížné poměry, (iii) test majetkových poměrů (u FO). Na rozdíl od § 36 nejde o objektivní nárok, ale o diskreční podporu vázanou na obtížné poměry. Rodina po povodni tyto znaky naplňuje → podpora je možná, nikoli však nárokově automatická.
+
+**5. Řešení.** Pověřený obecní úřad posoudí majetkové poměry rodiny a poskytne jednorázovou dávku z neinvestiční účelové dotace; obci lze poskytnout mimořádnou finanční/hmotnou pomoc. Vláda k úhradě výdajů zpravidla použije rezervu kapitoly VPS, mimořádně vládní rozpočtovou rezervu. Podpora dle § 37 a náhrada dle § 36 se mohou kumulovat (jiný titul). Riziko: zaměňování diskreční podpory (§ 37) s objektivním nárokem (§ 36); přehlédnutí testu majetkových poměrů.
+
+**6. Varianty.** (a) Vznikla-li škoda v příčinné souvislosti s krizovým opatřením (nikoli pohromou), uplatní se objektivní náhrada dle § 36, nikoli § 37. (b) U obcí se test majetkových poměrů uplatní specificky podle povahy pomoci.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Na podporu dle § 37 je právní nárok jako na náhradu škody." — Neutralizace: § 37 zakládá diskreční sociálně-solidární podporu vázanou na mimořádně obtížné poměry a test majetkových poměrů, nikoli objektivní nárok (ten dává § 36).
+- *Protiargument:* „Podpora a náhrada škody se vylučují." — Neutralizace: jde o odlišné tituly (pohroma vs. krizové opatření); mohou se kumulovat.
+- *Slabé místo:* pojmy „mimořádně obtížné poměry" a rozsah testu majetkových poměrů jsou hodnotící; rozhodování je diskreční a hůře přezkoumatelné.
+
+##### H. Praktický závěr
+
+§ 37 zřizuje sociálně-solidární státní podporu pro fyzické osoby a obce postižené havárií či živelní pohromou, které se přechodně ocitly v mimořádně obtížných poměrech; jde o diskreční pomoc (s testem majetkových poměrů u FO), odlišnou od objektivní náhrady škody dle § 36. Dávky vyplácejí pověřené obecní úřady, financování z rezervy VPS, příp. vládní rozpočtové rezervy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o havárii / živelní pohromu (nikoli o škodu z krizového opatření → § 36)?
+- [ ] Ocitl se žadatel přechodně v mimořádně obtížných poměrech?
+- [ ] Byl proveden test majetkových poměrů (u FO)?
+- [ ] Vyplácí dávku pověřený obecní úřad z účelové dotace; je zajištěno financování (VPS / vládní rezerva)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o havárii/pohromě, doložení majetkových poměrů, žádost o podporu, rozhodnutí o poskytnutí dávky, rozpočtové podklady k financování.
 
 ---
 
@@ -1362,6 +2844,42 @@ V praxi se podpora podle § 37 uplatňuje při povodních, požárech a dalšíc
 3. **§ 34–34b — přestupkové řízení**. Důvod: jde o sankční řízení s nutností garantovaných procesních práv (čl. 36 a 40 Listiny).
 
 > **Soudní přezkum:** Vyloučení SŘ neznamená vyloučení soudního přezkumu. Krizová opatření (zejm. usnesení vlády) jsou přezkoumatelná **Ústavním soudem** jako jiné právní předpisy podle čl. 87 odst. 1 písm. b) Ústavy. **Individuální správní akty** (pracovní příkaz, rozhodnutí o věcném prostředku) jsou přezkoumatelné správními soudy podle § 65 a násl. SŘS — Pl. ÚS 8/20 a navazující judikatura ÚS konzistentně potvrzují přezkoumatelnost.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Hejtman za nouzového stavu vydá fyzické osobě pracovní příkaz. Osoba se domáhá, aby řízení proběhlo podle správního řádu (odůvodnění v plné podobě, odvolání, lhůty). Souběžně je proti jiné osobě vedeno přestupkové řízení dle § 34 a ta naopak namítá, že správní řád se za krizového stavu nepoužije vůbec. Účastníci: hejtman, povolaná osoba, přestupkový orgán, obviněný z přestupku. Doklady: pracovní příkaz, oznámení o zahájení přestupkového řízení.
+
+**2. Právní otázka.** Na která rozhodování podle krizového zákona se za krizového stavu nevztahuje správní řád a kde naopak platí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 (vyloučení správního řádu za krizového stavu, s výjimkou § 6 odst. 5, § 9 odst. 3 písm. c) a § 34 až 34b).
+- *Související ustanovení téhož zákona:* § 31 odst. 5 (pracovní příkaz), § 34 až 34b (přestupky), § 6 odst. 5 (zvláštní povolení ČNB), § 39c (přiměřenost).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád; zákon č. 250/2016 Sb.; čl. 36, 40 Listiny; čl. 87 odst. 1 písm. b) Ústavy.
+- *Judikatura:* Pl. ÚS 8/20 a navazující — vyloučení správního řádu neznamená vyloučení soudního přezkumu; krizová opatření přezkoumává ÚS, individuální akty správní soudy.
+
+**4. Subsumpce.** § 38 vylučuje správní řád na rozhodování a ukládání povinností za krizového stavu (tj. i na pracovní příkaz dle § 31 odst. 5) — odpadá plné odůvodnění, odvolání a lhůty SŘ. Výslovnou výjimkou je však přestupkové řízení (§ 34–34b), kde se správní řád (a zák. č. 250/2016 Sb.) použije. Námitka první osoby (aplikace SŘ na pracovní příkaz) tedy neobstojí; námitka druhé osoby (úplné vyloučení SŘ v přestupcích) rovněž neobstojí.
+
+**5. Řešení.** Pracovní příkaz se vydává ve zjednodušeném režimu mimo správní řád (§ 38), avšak je přezkoumatelný správními soudy (§ 65 a násl. SŘS). Přestupkové řízení dle § 34–34b se vede podle správního řádu a zákona o odpovědnosti za přestupky se zárukami čl. 36 a 40 Listiny. Riziko: zaměňování režimů; popírání soudního přezkumu — ten je zachován vždy (ÚS / správní soudy).
+
+**6. Varianty.** (a) Zvláštní povolení ČNB dle § 6 odst. 5 se vydává v režimu správního řádu (trvalý akt s majetkovými dopady). (b) Mimo krizový stav se na rozhodování podle zákona správní řád použije běžně.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Za krizového stavu se správní řád nepoužije na nic." — Neutralizace: § 38 výslovně vyjímá § 6 odst. 5, § 9 odst. 3 písm. c) a § 34 až 34b; u přestupků a zvláštního povolení ČNB se SŘ použije.
+- *Protiargument:* „Vyloučení správního řádu vylučuje i soudní přezkum." — Neutralizace: dle Pl. ÚS 8/20 je soudní přezkum zachován — opatření přezkoumává ÚS, individuální akty správní soudy.
+- *Slabé místo:* zjednodušený režim individuálních aktů (bez plného odůvodnění) ztěžuje pozdější přezkum; orgán by měl i tak akt dostatečně odůvodnit pro účely soudní kontroly.
+
+##### H. Praktický závěr
+
+§ 38 vylučuje správní řád na rozhodování a ukládání povinností podle krizového zákona za krizového stavu, s výslovnými výjimkami (§ 6 odst. 5 — zvláštní povolení ČNB; § 9 odst. 3 písm. c); § 34 až 34b — přestupkové řízení). Vyloučení SŘ nevylučuje soudní přezkum: krizová opatření přezkoumává ÚS, individuální akty správní soudy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o rozhodování/ukládání povinností za krizového stavu mimo výjimky? → SŘ se nepoužije.
+- [ ] Jde o přestupkové řízení (§ 34–34b) nebo zvláštní povolení ČNB (§ 6 odst. 5)? → SŘ se použije.
+- [ ] Je zachován soudní přezkum (ÚS u opatření, správní soud u individuálních aktů)?
+- [ ] Je individuální akt přes zjednodušený režim dostatečně odůvodněn pro přezkum?
+
+**Typicky rozhodné důkazy / podklady:** pracovní příkaz / individuální akt, oznámení o zahájení přestupkového řízení, doklad o vyhlášení krizového stavu, podklady pro soudní přezkum.
 
 ---
 
@@ -1399,6 +2917,42 @@ Klíčové uznání **plné aplikovatelnosti krizového zákona i za stavů spoj
 
 Připravenost se ověřuje cvičeními podle zákona č. 239/2000 Sb. (IZS). V praxi se cvičení organizují na všech úrovních — od resortních (např. „Zóna 2018" jaderná havárie) po mezinárodní (např. cvičení NATO, EU Crisis Management Exercise).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Při velké povodni je v kraji vyhlášen nouzový stav; současně podle vodního zákona zasedá povodňová komise. Vzniká spor, zda vyhlášením krizového stavu zanikají pravomoci povodňové komise a zda se komise a krizový štáb scházejí odděleně. Souběžně hrozí v jiném regionu nákaza zvířat. Účastníci: krizový štáb kraje, povodňová komise, krajská nákazová komise. Doklady: doklad o vyhlášení stavu, jednací dokumentace komisí a štábu.
+
+**2. Právní otázka.** Jak se vztahují pravomoci povodňových komisí, komisí pro sucho a nákazových komisí ke krizovému štábu po vyhlášení krizového stavu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 1 (nákazové komise se stávají součástí krizových štábů), odst. 2 (povodňové komise a krizový štáb zasedají společně; pravomoci komisí nedotčeny), odst. 3 (komise pro sucho — obdobně), odst. 4 (souběh s obrannou úpravou), odst. 5 (cvičení).
+- *Související ustanovení téhož zákona:* § 24b (krizový štáb), § 14 (hejtman), § 1 (vztah k obraně).
+- *Související předpisy:* zákon č. 254/2001 Sb., vodní zákon (povodňové komise); zákon č. 166/1999 Sb. (veterinární — nákazové komise); zákon č. 222/1999 Sb. (obrana).
+- *Judikatura:* obecná maxima o integraci odborných komisí při zachování jejich kompetence.
+
+**4. Subsumpce.** § 39 odst. 2 stanoví, že po vyhlášení krizového stavu povodňová komise a krizový štáb zasedají společně a pravomoci komise nejsou dotčeny → pravomoci povodňové komise nezanikají, jen se integruje rozhodování. Nákazová komise se dle odst. 1 stává součástí krizového štábu. Princip „nezávislé pravomoci + integrované rozhodování" je naplněn.
+
+**5. Řešení.** Povodňová komise nezaniká; zasedá společně s krizovým štábem a zachovává své pravomoci dle vodního zákona (§ 39 odst. 2). Nákazová komise se stává součástí krizového štábu (odst. 1). Integrace zajišťuje odbornost i koordinaci. Riziko: mylný závěr o zániku pravomocí komise vyhlášením krizového stavu; oddělené a nekoordinované jednání odporuje integračnímu principu.
+
+**6. Varianty.** (a) Při stavu nedostatku vody se obdobně integruje komise pro sucho (odst. 3). (b) Za stavu ohrožení státu z důvodu obrany plní orgány úkoly i podle krizového zákona, nestanoví-li jinak zákon č. 222/1999 Sb. (odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyhlášením krizového stavu pravomoci povodňové komise zanikají." — Neutralizace: § 39 odst. 2 výslovně stanoví, že pravomoci komisí nejsou vyhlášením krizového stavu dotčeny; komise jen zasedá společně s krizovým štábem.
+- *Protiargument:* „Odborné komise a krizový štáb jednají odděleně." — Neutralizace: zákon předepisuje společné zasedání (odst. 2, 3) a začlenění nákazových komisí do štábu (odst. 1).
+- *Slabé místo:* dělba rozhodování mezi „integrovaný štáb" a „komisi se zachovanou pravomocí" může v praxi vyvolat kompetenční tření; nutná je jasná koordinace pod vedením hejtmana.
+
+##### H. Praktický závěr
+
+§ 39 zajišťuje multidisciplinární integraci při souběhu krizového stavu s veterinárním, povodňovým a suchovým režimem (nákazové komise se stávají součástí štábu; povodňové komise a komise pro sucho zasedají se štábem společně, s nedotčenými pravomocemi) a stanoví subsidiární souběh s obrannou úpravou (odst. 4) a ověřování připravenosti cvičeními (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o souběh krizového stavu s povodní / suchem / nákazou?
+- [ ] Zasedá příslušná komise společně s krizovým štábem (odst. 1–3)?
+- [ ] Jsou pravomoci odborné komise zachovány (nedotčeny vyhlášením stavu)?
+- [ ] Jde o stav ohrožení státu z důvodu obrany? → souběh se zák. č. 222/1999 Sb. (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** doklad o vyhlášení krizového stavu, jednací dokumentace komisí a krizového štábu, doklady o integraci (společné zasedání), případně o cvičení (odst. 5).
+
 ---
 
 #### § 39a — Přenesená působnost
@@ -1418,6 +2972,42 @@ Důsledky:
 - Spory řeší MV (§ 7 zákona o krajích) nebo krajský úřad (§ 67 zákona o obcích).
 - Rozhodnutí v přenesené působnosti podléhají dozoru a soudnímu přezkumu jako akty státní správy.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Obec namítá, že náklady na krizové úkoly, které jí uložil hejtman, má hradit obec ze svého rozpočtu, a domáhá se, aby spor o výkon krizové působnosti řešil soud v samosprávném režimu. Současně občan napadne rozhodnutí starosty vydané v krizovém řízení. Účastníci: obec, hejtman, MV, občan. Doklady: pokyny hejtmana, rozhodnutí starosty, rozpočtové podklady.
+
+**2. Právní otázka.** Jakou povahu má výkon krizové působnosti územních orgánů (samostatná vs. přenesená působnost) a jaké z toho plynou důsledky pro financování, dozor a přezkum?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39a (působnosti krajského úřadu, hejtmana, obecního úřadu ORP, starosty ORP, obecního úřadu a starosty jsou výkonem státní správy v přenesené působnosti).
+- *Související ustanovení téhož zákona:* § 25 a § 22 odst. 2 (financování), § 14 (hejtman řídí územní orgány), § 38 (vyloučení SŘ), § 21 odst. 4 (zmocněnec).
+- *Související předpisy:* čl. 79 odst. 1 Ústavy; § 7 zák. č. 129/2000 Sb. (kraje); § 61, § 67 zák. č. 128/2000 Sb. (obce).
+- *Judikatura:* obecná maxima o tom, že akty v přenesené působnosti podléhají dozoru a soudnímu přezkumu jako akty státní správy.
+
+**4. Subsumpce.** § 39a kvalifikuje veškeré krizové pravomoci územních orgánů jako přenesenou působnost (výkon státní správy). Z toho plyne: podřízenost pokynům státu (vláda, MV, hejtman), financování státem (§ 25), dozor MV/krajského úřadu a soudní přezkum jako u státní správy. Požadavek obce na samosprávný režim sporu tedy neobstojí.
+
+**5. Řešení.** Krizová působnost obce je přenesená; obec je v ní podřízena pokynům hejtmana a státu, spory řeší MV (§ 7 zák. o krajích) nebo krajský úřad (§ 67 zák. o obcích), nikoli samosprávný režim. Rozhodnutí starosty v krizovém řízení podléhá přezkumu jako akt státní správy (správní soudy; u opatření ÚS). Riziko: záměna samostatné a přenesené působnosti vede k chybnému určení dozoru, financování i přezkumu.
+
+**6. Varianty.** (a) Náklady opatření, která stanovila sama obec, hradí obec (§ 22 odst. 2); ostatní náklady přenesené působnosti nese stát (§ 25). (b) Neplní-li obec úkoly, nastupuje interventní pravomoc hejtmana (zmocněnec — § 21 odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krizová působnost obce je výkonem samosprávy." — Neutralizace: § 39a ji výslovně kvalifikuje jako přenesenou působnost (výkon státní správy) se všemi důsledky (dozor, financování, přezkum).
+- *Protiargument:* „Náklady krizových úkolů nese vždy stát." — Neutralizace: náklady opatření stanovených obcí nese obec (§ 22 odst. 2); stát hradí ostatní náklady přenesené působnosti (§ 25).
+- *Slabé místo:* rozhraní mezi náklady „stanovenými obcí" (obec) a „přenesenými" (stát) může být sporné; nutné je přesné určení původce opatření.
+
+##### H. Praktický závěr
+
+§ 39a kvalifikuje veškeré krizové pravomoci územních orgánů (hejtman, starosta ORP, starosta a jejich úřady) jako výkon státní správy v přenesené působnosti: orgány jsou podřízeny pokynům státu, financování zajišťuje stát (s výjimkou opatření stanovených obcí — § 22 odst. 2), spory řeší MV/krajský úřad a akty podléhají dozoru a soudnímu přezkumu jako státní správa.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o krizovou pravomoc územního orgánu? → přenesená působnost (§ 39a).
+- [ ] Kdo financuje (stát dle § 25 / obec u vlastních opatření dle § 22 odst. 2)?
+- [ ] Kdo řeší spory a vykonává dozor (MV / krajský úřad)?
+- [ ] Podléhá akt přezkumu jako státní správa (správní soud / ÚS u opatření)?
+
+**Typicky rozhodné důkazy / podklady:** pokyny nadřízeného orgánu (hejtman/MV), rozhodnutí územního orgánu, rozpočtové podklady k financování, dokumentace dozoru a přezkumu.
+
 ---
 
 #### § 39b — Správce obce a městské části
@@ -1425,6 +3015,42 @@ Důsledky:
 > **§ 39b:** Správce obce jmenovaný MV (podle § 91 zák. o obcích) plní v případě vyhlášení krizového stavu úkoly podle § 21 odst. 2 písm. a) až c) a odst. 3. Správce městské části jmenovaný ředitelem Magistrátu plní úkoly starosty městské části.
 
 **Výklad:** V případě, že obec nemá funkční zastupitelstvo a byl jmenován správce obce, plní tento správce funkci starosty v krizovém řízení. Toto ustanovení zaručuje **kontinuitu krizového řízení** i v případě obecní samosprávné anomálie.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** V obci bylo rozpuštěno zastupitelstvo a MV jmenovalo správce obce. Vzápětí je v kraji vyhlášen nouzový stav (povodeň) a je třeba zajistit varování obyvatel a evakuaci. Vzniká pochybnost, kdo v obci bez starosty plní krizové úkoly. Obdobně v městské části hl. m. Prahy bez starosty jmenoval správce ředitel Magistrátu. Účastníci: správce obce/MČ, hejtman, obyvatelé, MV. Doklady: jmenování správce, doklad o vyhlášení stavu.
+
+**2. Právní otázka.** Kdo plní úkoly starosty v krizovém řízení, nemá-li obec (městská část) funkční vedení, a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39b (správce obce jmenovaný MV plní za krizového stavu úkoly dle § 21 odst. 2 písm. a) až c) a odst. 3; správce městské části jmenovaný ředitelem Magistrátu plní úkoly starosty MČ).
+- *Související ustanovení téhož zákona:* § 21 (starosta obce), § 14 (hejtman), § 21 odst. 4 (zmocněnec — odlišení).
+- *Související předpisy:* § 91 zák. č. 128/2000 Sb. (správce obce); Statut hl. m. Prahy.
+- *Judikatura:* obecná maxima o zajištění kontinuity výkonu veřejné správy.
+
+**4. Subsumpce.** § 39b svěřuje správci obce (jmenovanému MV dle § 91 zák. o obcích) plnění krizových úkolů starosty dle § 21 odst. 2 písm. a)–c) a odst. 3 (varování, evakuace, nouzové přežití). Obec bez funkčního zastupitelstva tak má pro krizové řízení určeného nositele úkolů; znak „kontinuita krizového řízení" je naplněn.
+
+**5. Řešení.** Krizové úkoly v obci bez starosty plní správce obce (§ 39b), tj. zajistí varování, evakuaci a nouzové přežití (§ 21 odst. 3). V městské části je plní správce MČ jmenovaný ředitelem Magistrátu. Institut § 39b se odlišuje od zmocněnce dle § 21 odst. 4 (ten nastupuje při nečinnosti existujícího starosty). Riziko: vakuum ve výkonu krizových úkolů, není-li správce včas jmenován.
+
+**6. Varianty.** (a) Existuje-li starosta, ale neplní úkoly, použije se zmocněnec dle § 21 odst. 4, nikoli § 39b. (b) Mimo krizový stav plní správce obce běžné úkoly dle zákona o obcích.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez starosty nemá obec v krizi nikoho oprávněného jednat." — Neutralizace: § 39b svěřuje krizové úkoly správci obce/MČ; kontinuita je zajištěna.
+- *Protiargument:* „Správce obce a zmocněnec jsou totéž." — Neutralizace: správce obce (§ 39b, § 91 zák. o obcích) nastupuje při absenci funkčního vedení; zmocněnec (§ 21 odst. 4) při nečinnosti existujícího starosty.
+- *Slabé místo:* ustanovení je stručné; rozsah úkolů správce se dovozuje odkazem na § 21 odst. 2 a 3.
+
+##### H. Praktický závěr
+
+§ 39b zajišťuje kontinuitu krizového řízení v obci či městské části bez funkčního vedení: krizové úkoly starosty (varování, evakuace, nouzové přežití) plní správce obce jmenovaný MV, resp. správce městské části jmenovaný ředitelem Magistrátu. Institut se liší od zmocněnce dle § 21 odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má obec/MČ funkční vedení? Pokud ne a je jmenován správce → plní krizové úkoly dle § 39b.
+- [ ] Plní správce úkoly dle § 21 odst. 2 písm. a)–c) a odst. 3?
+- [ ] Nejde spíše o nečinnost existujícího starosty (→ zmocněnec dle § 21 odst. 4)?
+- [ ] Je v MČ správce jmenován ředitelem Magistrátu dle Statutu HMP?
+
+**Typicky rozhodné důkazy / podklady:** jmenování správce obce/MČ, doklad o vyhlášení krizového stavu, dokumentace plnění krizových úkolů (varování, evakuace).
 
 ---
 
@@ -1444,6 +3070,42 @@ Důsledky:
 - Je **vodítkem pro soudní přezkum** (ÚS, NSS) — testuje, zda krizové opatření prošlo testem nezbytnosti.
 
 > **Test proporcionality v judikatuře ÚS k pandemii:** ÚS aplikoval třístupňový test (vhodnost — nezbytnost — proporcionalita v užším smyslu) na řadu krizových opatření. Některá opatření prošla (např. omezení shromažďování v určitých fázích), jiná byla zrušena pro nedostatek odůvodnění nebo nepřiměřenost (např. částečně rozsudek NSS k zákazu maloobchodního prodeje v 2020).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu (lokální únik nebezpečné látky v jedné čtvrti) hejtman zakáže pohyb osob na celém území kraje a nařídí celokrajskou evakuaci, ačkoli ohrožena je jen jedna čtvrť. Dotčená osoba namítá, že opatření překračuje nezbytnou míru. Účastníci: hejtman, dotčené osoby, soud. Doklady: rozhodnutí s vymezením území, odborné posouzení rozsahu ohrožení.
+
+**2. Právní otázka.** Je celokrajský zákaz pohybu a evakuace přiměřený, je-li ohrožena jen část území, a jak působí princip přiměřenosti dle § 39c?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39c (orgány krizového řízení postupují tak, aby zásah do práv a svobod nepřekročil nezbytnou míru).
+- *Související ustanovení téhož zákona:* § 5 a § 6 (limity „nezbytně nutná doba a rozsah"), § 14 odst. 4 (katalog hejtmana), § 3 (stav nebezpečí — územní rozsah).
+- *Související předpisy:* čl. 4 odst. 4 Listiny (šetření podstaty a smyslu práv); test proporcionality.
+- *Judikatura:* Pl. ÚS 8/20 a navazující — třístupňový test proporcionality (vhodnost — nezbytnost — přiměřenost v užším smyslu) krizových opatření; opatření zrušená pro nepřiměřenost/neodůvodněnost.
+
+**4. Subsumpce.** § 39c zavazuje všechny orgány krizového řízení a vztahuje se na všechny krizové stavy. Celokrajský zákaz a evakuace při ohrožení jediné čtvrti zjevně překračují nezbytnou míru (zásah širší než ohrožení) → rozpor s § 39c a s limity „nezbytného rozsahu" v § 5/§ 6. Znak proporcionality (nezbytnost, přiměřenost) není naplněn.
+
+**5. Řešení.** Opatření musí být územně omezeno na ohroženou čtvrť (a nezbytné okolí); celokrajský rozsah je nepřiměřený a v přezkumu (správní soud / ÚS) neobstojí. § 39c je vodítkem soudního přezkumu — testuje se vhodnost, nezbytnost a přiměřenost v užším smyslu. Riziko: plošná opatření bez odborného odůvodnění rozsahu jsou rušena; orgán nese důkazní břemeno o nezbytnosti rozsahu.
+
+**6. Varianty.** (a) Územně i časově cílené opatření na ohroženou čtvrť s odůvodněním testem proporcionality projde. (b) Eskaluje-li ohrožení odborně doložitelně na větší území, lze rozsah úměrně rozšířit.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „V krizi je široký zásah vždy ospravedlnitelný předběžnou opatrností." — Neutralizace: § 39c a čl. 4 odst. 4 Listiny vyžadují nepřekročení nezbytné míry; předběžná opatrnost neospravedlňuje zásah zjevně širší než ohrožení a musí být odborně odůvodněna.
+- *Protiargument:* „Princip přiměřenosti je jen proklamace bez vynutitelnosti." — Neutralizace: § 39c je výslovným zákonným vodítkem soudního přezkumu; ÚS i NSS na jeho základě krizová opatření rušily.
+- *Slabé místo:* „nezbytná míra" je hodnotící; orgán musí unést důkazní břemeno o nezbytnosti rozsahu a doby, jinak hrozí zrušení.
+
+##### H. Praktický závěr
+
+§ 39c výslovně zakotvuje princip proporcionality jako klíčový ústavní limit krizového řízení: zavazuje všechny orgány a vztahuje se na všechny krizové stavy. Slouží jako vodítko soudního přezkumu (test vhodnosti — nezbytnosti — přiměřenosti); zásah nesmí překročit nezbytnou míru co do rozsahu i doby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je opatření vhodné k dosažení účelu (1. krok testu)?
+- [ ] Je nezbytné (neexistuje šetrnější prostředek — 2. krok)?
+- [ ] Je přiměřené v užším smyslu (3. krok) a nepřekračuje nezbytnou míru co do území a doby?
+- [ ] Je rozsah opatření odborně odůvodněn (důkazní břemeno orgánu)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí s vymezením území a doby, odborné posouzení rozsahu ohrožení, analýza proporcionality, podklady pro soudní přezkum.
 
 ---
 
@@ -1479,6 +3141,42 @@ Tato architektura sleduje princip **subsidiarity vzhůru** — nejnižší úrov
 
 Minimalistický rozsah údajů odpovídá principu minimalizace zpracování osobních údajů podle čl. 5 odst. 1 písm. c) GDPR. Údaje: jméno, příjmení, datum narození, trvalý pobyt, místo přechodné změny pobytu.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Za nouzového stavu byla organizovaně evakuována obec; evakuovaní hlásí přechodnou změnu pobytu. MV jako správce ústřední evidence požaduje po HZS kraje předání dat; HZS je získává od obecního úřadu ORP a ten od obecního úřadu. Dotčená osoba po skončení stavu žádá výmaz svých údajů. Účastníci: MV, HZS kraje, obecní úřady, evakuovaná osoba. Doklady: evidence dle § 39d, hlášení změny pobytu.
+
+**2. Právní otázka.** Jaký je rozsah a architektura zpracování údajů o přechodných změnách pobytu za nouzového stavu a po jakou dobu lze údaje uchovávat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39d (správce MV; rozsah údajů — jméno, příjmení, datum narození, trvalý pobyt, místo přechodné změny; doba zpracování po dobu krizového stavu, a je-li to nezbytné, i po jeho skončení; kaskáda zdrojů obecní úřad → ORP → HZS kraje → MV).
+- *Související ustanovení téhož zákona:* § 6 odst. 2 písm. a) (povinné hlášení), § 31 odst. 3 písm. b) (povinnost FO hlásit), § 39e (stav nebezpečí), § 39f (neduplicita).
+- *Související předpisy:* čl. 5 odst. 1 písm. c) a e) GDPR (minimalizace, omezení uložení); čl. 6 odst. 1 písm. c) a e) GDPR.
+- *Judikatura:* obecná maxima o minimalizaci a účelovém omezení zpracování osobních údajů.
+
+**4. Subsumpce.** § 39d stanoví minimalistický rozsah údajů (pět položek) a dobu zpracování po dobu krizového stavu, a je-li to nezbytné (zejm. k zajištění zájmů subjektů údajů), i po jeho skončení. Kaskáda zdrojů je dána odst. 4–6. Žádost o výmaz po skončení stavu se posuzuje s ohledem na nezbytnost dalšího uchování (např. dohledání osob, ochrana zájmů subjektů).
+
+**5. Řešení.** MV (správce) vede ústřední evidenci agregující data z kaskády; rozsah je omezen na pět položek (odst. 2). Po skončení krizového stavu se údaje zpracovávají jen, je-li to nezbytné (zejm. v zájmu subjektů údajů); jinak se ukončí. Žádost o výmaz se vyřídí podle toho, zda trvá nezbytnost uchování. Riziko: nadměrný rozsah údajů nebo uchování bez nezbytnosti porušuje GDPR (minimalizace, omezení uložení).
+
+**6. Varianty.** (a) Za stavu nebezpečí se vede evidence dle § 39e a při eskalaci na nouzový stav se považuje za evidenci dle § 39d. (b) Lze-li údaj získat z IS veřejné správy, uplatní se neduplicita (§ 39f).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po skončení stavu musí být údaje okamžitě vymazány." — Neutralizace: § 39d odst. 3 připouští zpracování i po skončení stavu, je-li to nezbytné, zejm. k zajištění zájmů subjektů údajů.
+- *Protiargument:* „Lze evidovat libovolné údaje pro účely krize." — Neutralizace: rozsah je taxativně omezen na pět položek (odst. 2) v souladu s minimalizací (GDPR čl. 5).
+- *Slabé místo:* pojem „je-li to nezbytné" pro uchování po skončení stavu je hodnotící; správce musí doložit trvající účel.
+
+##### H. Praktický závěr
+
+§ 39d zřizuje za nouzového stavu a stavu ohrožení státu třístupňovou kaskádu evidence přechodných změn pobytu (obecní úřad → ORP → HZS kraje → MV jako správce) s minimalistickým rozsahem údajů (pět položek) a dobou zpracování po dobu stavu, popř. i po něm, je-li to nezbytné; zákonný titul dává GDPR (čl. 6 odst. 1 písm. c, e).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je rozsah údajů omezen na pět položek (odst. 2)?
+- [ ] Funguje kaskáda zdrojů (obec → ORP → HZS kraje → MV)?
+- [ ] Trvá zpracování po skončení stavu jen, je-li to nezbytné (odst. 3)?
+- [ ] Nelze údaj získat z IS veřejné správy (§ 39f)?
+
+**Typicky rozhodné důkazy / podklady:** evidence přechodných změn pobytu, hlášení změny pobytu, doklad o organizované evakuaci, posouzení nezbytnosti uchování po skončení stavu.
+
 ---
 
 #### § 39e — Evidence údajů o přechodných změnách pobytu (stav nebezpečí)
@@ -1486,6 +3184,42 @@ Minimalistický rozsah údajů odpovídá principu minimalizace zpracování oso
 > **§ 39e** (shrnutí): Paralelní evidence vedená místně příslušným HZS kraje za stavu nebezpečí; struktura zdrojů obdobná § 39d. Pokud následuje vyhlášení nouzového stavu, evidence stavu nebezpečí se ode dne vyhlášení nouzového stavu **považuje za evidenci podle § 39d**.
 
 **Výklad:** § 39e tvoří **dvojče** § 39d pro regionální stav nebezpečí. Klíčové je ustanovení o **bezešvém přechodu** evidence při eskalaci na nouzový stav (odst. 4) — zabraňuje duplicitní práci a zachovává kontinuitu.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Hejtman vyhlásil stav nebezpečí a provedl evakuaci části kraje; HZS kraje vede evidenci přechodných změn pobytu dle § 39e. Po několika dnech vláda vyhlásí nouzový stav. Vzniká otázka, zda je nutné založit novou evidenci dle § 39d, nebo zda dosavadní evidence pokračuje. Účastníci: HZS kraje, MV, evakuované osoby. Doklady: evidence dle § 39e, doklad o eskalaci na nouzový stav.
+
+**2. Právní otázka.** Jak se nakládá s evidencí přechodných změn pobytu vedenou za stavu nebezpečí, dojde-li k eskalaci na nouzový stav?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39e (evidence vedená místně příslušným HZS kraje za stavu nebezpečí; při následném vyhlášení nouzového stavu se evidence ode dne jeho vyhlášení považuje za evidenci dle § 39d).
+- *Související ustanovení téhož zákona:* § 39d (evidence za nouzového stavu), § 3 odst. 5 (eskalace na nouzový stav), § 39f (neduplicita).
+- *Související předpisy:* čl. 5 a čl. 6 odst. 1 písm. c) a e) GDPR.
+- *Judikatura:* obecná maxima o kontinuitě zpracování a zákazu zbytečné duplicity.
+
+**4. Subsumpce.** § 39e zajišťuje bezešvý přechod: evidence vedená za stavu nebezpečí se ode dne vyhlášení nouzového stavu považuje za evidenci dle § 39d. Není tedy třeba zakládat novou evidenci; dosavadní pokračuje pod režimem § 39d. Znak „kontinuita evidence" je naplněn.
+
+**5. Řešení.** HZS kraje pokračuje ve vedení dosavadní evidence, která se od vyhlášení nouzového stavu řídí § 39d (vč. agregace k MV). Duplicitní zakládání nové evidence je vyloučeno. Riziko: zbytečné zdvojení evidencí nebo ztráta kontinuity dat při přechodu; nutné je zachovat integritu a minimalizaci údajů.
+
+**6. Varianty.** (a) Skončí-li stav nebezpečí bez eskalace, údaje se zpracovávají jen, je-li to nezbytné (obdoba § 39d odst. 3). (b) Lze-li údaj získat z IS veřejné správy, uplatní se neduplicita (§ 39f).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Při eskalaci je nutné založit zcela novou evidenci." — Neutralizace: § 39e stanoví, že dosavadní evidence se ode dne vyhlášení nouzového stavu považuje za evidenci dle § 39d; duplicita je vyloučena.
+- *Protiargument:* „Evidence za stavu nebezpečí zaniká skončením tohoto stavu vždy." — Neutralizace: při eskalaci pokračuje pod režimem § 39d; bez eskalace se uchovává jen, je-li to nezbytné.
+- *Slabé místo:* ustanovení je stručné a odkazuje na § 39d; technické zajištění kontinuity dat je provozní výzvou.
+
+##### H. Praktický závěr
+
+§ 39e tvoří dvojče § 39d pro regionální stav nebezpečí (evidenci vede místně příslušný HZS kraje) a zajišťuje bezešvý přechod při eskalaci na nouzový stav: dosavadní evidence se ode dne vyhlášení nouzového stavu považuje za evidenci dle § 39d, čímž se zachovává kontinuita a brání duplicitě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je za stavu nebezpečí vedena evidence místně příslušným HZS kraje (§ 39e)?
+- [ ] Při eskalaci: pokračuje dosavadní evidence v režimu § 39d (bez zakládání nové)?
+- [ ] Je zachována integrita a minimalizace dat při přechodu?
+- [ ] Nelze údaj získat z IS veřejné správy (§ 39f)?
+
+**Typicky rozhodné důkazy / podklady:** evidence dle § 39e, doklad o vyhlášení stavu nebezpečí a následně nouzového stavu, dokumentace kontinuity evidence.
 
 ---
 
@@ -1504,6 +3238,42 @@ Toto ustanovení:
 - Snižuje administrativní zátěž osob;
 - Vede k integraci IS veřejné správy (vazba na § 26 — ISKŘ);
 - Odpovídá obecné zásadě moderní e-Government (zákon č. 12/2020 Sb., o právu na digitální služby).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** HZS kraje při tvorbě krizového plánu vyžaduje po podnikající fyzické osobě údaje o předmětu a rozsahu její činnosti a o sídle, které jsou však veřejně dostupné v živnostenském a obchodním rejstříku a v základních registrech. Podnikatel namítá zbytečnou administrativní zátěž. Účastníci: HZS kraje, podnikatel, správci registrů. Doklady: žádost HZS, výpisy z veřejných registrů.
+
+**2. Právní otázka.** Smí orgán krizového řízení vyžadovat po osobě údaje, které lze získat z informačních systémů veřejné správy nebo z veřejně dostupných zdrojů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39f (oprávnění vyžadovat údaje neplatí, lze-li je získat z informačních systémů veřejné správy nebo veřejně dostupných zdrojů — princip „once only").
+- *Související ustanovení téhož zákona:* § 15 odst. 2 (kategorie vyžadovaných údajů), § 29 odst. 2 (povinnost PO), § 26 (ISKŘ — integrace dat).
+- *Související předpisy:* zákon č. 12/2020 Sb., o právu na digitální služby; zákon č. 111/2009 Sb., o základních registrech.
+- *Judikatura:* obecná maxima o zásadě „once only" a o snižování administrativní zátěže.
+
+**4. Subsumpce.** § 39f zakazuje vyžadovat údaje dostupné z IS veřejné správy nebo veřejných zdrojů. Údaje o předmětu a rozsahu činnosti a o sídle jsou dostupné z živnostenského/obchodního rejstříku a základních registrů → HZS je vyžadovat nesmí. Znak „lze získat z veřejných registrů" je naplněn, čímž oprávnění vyžadovat zaniká.
+
+**5. Řešení.** HZS si dostupné údaje obstará z registrů (vazba na ISKŘ — § 26), nikoli od podnikatele; vyžadovat lze jen údaje, které z veřejných zdrojů získat nelze. Námitka podnikatele je důvodná. Riziko: vyžadování duplicitních údajů je nezákonné a zbytečně zatěžuje osoby; naopak údaje nedostupné z registrů (např. interní výrobní kapacity) osoba poskytnout musí (§ 15 odst. 2).
+
+**6. Varianty.** (a) Údaje nedostupné z veřejných zdrojů (provozní, technické) je osoba povinna poskytnout (§ 29 odst. 2). (b) Jsou-li veřejné údaje neaktuální nebo neúplné, lze v nezbytném rozsahu vyžádat doplnění.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Orgán krizového řízení může pro jistotu vyžadovat vše." — Neutralizace: § 39f vyžadování údajů dostupných z IS veřejné správy nebo veřejných zdrojů zakazuje; jde o závazný princip „once only".
+- *Protiargument:* „Princip neduplicity neplatí v krizovém řízení." — Neutralizace: § 39f je výslovnou součástí krizového zákona; uplatní se i zde, ve vazbě na ISKŘ (§ 26).
+- *Slabé místo:* posouzení, zda je údaj reálně a aktuálně dostupný z registru, může být sporné; při neúplnosti veřejných dat lze doplnění vyžádat.
+
+##### H. Praktický závěr
+
+§ 39f zakotvuje princip „once only": orgány krizového řízení nesmějí vyžadovat údaje, které lze získat z informačních systémů veřejné správy nebo veřejně dostupných zdrojů; tím snižují administrativní zátěž a podporují integraci dat (ISKŘ — § 26). Vyžadovat lze jen údaje odjinud nedostupné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vyžadovaný údaj dostupný z IS veřejné správy nebo veřejných zdrojů? → vyžadovat nelze.
+- [ ] Není-li dostupný (provozní/technický údaj), je osoba povinna jej poskytnout (§ 15 odst. 2, § 29 odst. 2)?
+- [ ] Využívá orgán ISKŘ a registry k získání dostupných údajů (§ 26)?
+- [ ] Jsou veřejné údaje aktuální a úplné (jinak lze vyžádat doplnění)?
+
+**Typicky rozhodné důkazy / podklady:** žádost HZS o údaje, výpisy z veřejných registrů, doklad o (ne)dostupnosti údaje z IS veřejné správy.
 
 ---
 
@@ -1533,6 +3303,42 @@ Zákon zmocňuje k vydání tří kategorií prováděcích předpisů:
 2. **Vyhláška MŠMT** — pro péči o děti ve školských zařízeních. Realizace: dílčí vyhlášky, postupně modifikované.
 3. **Vyhláška Českého báňského úřadu** — pro důlní díla a podzemní objekty. Specifická úprava pro hornictví, vázaná na strategický význam podzemních prostor (krytí, sklad strategických zásob).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad odmítne schválit krizový plán kraje s tím, že nesplňuje obsahové náležitosti; mezi úřady vznikne spor, podle jakého předpisu se náležitosti, členění a způsob zpracování krizových plánů řídí. Souběžně škola řeší, kdo upravuje péči o děti, nemohou-li ji za krize zajistit rodiče. Účastníci: krajský úřad, HZS kraje, škola, MŠMT. Doklady: krizový plán, prováděcí nařízení vlády, vyhláška MŠMT.
+
+**2. Právní otázka.** Které prováděcí předpisy a kdo je vydává upravují náležitosti krizových plánů, složení rad a štábů, režim zvláštních skutečností a péči o děti za krize?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 (nařízení vlády — náležitosti plánů a posouzení rizik, složení rad a štábů, režim zvláštních skutečností), odst. 2 (vyhláška MŠMT — péče o děti), odst. 3 (vyhláška Českého báňského úřadu — důlní díla a podzemní objekty).
+- *Související ustanovení téhož zákona:* § 27 (zvláštní skutečnosti), § 24 a § 24b (rady a štáby), § 29 odst. 1 (plán krizové připravenosti), § 6 odst. 2 písm. f) (péče o děti).
+- *Související předpisy:* nařízení vlády č. 462/2000 Sb. (k provedení § 27 odst. 8 a § 28 odst. 5); čl. 78 a čl. 79 odst. 3 Ústavy (nařízení vlády a vyhlášky).
+- *Judikatura:* obecná maxima o mezích zmocnění k podzákonné normotvorbě (secundum et intra legem).
+
+**4. Subsumpce.** § 40 odst. 1 písm. a) zmocňuje vládu stanovit nařízením náležitosti, členění a způsob zpracování krizových plánů → spor o náležitosti se řeší podle prováděcího nařízení vlády (zejm. nař. vlády č. 462/2000 Sb. v platném znění). Péči o děti upravuje vyhláška MŠMT (odst. 2). Podzákonné předpisy musí zůstat v mezích zmocnění.
+
+**5. Řešení.** Náležitosti krizového plánu kraje se posoudí podle prováděcího nařízení vlády (§ 40 odst. 1 písm. a); úřady musí postupovat dle něj. Péči o děti, nemohou-li ji zajistit rodiče, upravuje vyhláška MŠMT (odst. 2). Báňsko-technické podmínky podzemních objektů řeší vyhláška ČBÚ (odst. 3). Riziko: podzákonný předpis překračující zmocnění by byl v rozsahu excesu neaplikovatelný; absence/zastaralost prováděcího předpisu komplikuje praxi.
+
+**6. Varianty.** (a) Týká-li se věc režimu zvláštních skutečností, uplatní se nařízení vlády dle § 40 odst. 1 písm. c) ve spojení s § 27. (b) Týká-li se podzemních objektů (krytí, sklady), uplatní se vyhláška ČBÚ (odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náležitosti krizových plánů si určuje každý úřad sám." — Neutralizace: § 40 odst. 1 písm. a) svěřuje jejich stanovení nařízení vlády; úřady jsou jím vázány.
+- *Protiargument:* „Prováděcí předpis může upravit cokoli k provedení zákona." — Neutralizace: podzákonná normotvorba je vázána mezemi zmocnění (secundum et intra legem); exces je neaplikovatelný.
+- *Slabé místo:* prováděcí předpisy mohou zaostávat za novelami zákona (nař. vlády č. 462/2000 Sb. je zčásti překonáno); vzniká výkladová mezera mezi zákonem a podzákonnou úpravou.
+
+##### H. Praktický závěr
+
+§ 40 zmocňuje k vydání tří kategorií prováděcích předpisů: nařízení vlády (náležitosti plánů a posouzení rizik, složení rad a štábů, režim zvláštních skutečností — zejm. nař. vlády č. 462/2000 Sb.), vyhláška MŠMT (péče o děti za krize) a vyhláška Českého báňského úřadu (důlní díla a podzemní objekty). Podzákonné předpisy musí zůstat v mezích zmocnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Která kategorie prováděcího předpisu věc upravuje (nařízení vlády / vyhláška MŠMT / vyhláška ČBÚ)?
+- [ ] Posuzují se náležitosti krizových plánů dle nařízení vlády (§ 40 odst. 1 písm. a)?
+- [ ] Zůstává podzákonný předpis v mezích zmocnění (secundum et intra legem)?
+- [ ] Není prováděcí předpis překonán novelou zákona (výkladová mezera)?
+
+**Typicky rozhodné důkazy / podklady:** krizový plán a posouzení jeho náležitostí, příslušné nařízení vlády a vyhlášky, doklad o souladu se zmocněním.
+
 ---
 
 ## ČÁST DRUHÁ — Změna zákona o státní správě ve vodním hospodářství
@@ -1546,6 +3352,41 @@ Zákon zmocňuje k vydání tří kategorií prováděcích předpisů:
 § 41 je **novelizační (přechodné) ustanovení** k zákonu č. 130/1974 Sb., které harmonizovalo povodňovou úpravu s nově zaváděným krizovým řízením. Klíčové: za stavu nebezpečí a nouzového stavu **přecházejí pravomoci povodňových orgánů na krizové orgány**. Toto pravidlo bylo později částečně modifikováno aktuální vodohospodářskou úpravou (zákon č. 254/2001 Sb., vodní zákon, § 73–82), která koexistuje s krizovým zákonem podle integračního principu § 39 odst. 2.
 
 Zákon č. 130/1974 Sb. byl posléze zrušen a nahrazen současným vodním zákonem č. 254/2001 Sb. — § 41 krizového zákona je tak dnes **obsoletní** a má pouze historickou hodnotu jako doklad genealogie české bezpečnostní legislativy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V soudním sporu o pravomoci povodňových orgánů za nouzového stavu jedna strana argumentuje § 41 krizového zákona (přechod pravomocí povodňových orgánů na orgány krizového řízení) a původním zákonem č. 130/1974 Sb. Protistrana namítá, že tento zákon byl zrušen a nahrazen vodním zákonem č. 254/2001 Sb. Účastníci: účastníci řízení, soud. Doklady: znění § 41, zrušený zákon č. 130/1974 Sb., aktuální vodní zákon.
+
+**2. Právní otázka.** Má § 41 krizového zákona (novelizující zrušený zákon č. 130/1974 Sb.) dnes ještě normativní význam, nebo jde o obsoletní ustanovení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 (novelizační/přechodné ustanovení k zákonu č. 130/1974 Sb. — přechod pravomocí povodňových orgánů na orgány krizového řízení za stavu nebezpečí a nouzového stavu).
+- *Související ustanovení téhož zákona:* § 39 odst. 2 (integrace povodňových komisí a krizového štábu — aktuální mechanismus).
+- *Související předpisy:* zákon č. 130/1974 Sb. (zrušen); zákon č. 254/2001 Sb., vodní zákon (§ 73–82 — aktuální úprava povodňové ochrany).
+- *Judikatura:* obecná maxima o aplikaci práva účinného v rozhodné době a o obsoletních novelizačních ustanoveních.
+
+**4. Subsumpce.** § 41 novelizoval zákon č. 130/1974 Sb., který byl zrušen a nahrazen vodním zákonem č. 254/2001 Sb. Novelizační ustanovení po zrušení novelizovaného předpisu pozbývá samostatného normativního významu → § 41 je obsoletní. Aktuálním mechanismem souběhu je § 39 odst. 2 ve spojení s vodním zákonem.
+
+**5. Řešení.** Argumentace § 41 a zákonem č. 130/1974 Sb. je neúčinná; vztah povodňové ochrany a krizového řízení se dnes řídí § 39 odst. 2 krizového zákona a vodním zákonem č. 254/2001 Sb. (integrace povodňové komise a krizového štábu, nedotčené pravomoci komise). § 41 má jen historickou hodnotu. Riziko: opírání nároku o zrušený předpis vede k neúspěchu; nutné je aplikovat aktuální úpravu.
+
+**6. Varianty.** (a) Spor o aktuální pravomoci povodňových orgánů za krizového stavu se řeší dle § 39 odst. 2 a vodního zákona. (b) Jde-li o historické posouzení (rozhodná doba před nahrazením), může mít § 41 výjimečně význam pro intertemporální posouzení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „§ 41 stále zakládá přechod pravomocí povodňových orgánů." — Neutralizace: novelizovaný zákon č. 130/1974 Sb. byl zrušen; § 41 je obsoletní, aktuální je § 39 odst. 2 a vodní zákon.
+- *Protiargument:* „Obsoletní ustanovení je nutno přesto aplikovat, dokud není formálně zrušeno." — Neutralizace: novelizační ustanovení vyčerpalo svůj účel novelou a po zrušení novelizovaného předpisu nemá samostatný normativní obsah.
+- *Slabé místo:* genealogická provázanost předpisů může svádět k argumentaci historickým zněním; rozhodné je právo účinné v rozhodné době.
+
+#### H. Praktický závěr
+
+§ 41 je novelizační (přechodné) ustanovení k dnes zrušenému zákonu č. 130/1974 Sb.; po jeho nahrazení vodním zákonem č. 254/2001 Sb. je obsoletní a má jen historickou hodnotu. Aktuální vztah povodňové ochrany a krizového řízení upravuje § 39 odst. 2 ve spojení s vodním zákonem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je novelizovaný předpis (zák. č. 130/1974 Sb.) stále účinný? (Není — zrušen.)
+- [ ] Řídí se aktuální vztah dle § 39 odst. 2 a vodního zákona č. 254/2001 Sb.?
+- [ ] Nejde o intertemporální posouzení rozhodné doby, kdy mohl § 41 ještě působit?
+
+**Typicky rozhodné důkazy / podklady:** znění § 41, doklad o zrušení zákona č. 130/1974 Sb. a jeho nahrazení vodním zákonem, aktuální úprava povodňové ochrany (§ 73–82 vodního zákona).
 
 ---
 
@@ -1568,6 +3409,42 @@ Podpisy odpovídají institucionálnímu rámci přijetí:
 - **Václav Klaus** — předseda Poslanecké sněmovny;
 - **Václav Havel** — prezident republiky;
 - **Miloš Zeman** — předseda vlády.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení o náhradě škody z krizového opatření vzniká otázka, jaký režim platil v konkrétním období a od kdy je krizový zákon vůbec účinný (např. pro posouzení události těsně po přelomu let 2000/2001). Souběžně je třeba ověřit, kdo zákon podepsal (pro doložení řádného přijetí). Účastníci: účastníci řízení, soud. Doklady: znění § 42, Sbírka zákonů, podpisy ústavních činitelů.
+
+**2. Právní otázka.** Od kdy je krizový zákon účinný a jaký význam mají jeho závěrečné formální náležitosti (datum účinnosti, podpisy) pro aplikaci v čase?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 (účinnost dnem 1. ledna 2001; podpisy Klaus, Havel, Zeman).
+- *Související ustanovení téhož zákona:* celá část první (na niž se účinnost vztahuje), § 39 (souběh s dalšími režimy), přechodová logika k reformě územní správy.
+- *Související předpisy:* ústavní zákon č. 110/1998 Sb.; zákony „bezpečnostního balíčku" (239/2000 Sb., 241/2000 Sb.); zákon č. 320/2002 Sb. (zánik okresních úřadů).
+- *Judikatura:* obecná maxima o aplikaci práva účinného v rozhodné době (zákaz pravé retroaktivity).
+
+**4. Subsumpce.** § 42 stanoví účinnost k 1. 1. 2001. Pro posouzení události je rozhodné právo účinné v době jejího vzniku; na události před 1. 1. 2001 krizový zákon nedopadá (zákaz pravé retroaktivity). Podpisy (předseda PS, prezident, předseda vlády) dokládají řádné ústavní přijetí. Znak „účinnost od 1. 1. 2001" je určující pro intertemporální posouzení.
+
+**5. Řešení.** Na události od 1. 1. 2001 se krizový zákon aplikuje; na dřívější nikoli. Pozdější novely (zejm. 320/2002 Sb. — zánik okresních úřadů, 430/2010 Sb. — kritická infrastruktura, 323/2016 Sb. — kyberbezpečnost, 522/2020 Sb. — zkušenosti COVID-19) se aplikují podle své účinnosti. Podpisy slouží jako doklad řádné legislativní procedury. Riziko: aplikace nesprávného (pozdějšího/dřívějšího) znění na rozhodnou dobu.
+
+**6. Varianty.** (a) Pro událost spadající do období po konkrétní novele se použije znění účinné v rozhodné době. (b) Pro souběh s obranou/válečným stavem se uplatní § 39 odst. 4 a zákon č. 222/1999 Sb.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Krizový zákon lze aplikovat i na události před jeho účinností." — Neutralizace: § 42 stanoví účinnost od 1. 1. 2001; pravá retroaktivita je vyloučena, rozhodné je právo účinné v době události.
+- *Protiargument:* „Pro spor je rozhodné aktuální znění zákona." — Neutralizace: aplikuje se znění účinné v rozhodné době, nikoli nutně aktuální; nutno zohlednit příslušné novely.
+- *Slabé místo:* identifikace přesného znění účinného v rozhodné době (s ohledem na řadu novel) je technicky náročná; chyba vede k aplikaci nesprávného práva.
+
+#### H. Praktický závěr
+
+§ 42 určuje účinnost krizového zákona od 1. ledna 2001 (souběžně s „bezpečnostním balíčkem" a v návaznosti na reformu územní správy) a obsahuje podpisy ústavních činitelů jako doklad řádného přijetí. Pro aplikaci je rozhodné znění účinné v rozhodné době (s ohledem na pozdější novely).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá posuzovaná událost do období od 1. 1. 2001 (jinak zákon nedopadá)?
+- [ ] Které znění zákona bylo účinné v rozhodné době (s ohledem na novely)?
+- [ ] Jde o souběh s obranou/válečným stavem (§ 39 odst. 4, zák. č. 222/1999 Sb.)?
+- [ ] Je doloženo řádné přijetí a publikace zákona?
+
+**Typicky rozhodné důkazy / podklady:** znění § 42 a příslušné novely, Sbírka zákonů, doklad o datu události pro intertemporální posouzení.
 
 ---
 
