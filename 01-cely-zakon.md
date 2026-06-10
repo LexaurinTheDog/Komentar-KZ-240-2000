@@ -384,6 +384,13 @@ Vláda je **ústředním orgánem krizového řízení** s třemi klíčovými s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 132/2021 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/687459) — 11. 2. 2022
+  > „[19] Povaha krizového opatření jako jiného právního předpisu pak předurčuje způsob jeho přezkumu správními soudy. Nelze jej samo o sobě napadnout žádnou z žalob dle soudního řádu správního a jeho přezkumu lze dosáhnout pouze v souvislosti s jeho použitím v individuální věci (incidenčně) a v rámci jiných typů řízení před správními soudy"
+- *NSS* [6 Ao 11/2021 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658756) — 22. 4. 2021
+  > „… během [nouzového stavu] byla vláda oprávněna na nezbytně nutnou dobu a v nezbytně nutném rozsahu omezit svobodu pohybu a pobytu ve vymezeném prostoru [§ 5 písm. c) zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů]. V rámci omezení svobody pohybu a pobytu bylo možno po dobu trvání nouzového stavu za splnění uvedených podmínek omezit rovněž setkávání osob jako takové. Takto široce koncipovanou pravomoc odpůrce však v taxativním [výčtu § 2 odst. 2 pandemického zákona nenalezneme]"
+
 #### Katalog omezitelných základních práv
 
 § 5 je **klíčové ustanovení pro výklad ústavních limitů krizových opatření**. Provádí čl. 6 ústavního zákona č. 110/1998 Sb. (omezení základních práv a svobod za nouzového stavu a stavu ohrožení státu) a tvoří taxativní výčet — krizovým opatřením lze omezit **pouze** uvedená práva, nikoli jiná.
@@ -515,6 +522,11 @@ A contrario: práva, která **nelze omezit ani za nouzového stavu ani za stavu 
 > *(5) Zákazy uložené krizovým opatřením vydaným na základě odstavce 3 se neuplatní, jde-li o obchody České republiky nebo České národní banky. Tyto zákazy se dále neuplatní na držitele zvláštního povolení, které může být vydáno Českou národní bankou pro dobu nouzového stavu z důvodu ohrožení života a zdraví osob a bezpečnosti státu a pro operace, které povedou k prokazatelnému zlepšení stavu platební bilance, a to v rozsahu příslušného povolení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 132/2021 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/687459) — 11. 2. 2022
+  > „[19] Povaha krizového opatření jako jiného právního předpisu pak předurčuje způsob jeho přezkumu správními soudy. Nelze jej samo o sobě napadnout žádnou z žalob dle soudního řádu správního a jeho přezkumu lze dosáhnout pouze v souvislosti s jeho použitím v individuální věci (incidenčně) a v rámci jiných typů řízení před správními soudy"
 
 #### Struktura katalogu krizových opatření
 
@@ -2691,9 +2703,9 @@ Orgán krizového řízení může požadovat **regresní úhradu** od původce 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 1101/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89A1703A6281598AC1258C140052AF59?openDocument) — 13. 11. 2024, kat. A
+- *NS* [30 Cdo 1101/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/89A1703A6281598AC1258C140052AF59?openDocument) — kat. A, 13. 11. 2024
   > „Mimořádná opatření vydaná Ministerstvem zdravotnictví dle § 69 zákona č. 258/2000 Sb., o ochraně veřejného zdraví, v době krizového stavu za účelem řešení krizové situace, příp. odstranění jejích následků, představují krizová opatření vydaná dle § 9 odst. 4 písm. b) zákona č. 240/2000 Sb., krizového zákona, a za škodu způsobenou jejich prováděním odpovídá stát dle § 36 odst. 1 krizového zákona"
-- *NS* [30 Cdo 63/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6C5881E3CF4E95EC1258A74001B849E?openDocument) — 31. 8. 2023, kat. A
+- *NS* [30 Cdo 63/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C6C5881E3CF4E95EC1258A74001B849E?openDocument) — kat. A, 31. 8. 2023
   > „Krizové opatření, jehož předmětem je omezení či zákaz maloobchodního prodeje a které je přijato ve formě usnesení vlády, je ve smyslu § 36 odst. 1 zák. č. 240/2000 Sb. provedeno v okamžiku, kdy nastaly jeho škodu působící účinky, přičemž není právně významné, že se poškozený omezení stanovenému krizovým opatřením podrobil dobrovolně"
 
 #### Objektivní odpovědnost státu za škodu z krizových opatření
