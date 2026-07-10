@@ -26,3 +26,7 @@
 ## Klíčová judikatura
 - **Pl.ÚS 8/20** — nouzový stav COVID-19
 - **Pl.ÚS 106/20** — krizová opatření
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
