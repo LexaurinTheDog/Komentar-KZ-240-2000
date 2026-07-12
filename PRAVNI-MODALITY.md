@@ -131,3 +131,134 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | jmenuje; uloží; vydá; orgán může | [§ 21](https://e-sbirka.gov.cz/sb/2000/240#par_21); [§ 29](https://e-sbirka.gov.cz/sb/2000/240#par_29); [§ 31](https://e-sbirka.gov.cz/sb/2000/240#par_31); [§ 32](https://e-sbirka.gov.cz/sb/2000/240#par_32) |
 | Oprávnění a povinnost | povinnost; jsou povinny; je oprávněna; je oprávněn | [§ 2](https://e-sbirka.gov.cz/sb/2000/240#par_2); [§ 6](https://e-sbirka.gov.cz/sb/2000/240#par_6); [§ 15](https://e-sbirka.gov.cz/sb/2000/240#par_15); [§ 21](https://e-sbirka.gov.cz/sb/2000/240#par_21) |
 | Domněnky, fikce a účinkové konstrukce | považuje se za | [§ 29](https://e-sbirka.gov.cz/sb/2000/240#par_29) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 240/2000 Sb., krizový zákon (KZ) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují, jakým způsobem norma spojuje s určitým jednáním deontický operátor: co je přikázáno, zakázáno nebo dovoleno. Nauka rozlišuje **objektivní modality** — vlastnosti normy jako obecného pravidla — a **subjektivní modality** — právní postavení konkrétního subjektu. K objektivním modalitám patří **příkaz** (norma ukládá konat), **zákaz** (norma ukládá zdržet se) a **dovolení** (norma jednání umožňuje, aniž je přikazuje či zakazuje). Zvláštní skupinu tvoří **zmocnění** — kompetenční normy, které nezavazují k chování, nýbrž zakládají pravomoc orgánu vydat další akt (nařízení, rozhodnutí, vyhlášení stavu). Zmocnění je typicky formulováno bezpříznakovým oznamovacím způsobem („vláda stanoví", „hejtman vyhlašuje"), který v kontextu kompetenční normy nese normativní náboj oprávnění i povinnosti pravomoc vykonat.
+
+**Subjektivní modality** stojí na korelativitě: subjektivnímu **oprávnění** (právu) jednoho subjektu odpovídá **povinnost** subjektu druhého a naopak. Krizový zákon je učebnicovým příkladem tohoto páru — právu fyzické osoby na informace (§ 31 odst. 1) odpovídají informační povinnosti orgánů; nucené povinnosti poskytnout věcný prostředek či vykonat pracovní povinnost (§ 29) koreluje oprávnění na peněžní náhradu (§ 35) a povinnost státu nahradit škodu (§ 36). Právě proto se v členění níže oprávnění a povinnost pojednávají společně.
+
+Z hlediska **normativních výrazů** krizový zákon střídá výslovné deontické formule („je povinen", „má právo", „lze omezit", „nelze vyhlásit") s bezpříznakovým oznamovacím způsobem, jenž je v kontextu kompetenčních norem nutno číst jako příkaz či zmocnění („vyhlašuje", „stanoví nařízením", „vyhlašují se stejně jako zákon"). Výklad modality proto nesmí ustrnout na gramatickém tvaru slovesa, ale musí zohlednit systematické zařazení ustanovení.
+
+**Domněnky a fikce** představují zvláštní legislativní techniku. Domněnka (praesumptio) váže k prokázané skutečnosti závěr o skutečnosti jiné; je-li vyvratitelná, přesouvá důkazní břemeno, je-li nevyvratitelná, závěr nepřipouští protidůkaz. Fikce (fictio) naopak výslovně ztotožňuje dvě různé skutečnosti („považuje se za"), ačkoli se ve skutečnosti neshodují, a slouží k přenesení právního režimu z jedné situace na druhou. Krizový zákon užívá fikci v § 29 odst. 6, kde výkon pracovní povinnosti „považuje za" jiný úkon v obecném zájmu, čímž překlenuje krizovou povinnost do pracovněprávního režimu.
+
+### Příkaz
+
+Příkazová modalita ukládá adresátovi povinnost konat. V krizovém zákoně se objevuje jak ve výslovné podobě formulačního imperativu, tak — a to je pro předpis charakteristické — v bezpříznakovém oznamovacím způsobu, jenž adresuje orgánům veřejné moci závazné pravidlo postupu. Typickým příkladem je § 8, který určuje formu a způsob publikace krizových opatření vlády tím, že se „vyhlašují se stejně jako zákon"; jde o příkaz adresovaný normotvůrci i orgánu publikace, jehož nesplnění by mělo za následek vadu právního aktu.
+
+Zvláštní postavení má § 39c, který výslovně zakotvuje **princip proporcionality** jako příkaz obrácený ke všem orgánům krizového řízení: postupovat tak, aby zásah do práv a svobod nepřekročil nezbytnou míru. Tímto ustanovením zákonodárce převedl ústavní test přiměřenosti do roviny výslovné zákonné povinnosti a poskytl soudům přímé vodítko přezkumu krizových opatření.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 8 | vyhlašují se stejně jako zákon | „Rozhodnutí o krizových opatřeních uvedených v § 6 odst. 1 až 3 a v § 7 se zveřejňují v hromadných informačních prostředcích a vyhlašují se stejně jako zákon." | Určuje formu a způsob publikace krizových opatření vlády, čímž je řadí mezi jiné právní předpisy přezkoumatelné Ústavním soudem. |
+| § 39c | postupují tak, aby nepřekročil nezbytnou míru | „Orgány krizového řízení při řešení krizové situace postupují tak, aby případný zásah do práv a svobod osob nepřekročil nezbytnou míru." | Výslovné legislativní zakotvení principu proporcionality zavazující všechny orgány krizového řízení ve všech krizových stavech; vodítko soudního přezkumu. |
+
+Právě povaha krizového opatření jako „jiného právního předpisu", jehož forma je předepsána § 8, předurčuje způsob jeho soudního přezkumu:
+
+- *NSS* [3 As 132/2021 - 25](judikatura/NSS-3-As-132-2021-25.md) — rozsudek, 11. 2. 2022; povaha a přezkum krizového opatření (§ 5, § 6, § 8)
+  > „[19] Povaha krizového opatření jako jiného právního předpisu pak předurčuje způsob jeho přezkumu správními soudy. Nelze jej samo o sobě napadnout žádnou z žalob dle soudního řádu správního a jeho přezkumu lze dosáhnout pouze v souvislosti s jeho použitím v individuální věci (incidenčně) a v rámci jiných typů řízení před správními soudy"
+
+### Zákaz
+
+Zákazová modalita ukládá zdržet se určitého jednání. V krizovém zákoně má jeden z nejvýznamnějších zákazů podobu **negativní kompetenční pojistky**: § 3 odst. 7 stanoví, že stav nebezpečí „nelze vyhlásit" z důvodu stávky vedené na ochranu práv a oprávněných hospodářských a sociálních zájmů. Jde o zákaz adresovaný orgánu s vyhlašovací pravomocí (hejtmanovi, primátorovi), jenž brání zneužití krizového institutu proti zákonné stávce a reflektuje čl. 27 odst. 4 Listiny.
+
+Formulace „nelze vyhlásit" je klasickým normativním výrazem zákazu obráceného k nositeli pravomoci: nikoli zákaz chování soukromé osoby, nýbrž zákaz výkonu veřejné moci za daným účelem. Tím se § 3 odst. 7 řadí mezi mezní ustanovení chránící kolektivní pracovní práva i v režimu mimořádných stavů.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 7 | nelze vyhlásit | „Stav nebezpečí nelze vyhlásit z důvodu stávky vedené na ochranu práv a oprávněných hospodářských a sociálních zájmů." | Pojistka ochrany kolektivního pracovního práva zakazující zneužití krizového stavu proti zákonné stávce (reflexe čl. 27 odst. 4 Listiny). |
+
+### Dovolení
+
+Dovolovací modalita jednání umožňuje, aniž je přikazuje nebo zakazuje. V krizovém zákoně má dovolení podobu **oprávnění veřejné moci zasáhnout do práv jednotlivce** — nikoli tedy dovolení chování soukromé osoby, nýbrž zmocnění orgánu učinit za mimořádných podmínek to, co by jinak bylo nepřípustné. Klíčové je § 5, jenž taxativním katalogem vymezuje základní práva, která „lze omezit" za nouzového stavu nebo za stavu ohrožení státu, a § 6 odst. 1, podle nějž je vláda „oprávněna nařídit" operativní krizová opatření.
+
+Charakteristické jsou u obou ustanovení vestavěné limity — „na nezbytně nutnou dobu a v nezbytně nutném rozsahu" — které dovolení podmiňují a činí z něj dovolení přiměřené. Dovolovací modalita je proto vždy vázána na test proporcionality (viz § 39c) a na existenci vyhlášeného krizového stavu; mimo něj vláda tuto pravomoc nemá.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 | lze omezit | „Za nouzového stavu nebo za stavu ohrožení státu lze na nezbytně nutnou dobu a v nezbytně nutném rozsahu omezit" | Taxativní katalog základních práv, která je za mimořádných stavů dovoleno omezit; klíčový ústavní limit krizových opatření. |
+| § 6 odst. 1 | je oprávněna nařídit | „Vláda je oprávněna v době trvání nouzového stavu na nezbytně nutnou dobu a v nezbytně nutném rozsahu nařídit" | Zakládá pravomoc vlády nařídit za nouzového stavu operativní krizová opatření z taxativního katalogu (evakuace, pracovní povinnost aj.). |
+
+Rozsah dovolené ingerence za nouzového stavu vymezuje judikatura komparací s užšími pravomocemi podle jiných předpisů:
+
+- *NSS* [6 Ao 11/2021 - 48](judikatura/NSS-6-Ao-11-2021-48.md) — rozsudek, 22. 4. 2021; rozsah pravomoci vlády podle § 5 za nouzového stavu
+  > „[41] Odůvodněnost přijetí užšího výkladu pojmu „veřejné a soukromé akce" vynikne rovněž na základě provedené komparace s právní úpravou nouzového stavu, během kterého byla vláda oprávněna na nezbytně nutnou dobu a v nezbytně nutném rozsahu omezit svobodu pohybu a pobytu ve vymezeném prostoru [§ 5 písm. c) zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů]"
+- *NSS* [5 As 2/2022 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/704879) — rozsudek, 21. 10. 2022; obsah dovolení podle § 6 odst. 1 písm. b)
+  > „[23] Nejvyšší správní soud konstatuje, že podle § 6 odst. 1 písm. b) zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů, je vláda „oprávněna v době trvání nouzového stavu na nezbytně nutnou dobu a v nezbytně nutném rozsahu nařídit zákaz vstupu, pobytu a pohybu osob""
+
+### Zmocnění
+
+Zmocnění je kompetenční norma, která nezavazuje k určitému chování, nýbrž zakládá pravomoc orgánu vydat další právní akt. V krizovém zákoně je zmocnění formulováno bezpříznakovým oznamovacím způsobem, jehož normativní obsah lze rozpoznat teprve ze systematiky ustanovení. Vertikálně předpis rozvrstvuje zmocnění podle úrovně krizového stavu: **regionální** stav nebezpečí „vyhlašuje" hejtman kraje, v Praze primátor (§ 3 odst. 3), zatímco na celostátní úrovni operuje vláda.
+
+Zvláštní kategorii tvoří **normotvorné zmocnění** v § 40 odst. 1, kterým vláda „stanoví nařízením" prováděcí úpravu — náležitosti krizových plánů, složení rad a štábů a režim zvláštních skutečností. Toto zmocnění je typickým delegačním ustanovením zakládajícím pravomoc k vydání sekundárního předpisu; jeho meze určuje samotný text zmocnění a ústavní zákaz překročení zákonného rámce.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 3 | vyhlašuje | „Stav nebezpečí pro území kraje nebo jeho část vyhlašuje hejtman kraje, v Praze primátor hlavního města Prahy" | Kompetenční norma svěřující hejtmanovi (primátorovi) pravomoc vyhlásit regionální krizový stav — stav nebezpečí. |
+| § 40 odst. 1 | stanoví nařízením | „Vláda stanoví nařízením" | Kompetenční zmocnění vlády k vydání prováděcího nařízení upravujícího náležitosti krizových plánů, složení rad a štábů a režim zvláštních skutečností. |
+
+Kompetenční (zmocňovací) povahu ustanovení krizového zákona zdůrazňuje i judikatura k určování prvků kritické infrastruktury:
+
+- *NSS* [10 A 12/2023 - 266](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769984) — rozsudek, 22. 1. 2026; zmocnění vlády podle § 4 odst. 1 písm. e)
+  > „K rozhodování o prvcích kritické infrastruktury, jejichž provozovatelem je organizační složka státu, zmocňuje vládu § 4 odst. 1 písm. e) zákona č. 240/2000 Sb., o krizovém řízení"
+
+### Oprávnění a povinnost
+
+Subjektivní oprávnění a povinnost tvoří korelativní pár: jednomu subjektu svědčí právo, druhému odpovídá povinnost. Krizový zákon tuto korelativitu rozvíjí v celém systému nucených zásahů a jejich kompenzace. Na straně **povinnosti** stojí věcná povinnost právnických a podnikajících fyzických osob „poskytnout věcné prostředky" na výzvu oprávněného orgánu (§ 29 odst. 3) a — jako vyvrcholení odpovědnostního řetězce — objektivní **povinnost státu** „nahradit škodu" způsobenou krizovými opatřeními a cvičeními (§ 36 odst. 1).
+
+Na straně **oprávnění** zákon zakládá subjektivní právo fyzické osoby, která „má právo" na nezbytné informace o připravovaných krizových opatřeních k ochraně jejího života, zdraví a majetku (§ 31 odst. 1). Kompenzačním oprávněním je nárok, podle nějž za omezení práva, poskytnutí věcného prostředku či výkon pracovní povinnosti „náleží peněžní náhrada" (§ 35 odst. 1) — provedení ústavní garance čl. 11 odst. 4 Listiny.
+
+Právě propojení povinnosti strpět (§ 31 odst. 3), práva na náhradu (§ 35) a odpovědnosti státu (§ 36) tvoří jádro rovnováhy mezi veřejným zájmem na zvládnutí krize a ochranou jednotlivce. Objektivní odpovědnost státu podle § 36 je koncipována přísně: liberace přichází v úvahu jen při vlastním zavinění poškozeného.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 29 odst. 3 | jsou povinny poskytnout | „Právnické osoby a podnikající fyzické osoby jsou povinny poskytnout věcné prostředky potřebné k řešení krizové situace na výzvu oprávněného orgánu krizového řízení" | Zakládá věcnou povinnost podnikatelských subjektů poskytnout prostředky k řešení krize, s pojistkou ochrany základní služby kritické infrastruktury. |
+| § 36 odst. 1 | je povinen nahradit | „Stát je povinen nahradit škodu způsobenou právnickým a fyzickým osobám v příčinné souvislosti s krizovými opatřeními a cvičeními prováděnými podle tohoto zákona." | Zakládá objektivní odpovědnost státu za škodu z krizových opatření s liberací jen při vlastním zavinění poškozeného. |
+| § 31 odst. 1 | má právo | „Fyzická osoba pobývající na území České republiky má právo na nezbytné informace o připravovaných krizových opatřeních k ochraně jejího života, zdraví a majetku." | Subjektivní právo jednotlivce na krizové informace, korespondující s informačními povinnostmi obcí, HZS a médií (systém varování obyvatelstva). |
+| § 35 odst. 1 | náleží peněžní náhrada | „Za omezení vlastnického nebo užívacího práva, poskytnutí věcného prostředku, vykonání pracovní povinnosti nebo pracovní výpomoci náleží právnické nebo fyzické osobě peněžní náhrada." | Provádí ústavní garanci náhrady za nucené omezení vlastnictví (čl. 11 odst. 4 Listiny), zakládá nárok osoby na peněžní náhradu. |
+
+Korelativní povinnost jednotlivce strpět omezení a navazující odpovědnost státu ilustruje judikatura:
+
+- *NSS* [16 Kss 4/2021 - 274](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716145) — rozhodnutí, 17. 10. 2023; povinnost fyzické osoby strpět omezení (§ 31 odst. 3)
+  > „Podle § 31 odst. 3 písm. c) zákona č. 240/2000 Sb., o krizovém řízení, je fyzická osoba v době krizového stavu povinna strpět omezení vyplývající z krizových opatření stanovených v době krizového stavu"
+- *NS* [30 Cdo 63/2023](judikatura/NS-30-Cdo-63-2023.md) — rozsudek, 31. 8. 2023; okamžik provedení krizového opatření pro účely náhrady škody (§ 36 odst. 1)
+  > „Krizové opatření, jehož předmětem je omezení či zákaz maloobchodního prodeje a které je přijato ve formě usnesení vlády, je ve smyslu § 36 odst. 1 zák. č. 240/2000 Sb. provedeno v okamžiku, kdy nastaly jeho škodu působící účinky, přičemž není právně významné, že se poškozený omezení stanovenému krizovým opatřením podrobil dobrovolně"
+- *NS* [30 Cdo 1101/2024](judikatura/NS-30-Cdo-1101-2024.md) — rozsudek, 13. 11. 2024; rozsah odpovědnosti státu za škodu podle § 36 odst. 1
+  > „Mimořádná opatření vydaná Ministerstvem zdravotnictví dle § 69 zákona č. 258/2000 Sb., o ochraně veřejného zdraví, v době krizového stavu za účelem řešení krizové situace, příp. odstranění jejích následků, představují krizová opatření vydaná dle § 9 odst. 4 písm. b) zákona č. 240/2000 Sb., krizového zákona, a za škodu způsobenou jejich prováděním odpovídá stát dle § 36 odst. 1 krizového zákona"
+
+### Domněnky a fikce
+
+Krizový zákon užívá právní **fikci** v § 29 odst. 6: výkon uložené pracovní povinnosti a pracovní výpomoci „se považuje za" jiný úkon v obecném zájmu. Fikce zde ztotožňuje dvě různé skutečnosti — plnění nucené krizové povinnosti na jedné straně a dobrovolný úkon v obecném zájmu podle pracovního práva na straně druhé — aby přenesla na krizovou povinnost pracovněprávní režim jiného úkonu v obecném zájmu (náhrada platu, refundace zaměstnavateli). Výraz „se považuje za" je klasickým jazykovým znakem fikce, odlišujícím ji od domněnky, kde je závěr odvozen z jiné prokázané skutečnosti a případně vyvratitelný.
+
+Význam fikce spočívá v tom, že bez ní by osoba plnící pracovní povinnost neměla oporu v pracovněprávních institutech; fikce tak zajišťuje kontinuitu ochrany zaměstnance i v mimořádném režimu a napojuje krizovou povinnost na existující náhradový mechanismus.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 29 odst. 6 | se považuje za | „Výkon uložené pracovní povinnosti a pracovní výpomoci se považuje za jiný úkon v obecném zájmu" | Právní fikce překlenující krizovou povinnost do pracovněprávního režimu jiného úkonu v obecném zájmu (náhrada platu, refundace zaměstnavateli). |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Jednotlivé modality se v krizovém zákoně neuplatňují izolovaně, nýbrž se v klíčových institutech vzájemně podmiňují a řetězí. Nejnázornější je **institut mimořádných zásahů za nouzového stavu**: vyhlášení stavu je otázkou **zmocnění** (§ 3 odst. 3 pro stav nebezpečí; na celostátní úrovni operuje vláda), rozsah přípustného zásahu vymezuje **dovolení** (§ 5 „lze omezit", § 6 odst. 1 „je oprávněna nařídit"), forma a publikace výsledného aktu podléhá **příkazu** (§ 8 „vyhlašují se stejně jako zákon") a celý postup je zastřešen průřezovým **příkazem proporcionality** (§ 39c „nepřekročil nezbytnou míru"). Meze zmocnění přitom vytyčuje i **zákaz** v § 3 odst. 7 („nelze vyhlásit" pro stávku).
+
+Druhým integrujícím institutem je **nucený zásah do majetkové a osobní sféry a jeho kompenzace**. Zde na **povinnost** soukromého subjektu poskytnout věcný prostředek (§ 29 odst. 3 „jsou povinny poskytnout") a povinnost strpět omezení (§ 31 odst. 3) navazuje kompenzační **oprávnění** na peněžní náhradu (§ 35 odst. 1 „náleží peněžní náhrada") a vrcholová **povinnost** státu nahradit škodu (§ 36 odst. 1 „je povinen nahradit"). Do tohoto řetězce vstupuje **fikce** § 29 odst. 6 („se považuje za"), která pracovní povinnost napojuje na pracovněprávní náhradový režim, a **oprávnění** jednotlivce na informace (§ 31 odst. 1 „má právo"), jež má nucené zásahy předjímat a zmírnit.
+
+Klíčovým pojítkem obou institutů je povaha krizového opatření jako „jiného právního předpisu" — z ní plyne jak režim publikace (§ 8), tak režim soudního přezkumu i odpovědnosti státu za škodu (§ 36). Judikatura k § 5, § 6 a § 36 tuto systémovou souvislost potvrzuje.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | „vyhlašují se stejně jako zákon"; „nepřekročil nezbytnou míru" | § 8 (forma a publikace); § 39c (princip přiměřenosti) |
+| Zákaz | „nelze vyhlásit" | § 3 odst. 7 (stav nebezpečí a stávka) |
+| Dovolení | „lze omezit"; „je oprávněna nařídit" | § 5 (omezení základních práv); § 6 odst. 1 (krizová opatření vlády) |
+| Zmocnění | „vyhlašuje"; „stanoví nařízením" | § 3 odst. 3 (stav nebezpečí); § 40 odst. 1 (zmocňovací ustanovení) |
+| Oprávnění | „má právo"; „náleží peněžní náhrada" | § 31 odst. 1 (právo na informace); § 35 odst. 1 (peněžní náhrada) |
+| Povinnost | „jsou povinny poskytnout"; „je povinen nahradit" | § 29 odst. 3 (věcné prostředky); § 36 odst. 1 (náhrada škody) |
+| Domněnka / fikce | „se považuje za" | § 29 odst. 6 (pracovní povinnost jako úkon v obecném zájmu) |
