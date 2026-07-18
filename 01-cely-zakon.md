@@ -3402,6 +3402,68 @@ Zákon č. 130/1974 Sb. byl posléze zrušen a nahrazen současným vodním zák
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cdb1ca13d547beabdf68 generator=2026-07-17.4 source_sha256=f0784d285a90021f18694bd5ec84813f61970bba8944b797312ed89a19f71bd3 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/240-2000 Zákon o krizovém řízení a o změně některých zákonů (krizový zákon).md`; identifikátor verze: `SB-2000-00240_2025-08-19`; SHA-256: `f0784d285a90021f18694bd5ec84813f61970bba8944b797312ed89a19f71bd3`.
+
+##### Znění ustanovení
+
+> [[Zákon č. 130/1974 Sb., o státní správě ve vodním hospodářství|Zákon č. 130/1974 Sb., o státní správě ve vodním hospodářství]], ve znění [[zákona č. 49/1982 Sb|zákona č. 49/1982 Sb.]], [[zákona č. 425/1990 Sb|zákona č. 425/1990 Sb.]], [[zákona č. 23/1992 Sb|zákona č. 23/1992 Sb.]], [[zákona č. 114/1995 Sb|zákona č. 114/1995 Sb.]] a [[zákona č. 238/1999 Sb|zákona č. 238/1999 Sb.]], se mění takto:
+>
+> - 1. V § 18 odst. 2 se doplňuje věta druhá, která včetně poznámky pod čarou č. 13) zní: „Oprávnění a povinnosti povodňových orgánů v případě vyhlášení stavu nebezpečí a nouzového stavu přecházejí na orgány krizového řízení podle zvláštního právního předpisu.13)
+>
+> 13) Zákon č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon).“.
+>
+> - 2. V § 18 odst. 4 se za větu první vkládá nová věta, která zní: „Předsedou povodňové komise je starosta obce.“.
+>
+> - 3. V § 18 odst. 5 se věta druhá nahrazuje větou: „Předsedou povodňové komise je přednosta okresního úřadu.“.
+>
+> - 4. V § 18 odst. 6 se za větu první vkládá nová věta, která zní: „Předsedou povodňové komise je ředitel krajského úřadu určený ministerstvem v dohodě s Ministerstvem vnitra.“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18
+
+##### Souvisící předpisy
+
+- zákon č. 130/1974 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 49/1982 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 425/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 23/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 114/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 238/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 240/2000 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdb1ca13d547beabdf68 -->
+
 ## ČÁST TŘETÍ — Účinnost
 
 ### § 42
@@ -3459,6 +3521,52 @@ Podpisy odpovídají institucionálnímu rámci přijetí:
 **Typicky rozhodné důkazy / podklady:** znění § 42 a příslušné novely, Sbírka zákonů, doklad o datu události pro intertemporální posouzení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=baf294a9d44623aa01a5 generator=2026-07-17.4 source_sha256=f0784d285a90021f18694bd5ec84813f61970bba8944b797312ed89a19f71bd3 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 19. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/240-2000 Zákon o krizovém řízení a o změně některých zákonů (krizový zákon).md`; identifikátor verze: `SB-2000-00240_2025-08-19`; SHA-256: `f0784d285a90021f18694bd5ec84813f61970bba8944b797312ed89a19f71bd3`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2001.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=baf294a9d44623aa01a5 -->
 
 ## Závěrečná syntéza
 
